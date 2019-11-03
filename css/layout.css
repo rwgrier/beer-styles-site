@@ -42,30 +42,12 @@ img.is-center {
 	border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
-/* 
-.mycntdwn {
-	background: rgba(23, 123, 252, 0.25)	
-}
-
-.showers {
-	background: RGBA(221, 190, 72, 0.25)
-}
-
-.markitup {
-	background: rgba(30, 153, 77, 0.25)
-}
-
-.mycntdwnhd {
-	background: rgba(255, 247, 190, 0.25);
-}
-
-.dsstorecleaner {
-	background: rgba(179, 225, 245, .25)
-}
- */
-
 .app-icon {
 
+}
+
+:root{
+	color-scheme:light dark
 }
 
 body {
@@ -73,6 +55,28 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+	body {
+		color: #807372;
+	}
+	
+	a {
+		color: #DDD;
+	}
+	
+	.footer {
+		color: #DDD;
+	}
+
+	.footer a {
+		color: #DDD;
+	}
+
+	.app-desc {
+		color: #DDD;
+	}
 }
 
 /** Tablet **/
