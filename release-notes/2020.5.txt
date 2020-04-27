@@ -1,0 +1,12 @@
+Beer Style Guidelines 2020.5
+
+Added: 
+- Brewers Association 2020 Beer Style Guidelines
+
+Removed
+- Brewers Association 2016 Beer Style Guidelines
+- Brewers Association 2017 Beer Style Guidelines
+
+Fixed a display issue with the cells on the list view. They were being truncated at one line. 
+Fixed an issue where the Home Screen Quick Actions weren't updating. 
+This field is required.
