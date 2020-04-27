@@ -1,3 +1,5 @@
 Beer Style Guidelines 2020.4
 
-Fixing the style guide selection button. I broke that accidentally. _facepalm_ (release notes don't allow for emoji). Sorry about that. 
+Fixed: 
+
+- Fixing the style guide selection button. I broke that accidentally. _facepalm_ (release notes don't allow for emoji). Sorry about that. 
