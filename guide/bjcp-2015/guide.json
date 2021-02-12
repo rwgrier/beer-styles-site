@@ -1,0 +1,2497 @@
+{
+  "chapters": [
+    {
+      "index": "I",
+      "name": "Introduction to the 2015 Guidelines",
+      "sections": [
+        {
+          "filename": "intro_1",
+          "identifier": "bjcp_2015_intro",
+          "name": "2015 Guidelines Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_2",
+          "identifier": "bjcp_2015_intro_2",
+          "name": "Styles and Categories",
+          "searchable": false
+        },
+        {
+          "filename": "intro_3",
+          "identifier": "bjcp_2015_intro_3",
+          "name": "Naming of Styles and Categories",
+          "searchable": false
+        },
+        {
+          "filename": "intro_4",
+          "identifier": "bjcp_2015_intro_4",
+          "name": "Using the Style Guidelines",
+          "searchable": false
+        },
+        {
+          "filename": "intro_5",
+          "identifier": "bjcp_2015_intro_5",
+          "name": "Format of a Style Description",
+          "searchable": false
+        },
+        {
+          "filename": "intro_6",
+          "identifier": "bjcp_2015_intro_6",
+          "name": "Style Description Language",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "I",
+      "name": "Introduction to Beer Styles",
+      "sections": [
+        {
+          "filename": "styles_1",
+          "identifier": "bjcp_2015_styles",
+          "name": "Beer Styles Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "styles_2",
+          "identifier": "bjcp_2015_styles_2",
+          "name": "Basic Categorization",
+          "searchable": false
+        },
+        {
+          "filename": "styles_3",
+          "identifier": "bjcp_2015_styles_3",
+          "name": "Common Attributes of All Beer Styles",
+          "searchable": false
+        },
+        {
+          "filename": "styles_4",
+          "identifier": "bjcp_2015_styles_4",
+          "name": "Glossary",
+          "searchable": false
+        },
+        {
+          "filename": "styles_5",
+          "identifier": "bjcp_2015_styles_5",
+          "name": "Color Reference",
+          "searchable": false
+        },
+        {
+          "filename": "styles_6",
+          "identifier": "bjcp_2015_styles_6",
+          "name": "Style Organization",
+          "searchable": false
+        },
+        {
+          "filename": "styles_7",
+          "identifier": "bjcp_2015_styles_7",
+          "name": "Style Tag Reference",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "1",
+      "name": "1 Standard American Beer",
+      "sections": [
+        {
+          "filename": "1_intro",
+          "identifier": "bjcp_2015_1_intro",
+          "name": "Standard American Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Highly carbonated, very light-bodied, nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst quenching.",
+          "filename": "1A",
+          "identifier": "bjcp_2015_1a",
+          "name": "1A American Light Lager",
+          "search-title": "BJCP 2015: American Light Lager",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "north-america",
+            "traditional-style",
+            "pale-lager-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A very pale, highly-carbonated, light-bodied, well-attenuated lager with a very neutral flavor profile and low bitterness. Served very cold, it can be a very refreshing and thirst quenching drink.",
+          "filename": "1B",
+          "identifier": "bjcp_2015_1b",
+          "name": "1B American Lager",
+          "search-title": "BJCP 2015: American Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "north-america",
+            "traditional-style",
+            "pale-lager-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A clean, well-attenuated, flavorful American “lawnmower” beer. Easily drinkable and refreshing, with more character than typical American lagers.",
+          "filename": "1C",
+          "identifier": "bjcp_2015_1c",
+          "name": "1C Cream Ale",
+          "search-title": "BJCP 2015: Cream Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "any-fermentation",
+            "north-america",
+            "traditional-style",
+            "pale-ale-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "Refreshing wheat beers that can display more hop character and less yeast character than their German cousins. A clean fermentation character allows bready, doughy, or grainy wheat flavors to be complemented by hop flavor and bitterness rather than yeast qualities.",
+          "filename": "1D",
+          "identifier": "bjcp_2015_1d",
+          "name": "1D American Wheat Beer",
+          "search-title": "BJCP 2015: American Wheat Beer",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "any-fermentation",
+            "north-america",
+            "craft-style",
+            "wheat-beer-family",
+            "balanced"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "2",
+      "name": "2 International Lager",
+      "sections": [
+        {
+          "filename": "2_intro",
+          "identifier": "bjcp_2015_2_intro",
+          "name": "International Lager Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A highly-attenuated pale lager without strong flavors, typically well-balanced and highly carbonated. Served cold, it is refreshing and thirst-quenching.",
+          "filename": "2A",
+          "identifier": "bjcp_2015_2a",
+          "name": "2A International Pale Lager",
+          "search-title": "BJCP 2015: International Pale Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "traditional-style",
+            "pale-lager-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A well-attenuated malty amber lager with an interesting caramel or toast quality and restrained bitterness. Usually fairly well-attenuated, often with an adjunct quality. Smooth, easily-drinkable lager character.",
+          "filename": "2B",
+          "identifier": "bjcp_2015_2b",
+          "name": "2B International Amber Lager",
+          "search-title": "BJCP 2015: International Amber Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "traditional-style",
+            "amber-lager-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A darker and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance.",
+          "filename": "2C",
+          "identifier": "bjcp_2015_2c",
+          "name": "2C International Dark Lager",
+          "search-title": "BJCP 2015: International Dark Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "bottom-fermented",
+            "lagered",
+            "traditional-style",
+            "dark-lager-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "3",
+      "name": "3 Czech Lager",
+      "sections": [
+        {
+          "filename": "3_intro",
+          "identifier": "bjcp_2015_3_intro",
+          "name": "Czech Lager Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A lighter-bodied, rich, refreshing, hoppy, bitter pale Czech lager having the familiar flavors of the stronger Czech Premium Pale Lager (Pilsner-type) beer but in a lower alcohol, lighter-bodied, and slightly less intense format.",
+          "filename": "3A",
+          "identifier": "bjcp_2015_3a",
+          "name": "3A Czech Pale Lager",
+          "search-title": "BJCP 2015: Czech Pale Lager",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pale-lager-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "Rich, characterful, pale Czech lager, with considerable malt and hop character and a long, rounded finish. Complex yet well-balanced and refreshing. The malt flavors are complex for a Pilsner-type beer, and the bitterness is strong but clean and without harshness, which gives a rounded impression that enhances drinkability.",
+          "filename": "3B",
+          "identifier": "bjcp_2015_3b",
+          "name": "3B Czech Premium Pale Lager",
+          "search-title": "BJCP 2015: Czech Premium Pale Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pilsner-family",
+            "balanced",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "Malt-driven amber Czech lager with hop character that can vary from low to quite significant. The malt flavors can vary quite a bit, leading to different interpretations ranging from drier, bready, and slightly biscuity to sweeter and somewhat caramelly.",
+          "filename": "3C",
+          "identifier": "bjcp_2015_3c",
+          "name": "3C Czech Amber Lager",
+          "search-title": "BJCP 2015: Czech Amber Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "amber-lager-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A rich, dark, malty Czech lager with a roast character that can vary from almost absent to quite prominent. Malty with an interesting and complex flavor profile, with variable levels of hopping providing a range of possible interpretations.",
+          "filename": "3D",
+          "identifier": "bjcp_2015_3d",
+          "name": "3D Czech Dark Lager",
+          "search-title": "BJCP 2015: Czech Dark Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "dark-lager-family",
+            "balanced"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "4",
+      "name": "4 Pale Malty European Lager",
+      "sections": [
+        {
+          "filename": "4_intro",
+          "identifier": "bjcp_2015_4_intro",
+          "name": "Pale Malty European Lager Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A clean, malty, gold-colored German lager with a smooth grainy-sweet malty flavor and a soft, dry finish. Subtle spicy, floral, or herbal hops and restrained bitterness help keep the balance malty but not sweet, which helps make this beer a refreshing, everyday drink.",
+          "filename": "4A",
+          "identifier": "bjcp_2015_4a",
+          "name": "4A Munich Helles",
+          "search-title": "BJCP 2015: Munich Helles",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pale-lager-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A smooth, clean, pale German lager with a moderately strong malty flavor and a light hop character. Deftly balances strength and drinkability, with a palate impression and finish that encourages drinking. Showcases elegant German malt flavors without becoming too heavy or filling.",
+          "filename": "4B",
+          "identifier": "bjcp_2015_4b",
+          "name": "4B Festbier",
+          "search-title": "BJCP 2015: Festbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pale-lager-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A relatively pale, strong, malty German lager beer with a nicely attenuated finish that enhances drinkability. The hop character is generally more apparent than in other bocks.",
+          "filename": "4C",
+          "identifier": "bjcp_2015_4c",
+          "name": "4C Helles Bock",
+          "search-title": "BJCP 2015: Helles Bock",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "bock-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "5",
+      "name": "5 Pale Bitter European Beer",
+      "sections": [
+        {
+          "filename": "5_intro",
+          "identifier": "bjcp_2015_5_intro",
+          "name": "Pale Bitter European Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A pale, highly-attenuated, light-bodied German lager with lower alcohol and calories than normal-strength beers. Moderately bitter with noticeable malt and hop flavors, the beer is still interesting to drink.",
+          "filename": "5A",
+          "identifier": "bjcp_2015_5a",
+          "name": "5A German Leichtbier",
+          "search-title": "BJCP 2015: German Leichtbier",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pale-lager-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character. Subdued maltiness throughout leads into a pleasantly well-attenuated and refreshing finish. Freshness makes a huge difference with this beer, as the delicate character can fade quickly with age. Brilliant clarity is characteristic.",
+          "filename": "5B",
+          "identifier": "bjcp_2015_5b",
+          "name": "5B Kölsch",
+          "search-title": "BJCP 2015: Kölsch",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pale-ale-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A pale, well-balanced, smooth German lager that is slightly stronger than the average beer with a moderate body and a mild, aromatic hop and malt character. ",
+          "filename": "5C",
+          "identifier": "bjcp_2015_5c",
+          "name": "5C German Helles Exportbier",
+          "search-title": "BJCP 2015: German Helles Exportbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pale-lager-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A light-bodied, highly-attenuated, gold-colored, bottom-fermented bitter German beer showing excellent head retention and an elegant, floral hop aroma. Crisp, clean, and refreshing, a German Pils showcases the finest quality German malt and hops.",
+          "filename": "5D",
+          "identifier": "bjcp_2015_5d",
+          "name": "5D German Pils",
+          "search-title": "BJCP 2015: German Pils",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "pilsner-family",
+            "bitter",
+            "hoppy"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "6",
+      "name": "6 Amber Malty European Lager",
+      "sections": [
+        {
+          "filename": "6_intro",
+          "identifier": "bjcp_2015_6_intro",
+          "name": "Amber Malty European Lager Introduction",
+          "searchable": false
+        },
+        {
+          "description": "An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.",
+          "filename": "6A",
+          "identifier": "bjcp_2015_6a",
+          "name": "6A Märzen",
+          "search-title": "BJCP 2015: Märzen",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "amber-lager-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "An elegant, malty German amber lager with a balanced, complementary beechwood smoke character. Toasty-rich malt in aroma and flavor, restrained bitterness, low to high smoke flavor, clean fermentation profile, and an attenuated finish are characteristic. ",
+          "filename": "6B",
+          "identifier": "bjcp_2015_6b",
+          "name": "6B Rauchbier",
+          "search-title": "BJCP 2015: Rauchbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "amber-lager-family",
+            "malty",
+            "smoke"
+          ]
+        },
+        {
+          "description": "A dark, strong, malty German lager beer that emphasizes the malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.",
+          "filename": "6C",
+          "identifier": "bjcp_2015_6c",
+          "name": "6C Dunkles Bock",
+          "search-title": "BJCP 2015: Dunkles Bock",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "bock-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "7",
+      "name": "7 Amber Bitter European Lager",
+      "sections": [
+        {
+          "filename": "7_intro",
+          "identifier": "bjcp_2015_7_intro",
+          "name": "Amber Bitter European Lager Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A moderate-strength amber lager with a soft, smooth maltiness and moderate bitterness, yet finishing relatively dry. The malt flavor is clean, bready-rich, and somewhat toasty, with an elegant impression derived from quality base malts and process, not specialty malts and adjuncts.",
+          "filename": "7A",
+          "identifier": "bjcp_2015_7a",
+          "name": "7A Vienna Lager",
+          "search-title": "BJCP 2015: Vienna Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "amber-lager-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A well-balanced, well-attenuated, bitter yet malty, clean, and smooth, amber- to copper-colored German beer. The bitterness is balanced by the malt richness, but the malt intensity and character can range from moderate to high (the bitterness increases with the malt richness). ",
+          "filename": "7B",
+          "identifier": "bjcp_2015_7b",
+          "name": "7B Altbier",
+          "search-title": "BJCP 2015: Altbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "amber-ale-family",
+            "bitter"
+          ]
+        },
+        {
+          "description": "Pale Kellerbier & Amber Kellerbier",
+          "filename": "7C",
+          "identifier": "bjcp_2015_7c",
+          "name": "7C Kellerbier",
+          "search-title": "BJCP 2015: Kellerbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "central-europe",
+            "traditional-style",
+            "balanced",
+            "pale-lager-family",
+            "amber-color",
+            "amber-lager-family"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "8",
+      "name": "8 Dark European Lager",
+      "sections": [
+        {
+          "filename": "8_intro",
+          "identifier": "bjcp_2015_8_intro",
+          "name": "Dark European Lager Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Characterized by depth, richness and complexity typical of darker Munich malts with the accompanying Maillard products. Deeply bready-toasty, often with chocolate-like flavors in the freshest examples, but never harsh, roasty, or astringent; a decidedly malt-balanced beer, yet still easily drinkable.",
+          "filename": "8A",
+          "identifier": "bjcp_2015_8a",
+          "name": "8A Munich Dunkel",
+          "search-title": "BJCP 2015: Munich Dunkel",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "malty",
+            "dark-lager-family"
+          ]
+        },
+        {
+          "description": "A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness. The lighter body, dryness, and lack of a harsh, burnt, or heavy aftertaste helps make this beer quite drinkable.",
+          "filename": "8B",
+          "identifier": "bjcp_2015_8b",
+          "name": "8B Schwarzbier",
+          "search-title": "BJCP 2015: Schwarzbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "balanced",
+            "dark-lager-family"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "9",
+      "name": "9 Strong European Beer",
+      "sections": [
+        {
+          "filename": "9_intro",
+          "identifier": "bjcp_2015_9_intro",
+          "name": "Strong European Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A strong, rich, and very malty German lager that can have both pale and dark variants. The darker versions have more richly-developed, deeper malt flavors, while the paler versions have slightly more hops and dryness.",
+          "filename": "9A",
+          "identifier": "bjcp_2015_9a",
+          "name": "9A Doppelbock",
+          "search-title": "BJCP 2015: Doppelbock",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "bock-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A strong, full-bodied, rich, and malty dark German lager often with a viscous quality and strong flavors. Even though flavors are concentrated, the alcohol should be smooth and warming, not burning.",
+          "filename": "9B",
+          "identifier": "bjcp_2015_9b",
+          "name": "9B Eisbock",
+          "search-title": "BJCP 2015: Eisbock",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "amber-color",
+            "bottom-fermented",
+            "lagered",
+            "central-europe",
+            "traditional-style",
+            "bock-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A Baltic Porter often has the malt flavors reminiscent of an English porter and the restrained roast of a schwarzbier, but with a higher OG and alcohol content than either. Very complex, with multi-layered malt and dark fruit flavors.",
+          "filename": "9C",
+          "identifier": "bjcp_2015_9c",
+          "name": "9C Baltic Porter",
+          "search-title": "BJCP 2015: Baltic Porter",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "dark-color",
+            "any-fermentation",
+            "lagered",
+            "eastern-europe",
+            "traditional-style",
+            "porter-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "10",
+      "name": "10 German Wheat Beer",
+      "sections": [
+        {
+          "filename": "10_intro",
+          "identifier": "bjcp_2015_10_intro",
+          "name": "German Wheat Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A pale, refreshing German wheat beer with high carbonation, dry finish, a fluffy mouthfeel, and a distinctive banana-and-clove yeast character.",
+          "filename": "10A",
+          "identifier": "bjcp_2015_10a",
+          "name": "10A Weissbier",
+          "search-title": "BJCP 2015: Weissbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "central-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A moderately dark German wheat beer with a distinctive banana-and-clove yeast character, supported by a toasted bread or caramel malt flavor. Highly carbonated and refreshing, with a creamy, fluffy texture and light finish that encourages drinking.",
+          "filename": "10B",
+          "identifier": "bjcp_2015_10b",
+          "name": "10B Dunkles Weissbier",
+          "search-title": "BJCP 2015: Dunkles Weissbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "central-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A strong, malty, fruity, wheat-based ale combining the best malt and yeast flavors of a weissbier (pale or dark) with the malty-rich flavor, strength, and body of a Dunkles Bock or Doppelbock.",
+          "filename": "10C",
+          "identifier": "bjcp_2015_10c",
+          "name": "10C Weizenbock",
+          "search-title": "BJCP 2015: Weizenbock",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "pale-color",
+            "top-fermented",
+            "central-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "11",
+      "name": "11 British Bitter",
+      "sections": [
+        {
+          "filename": "11_intro",
+          "identifier": "bjcp_2015_11_intro",
+          "name": "British Bitter Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Low gravity, low alcohol levels, and low carbonation make this an easy-drinking session beer. The malt profile can vary in flavor and intensity, but should never override the overall bitter impression. Drinkability is a critical component of the style ",
+          "filename": "11A",
+          "identifier": "bjcp_2015_11a",
+          "name": "11A Ordinary Bitter",
+          "search-title": "BJCP 2015: Ordinary Bitter",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "bitter"
+          ]
+        },
+        {
+          "description": "A flavorful, yet refreshing, session beer. Some examples can be more malt balanced, but this should not override the overall bitter impression. Drinkability is a critical component of the style.",
+          "filename": "11B",
+          "identifier": "bjcp_2015_11b",
+          "name": "11B Best Bitter",
+          "search-title": "BJCP 2015: Best Bitter",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "bitter"
+          ]
+        },
+        {
+          "description": "An average-strength to moderately-strong British bitter ale. The balance may be fairly even between malt and hops to somewhat bitter. Drinkability is a critical component of the style. A rather broad style that allows for considerable interpretation by the brewer.",
+          "filename": "11C",
+          "identifier": "bjcp_2015_11c",
+          "name": "11C Strong Bitter",
+          "search-title": "BJCP 2015: Strong Bitter",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "bitter"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "12",
+      "name": "12 Pale Commonwealth Beer",
+      "sections": [
+        {
+          "filename": "12_intro",
+          "identifier": "bjcp_2015_12_intro",
+          "name": "Pale Commonwealth Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A hop-forward, average-strength to moderately-strong pale bitter. Drinkability and a refreshing quality are critical components of the style. ",
+          "filename": "12A",
+          "identifier": "bjcp_2015_12a",
+          "name": "12A British Golden Ale",
+          "search-title": "BJCP 2015: British Golden Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "british-isles",
+            "craft-style",
+            "pale-ale-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "Smooth and balanced, all components merge together with similar intensities. Moderate flavors showcasing Australian ingredients. Large flavor dimension. Very drinkable, suited to a hot climate. Relies on yeast character.",
+          "filename": "12B",
+          "identifier": "bjcp_2015_12b",
+          "name": "12B Australian Sparkling Ale",
+          "search-title": "BJCP 2015: Australian Sparkling Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "pacific",
+            "traditional-style",
+            "pale-ale-family",
+            "bitter"
+          ]
+        },
+        {
+          "description": "A hoppy, moderately-strong, very well-attenuated pale British ale with a dry finish and a hoppy aroma and flavor. Classic British ingredients provide the best flavor profile. ",
+          "filename": "12C",
+          "identifier": "bjcp_2015_12c",
+          "name": "12C English IPA",
+          "search-title": "BJCP 2015: English IPA",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "ipa-family",
+            "bitter",
+            "hoppy"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "13",
+      "name": "13 Brown British Beer",
+      "sections": [
+        {
+          "filename": "13_intro",
+          "identifier": "bjcp_2015_13_intro",
+          "name": "Brown British Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A dark, low-gravity, malt-focused British session ale readily suited to drinking in quantity. Refreshing, yet flavorful, with a wide range of dark malt or dark sugar expression",
+          "filename": "13A",
+          "identifier": "bjcp_2015_13a",
+          "name": "13A Dark Mild",
+          "search-title": "BJCP 2015: Dark Mild",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "brown-ale-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A malty, brown caramel-centric British ale without the roasted flavors of a Porter.",
+          "filename": "13B",
+          "identifier": "bjcp_2015_13b",
+          "name": "13B British Brown Ale",
+          "search-title": "BJCP 2015: British Brown Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "brown-ale-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A moderate-strength brown beer with a restrained roasty character and bitterness. May have a range of roasted flavors, generally without burnt qualities, and often has a chocolate-caramel-malty profile.",
+          "filename": "13C",
+          "identifier": "bjcp_2015_13c",
+          "name": "13C English Porter",
+          "search-title": "BJCP 2015: English Porter",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "porter-family",
+            "malty",
+            "roasty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "14",
+      "name": "14 Scottish Ale",
+      "sections": [
+        {
+          "filename": "14_intro",
+          "identifier": "bjcp_2015_14_intro",
+          "name": "Scottish Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A malt-focused, generally caramelly beer with perhaps a few esters and occasionally a butterscotch aftertaste. Hops only to balance and support the malt. The malt character can range from dry and grainy to rich, toasty, and caramelly, but is never roasty and especially never has a peat smoke character. Traditionally the darkest of the Scottish ales, sometimes nearly black but lacking any burnt, overtly roasted character.",
+          "filename": "14A",
+          "identifier": "bjcp_2015_14a",
+          "name": "14A Scottish Light",
+          "search-title": "BJCP 2015: Scottish Light",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A malt-focused, generally caramelly beer with perhaps a few esters and occasionally a butterscotch aftertaste. Hops only to balance and support the malt. The malt character can range from dry and grainy to rich, toasty, and caramelly, but is never roasty and especially never has a peat smoke character.",
+          "filename": "14B",
+          "identifier": "bjcp_2015_14b",
+          "name": "14B Scottish Heavy",
+          "search-title": "BJCP 2015: Scottish Heavy",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A malt-focused, generally caramelly beer with perhaps a few esters and occasionally a butterscotch aftertaste. Hops only to balance and support the malt. The malt character can range from dry and grainy to rich, toasty, and caramelly, but is never roasty and especially never has a peat smoke character.",
+          "filename": "14C",
+          "identifier": "bjcp_2015_14c",
+          "name": "14C Scottish Export",
+          "search-title": "BJCP 2015: Scottish Export",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "15",
+      "name": "15 Irish Beer",
+      "sections": [
+        {
+          "filename": "15_intro",
+          "identifier": "bjcp_2015_15_intro",
+          "name": "Irish Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "An easy-drinking pint, often with subtle flavors. Slightly malty in the balance sometimes with an initial soft toffee/caramel sweetness, a slightly grainy-biscuity palate, and a touch of roasted dryness in the finish. Some versions can emphasize the caramel and sweetness more, while others will favor the grainy palate and roasted dryness.",
+          "filename": "15A",
+          "identifier": "bjcp_2015_15a",
+          "name": "15A Irish Red Ale",
+          "search-title": "BJCP 2015: Irish Red Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "amber-ale-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A black beer with a pronounced roasted flavor, often similar to coffee. The balance can range from fairly even to quite bitter, with the more balanced versions having a little malty sweetness and the bitter versions being quite dry. Draught versions typically are creamy from a nitro pour, but bottled versions will not have this dispense-derived character. The roasted flavor can be dry and coffee-like to somewhat chocolaty. ",
+          "filename": "15B",
+          "identifier": "bjcp_2015_15b",
+          "name": "15B Irish Stout",
+          "search-title": "BJCP 2015: Irish Stout",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "stout-family",
+            "bitter",
+            "roasty"
+          ]
+        },
+        {
+          "description": "A fuller-bodied black beer with a pronounced roasted flavor, often similar to coffee and dark chocolate with some malty complexity. The balance can range from moderately bittersweet to bitter, with the more balanced versions having up to moderate malty richness and the bitter versions being quite dry.",
+          "filename": "15C",
+          "identifier": "bjcp_2015_15c",
+          "name": "15C Irish Extra Stout",
+          "search-title": "BJCP 2015: Irish Extra Stout",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "stout-family",
+            "bitter",
+            "roasty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "16",
+      "name": "16 Dark British Beer",
+      "sections": [
+        {
+          "filename": "16_intro",
+          "identifier": "bjcp_2015_16_intro",
+          "name": "Dark British Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A very dark, sweet, full-bodied, slightly roasty ale that can suggest coffee-and-cream, or sweetened espresso.",
+          "filename": "16A",
+          "identifier": "bjcp_2015_16a",
+          "name": "16A Sweet Stout",
+          "search-title": "BJCP 2015: Sweet Stout",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "stout-family",
+            "malty",
+            "roasty",
+            "sweet"
+          ]
+        },
+        {
+          "description": "A very dark, full-bodied, roasty, malty ale with a complementary oatmeal flavor. The sweetness, balance, and oatmeal impression can vary considerably.",
+          "filename": "16B",
+          "identifier": "bjcp_2015_16b",
+          "name": "16B Oatmeal Stout",
+          "search-title": "BJCP 2015: Oatmeal Stout",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "stout-family",
+            "balanced",
+            "roasty"
+          ]
+        },
+        {
+          "description": "A very dark, sweet, fruity, moderately strong ale with smooth roasty flavors without a burnt harshness.",
+          "filename": "16C",
+          "identifier": "bjcp_2015_16c",
+          "name": "16C Tropical Stout",
+          "search-title": "BJCP 2015: Tropical Stout",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "stout-family",
+            "malty",
+            "roasty",
+            "sweet"
+          ]
+        },
+        {
+          "description": "A very dark, moderately strong, fairly dry, stout with prominent roast flavors.",
+          "filename": "16D",
+          "identifier": "bjcp_2015_16d",
+          "name": "16D Foreign Extra Stout",
+          "search-title": "BJCP 2015: Foreign Extra Stout",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "stout-family",
+            "balanced",
+            "roasty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "17",
+      "name": "17 Strong British Beer",
+      "sections": [
+        {
+          "filename": "17_intro",
+          "identifier": "bjcp_2015_17_intro",
+          "name": "Strong British Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "An ale of respectable alcoholic strength, traditionally bottled-conditioned and cellared. Can have a wide range of interpretations, but most will have varying degrees of malty richness, late hops and bitterness, fruity esters, and alcohol warmth. Judges should allow for a significant range in character, as long as the beer is within the alcohol strength range and has an interesting ‘British’ character, it likely fits the style. The malt and adjunct flavors and intensity can vary widely, but any combination should result in an agreeable palate experience.",
+          "filename": "17A",
+          "identifier": "bjcp_2015_17a",
+          "name": "17A British Strong Ale",
+          "search-title": "BJCP 2015: British Strong Ale",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "strong-ale-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "An ale of moderate to fairly significant alcoholic strength, bigger than standard beers, though usually not as strong or rich as barleywine. Often tilted towards a maltier balance. “It should be a warming beer of the type that is best drunk in half pints by a warm fire on a cold winter’s night” – Michael Jackson.",
+          "filename": "17B",
+          "identifier": "bjcp_2015_17b",
+          "name": "17B Old Ale",
+          "search-title": "BJCP 2015: Old Ale",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "strong-ale-family",
+            "malty",
+            "aged"
+          ]
+        },
+        {
+          "description": "Rich, malty, dextrinous, and usually caramel-sweet, these beers can give an impression that is suggestive of a dessert. Complex secondary malt and alcohol flavors prevent a one-dimensional quality. Strength and maltiness can vary, but should not be cloying or syrupy.",
+          "filename": "17C",
+          "identifier": "bjcp_2015_17c",
+          "name": "17C Wee Heavy",
+          "search-title": "BJCP 2015: Wee Heavy",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "strong-ale-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A showcase of malty richness and complex, intense flavors. Chewy and rich in body, with warming alcohol and a pleasant fruity or hoppy interest. When aged, it can take on port-like flavors. A wintertime sipper.",
+          "filename": "17D",
+          "identifier": "bjcp_2015_17d",
+          "name": "17D English Barleywine",
+          "search-title": "BJCP 2015: English Barleywine",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "amber-color",
+            "top-fermented",
+            "british-isles",
+            "traditional-style",
+            "strong-ale-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "18",
+      "name": "18 Pale American Ale",
+      "sections": [
+        {
+          "filename": "18_intro",
+          "identifier": "bjcp_2015_18_intro",
+          "name": "Pale American Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Easy-drinking, approachable, malt-oriented American craft beer, often with interesting fruit, hop, or character malt notes. Well-balanced and clean, is a refreshing pint without aggressive flavors.",
+          "filename": "18A",
+          "identifier": "bjcp_2015_18a",
+          "name": "18A Blonde Ale",
+          "search-title": "BJCP 2015: Blonde Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "any-fermentation",
+            "north-america",
+            "craft-style",
+            "pale-ale-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A pale, refreshing and hoppy ale, yet with sufficient supporting malt to make the beer balanced and drinkable. The clean hop presence can reflect classic or modern American or New World hop varieties with a wide range of characteristics. An average-strength hop-forward pale American craft beer, generally balanced to be more accessible than modern American IPAs.",
+          "filename": "18B",
+          "identifier": "bjcp_2015_18b",
+          "name": "18B American Pale Ale",
+          "search-title": "BJCP 2015: American Pale Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "pale-ale-family",
+            "bitter",
+            "hoppy"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "19",
+      "name": "19 Amber and Brown American Beer",
+      "sections": [
+        {
+          "filename": "19_intro",
+          "identifier": "bjcp_2019_19_intro",
+          "name": "Amber and Brown American Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "An amber, hoppy, moderate-strength American craft beer with a caramel malty flavor. The balance can vary quite a bit, with some versions being fairly malty and others being aggressively hoppy. Hoppy and bitter versions should not have clashing flavors with the caramel malt profile.",
+          "filename": "19A",
+          "identifier": "bjcp_2019_19a",
+          "name": "19A American Amber Ale",
+          "search-title": "BJCP 2015: American Amber Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "amber-ale-family",
+            "balanced",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A lightly fruity beer with firm, grainy maltiness, interesting toasty and caramel flavors, and showcasing rustic, traditional American hop characteristics.",
+          "filename": "19B",
+          "identifier": "bjcp_2019_19b",
+          "name": "19B California Common",
+          "search-title": "BJCP 2015: California Common",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "bottom-fermented",
+            "north-america",
+            "traditional-style",
+            "amber-lager-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A malty but hoppy beer frequently with chocolate and caramel flavors. The hop flavor and aroma complements and enhances the malt rather than clashing with it.",
+          "filename": "19C",
+          "identifier": "bjcp_2019_19c",
+          "name": "19C American Brown Ale",
+          "search-title": "BJCP 2015: American Brown Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "brown-ale-family",
+            "balanced",
+            "hoppy"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "20",
+      "name": "20 American Porter And Stout",
+      "sections": [
+        {
+          "filename": "20_intro",
+          "identifier": "bjcp_2020_20_intro",
+          "name": "American Porter And Stout Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A substantial, malty dark beer with a complex and flavorful dark malt character.",
+          "filename": "20A",
+          "identifier": "bjcp_2020_20a",
+          "name": "20A American Porter",
+          "search-title": "BJCP 2015: American Porter",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "porter-family",
+            "bitter",
+            "roasty",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A fairly strong, highly roasted, bitter, hoppy dark stout. Has the body and dark flavors typical of stouts with a more aggressive American hop character and bitterness.",
+          "filename": "20B",
+          "identifier": "bjcp_2020_20b",
+          "name": "20B American Stout",
+          "search-title": "BJCP 2015: American Stout",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "dark-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "stout-family",
+            "bitter",
+            "roasty",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "An intensely-flavored, big, dark ale with a wide range of flavor balances and regional interpretations. Roasty-burnt malt with deep dark or dried fruit flavors, and a warming, bittersweet finish. Despite the intense flavors, the components need to meld together to create a complex, harmonious beer, not a hot mess.",
+          "filename": "20C",
+          "identifier": "bjcp_2020_20c",
+          "name": "20C Imperial Stout",
+          "search-title": "BJCP 2015: Imperial Stout",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "north-america",
+            "traditional-style",
+            "craft-style",
+            "stout-family",
+            "malty",
+            "bitter",
+            "roasty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "21",
+      "name": "21 IPA",
+      "sections": [
+        {
+          "filename": "21_intro",
+          "identifier": "bjcp_2015_21_intro",
+          "name": "IPA Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A decidedly hoppy and bitter, moderately strong American pale ale, showcasing modern American or New World hop varieties. The balance is hop-forward, with a clean fermentation profile, dryish finish, and clean, supporting malt allowing a creative range of hop character to shine through.",
+          "filename": "21A",
+          "identifier": "bjcp_2015_21a",
+          "name": "21A American IPA",
+          "search-title": "BJCP 2015: American IPA",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "ipa-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "Recognizable as an IPA by balance – a hop-forward, bitter, dryish beer – with something else present to distinguish it from the standard categories. Should have good drinkability, regardless of the form. Excessive harshness and heaviness are typically faults, as are strong flavor clashes between the hops and the other specialty ingredients.",
+          "filename": "21B",
+          "identifier": "bjcp_2015_21b",
+          "name": "21B Specialty IPA",
+          "search-title": "BJCP 2015: Specialty IPA",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "dark-color",
+            "amber-color",
+            "pale-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "ipa-family",
+            "specialty-family",
+            "bitter",
+            "hoppy",
+            "spice"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "22",
+      "name": "22 Strong American Ale",
+      "sections": [
+        {
+          "filename": "22_intro",
+          "identifier": "bjcp_2015_22_intro",
+          "name": "Strong American Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "An intensely hoppy, fairly strong pale ale without the big, rich, complex maltiness and residual sweetness and body of an American barleywine. Strongly hopped, but clean, dry, and lacking harshness. Drinkability is an important characteristic; this should not be a heavy, sipping beer.",
+          "filename": "22A",
+          "identifier": "bjcp_2015_22a",
+          "name": "22A Double IPA",
+          "search-title": "BJCP 2015: Double IPA",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "pale-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "ipa-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A strong, full-flavored American ale that challenges and rewards the palate with full malty and hoppy flavors and substantial bitterness. The flavors are bold but complementary, and are stronger and richer than average-strength pale and amber American ales.",
+          "filename": "22B",
+          "identifier": "bjcp_2015_22b",
+          "name": "22B American Strong Ale",
+          "search-title": "BJCP 2015: American Strong Ale",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "strong-ale-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A well-hopped American interpretation of the richest and strongest of the English ales. The hop character should be evident throughout, but does not have to be unbalanced. The alcohol strength and hop bitterness often combine to leave a very long finish.",
+          "filename": "22C",
+          "identifier": "bjcp_2015_22c",
+          "name": "22C American Barleywine",
+          "search-title": "BJCP 2015: American Barleywine",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "amber-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "strong-ale-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A richly textured, high alcohol sipping beer with a significant grainy, bready flavor and sleek body. The emphasis is first on the bready, wheaty flavors with interesting complexity from malt, hops, fruity yeast character and alcohol complexity.",
+          "filename": "22D",
+          "identifier": "bjcp_2015_22d",
+          "name": "22D Wheatwine",
+          "search-title": "BJCP 2015: Wheatwine",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "amber-color",
+            "top-fermented",
+            "north-america",
+            "craft-style",
+            "strong-ale-family",
+            "wheat-beer-family",
+            "balanced",
+            "hoppy"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "23",
+      "name": "23 European Sour Ale",
+      "sections": [
+        {
+          "filename": "23_intro",
+          "identifier": "bjcp_2015_23_intro",
+          "name": "European Sour Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A very pale, refreshing, low-alcohol German wheat beer with a clean lactic sourness and a very high carbonation level. A light bread dough malt flavor supports the sourness, which shouldn’t seem artificial. Any Brettanomyces funk is restrained.",
+          "filename": "23A",
+          "identifier": "bjcp_2015_23a",
+          "name": "23A Berliner Weisse",
+          "search-title": "BJCP 2015: Berliner Weisse",
+          "searchable": true,
+          "tags": [
+            "session-beer",
+            "pale-color",
+            "top-fermented",
+            "central-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "sour"
+          ]
+        },
+        {
+          "description": "A sour, fruity, red wine-like Belgian-style ale with interesting supportive malt flavors and fruit complexity. The dry finish and tannin completes the mental image of a fine red wine.",
+          "filename": "23B",
+          "identifier": "bjcp_2015_23b",
+          "name": "23B Flanders Red Ale",
+          "search-title": "BJCP 2015: Flanders Red Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermenting",
+            "western-europe",
+            "traditional-style",
+            "sour-ale-family",
+            "balanced",
+            "sour",
+            "wood"
+          ]
+        },
+        {
+          "description": "A malty, fruity, aged, somewhat sour Belgian-style brown ale.",
+          "filename": "23C",
+          "identifier": "bjcp_2015_23c",
+          "name": "23C Oud Bruin",
+          "search-title": "BJCP 2015: Oud Bruin",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "sour-ale-family",
+            "malty",
+            "sour"
+          ]
+        },
+        {
+          "description": "A fairly sour, often moderately funky wild Belgian wheat beer with sourness taking the place of hop bitterness in the balance. Traditionally spontaneously fermented in the Brussels area and served uncarbonated, the refreshing acidity makes for a very pleasant café drink. ",
+          "filename": "23D",
+          "identifier": "bjcp_2015_23d",
+          "name": "23D Lambic",
+          "search-title": "BJCP 2015: Lambic",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "wild-fermented",
+            "western-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "sour"
+          ]
+        },
+        {
+          "description": "A complex, pleasantly sour but balanced wild Belgian wheat beer that is highly carbonated and very refreshing. The spontaneous fermentation character can provide a very interesting complexity, with a wide range of wild barnyard, horse blanket, or leather characteristics intermingling with citrusy-fruity flavors and acidity.",
+          "filename": "23E",
+          "identifier": "bjcp_2015_23e",
+          "name": "23E Gueuze",
+          "search-title": "BJCP 2015: Gueuze",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "wild-fermented",
+            "western-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "aged",
+            "sour"
+          ]
+        },
+        {
+          "description": "A complex, fruity, pleasantly sour, wild wheat ale fermented by a variety of Belgian microbiota, and showcasing the fruit contributions blended with the wild character. The type of fruit can sometimes be hard to identify as fermented and aged fruit characteristics can seem different from the more recognizable fresh fruit aromas and flavors.",
+          "filename": "23F",
+          "identifier": "bjcp_2015_23f",
+          "name": "23F Fruit Lambic",
+          "search-title": "BJCP 2015: Fruit Lambic",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "wild-fermented",
+            "western-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "sour",
+            "fruit"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "24",
+      "name": "24 Belgian Ale",
+      "sections": [
+        {
+          "filename": "24_intro",
+          "identifier": "bjcp_2015_24_intro",
+          "name": "Belgian Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A refreshing, elegant, tasty, moderate-strength wheat-based ale.",
+          "filename": "24A",
+          "identifier": "bjcp_2015_24a",
+          "name": "24A Witbier",
+          "search-title": "BJCP 2015: Witbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "wheat-beer-family",
+            "spice"
+          ]
+        },
+        {
+          "description": "A moderately malty, somewhat fruity, easy-drinking, copper-colored Belgian ale that is somewhat less aggressive in flavor profile than many other Belgian beers. The malt character tends to be a bit biscuity with light toasty, honey-like, or caramelly components; the fruit character is noticeable and complementary to the malt. The bitterness level is generally moderate, but may not seem as high due to the flavorful malt profile.",
+          "filename": "24B",
+          "identifier": "bjcp_2015_24b",
+          "name": "24B Belgian Pale Ale",
+          "search-title": "BJCP 2015: Belgian Pale Ale",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "pale-ale-family",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A fairly strong, malt-accentuated, lagered artisanal beer with a range of malt flavors appropriate for the color. All are malty yet dry, with clean flavors and a smooth character.",
+          "filename": "24C",
+          "identifier": "bjcp_2015_24c",
+          "name": "24C Bière de Garde",
+          "search-title": "BJCP 2015: Bière de Garde",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "amber-color",
+            "any-fermentation",
+            "lagered",
+            "western-europe",
+            "traditional-style",
+            "amber-ale-family",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "25",
+      "name": "25 Strong Belgian Ale",
+      "sections": [
+        {
+          "filename": "25_intro",
+          "identifier": "bjcp_2015_25_intro",
+          "name": "Strong Belgian Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A moderate-strength golden ale that has a subtle fruity-spicy Belgian yeast complexity, slightly malty-sweet flavor, and dry finish.",
+          "filename": "25A",
+          "identifier": "bjcp_2015_25a",
+          "name": "25A Belgian Blond Ale",
+          "search-title": "BJCP 2015: Belgian Blond Ale",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "balanced"
+          ]
+        },
+        {
+          "description": "Most commonly, a pale, refreshing, highly-attenuated, moderately-bitter, moderate-strength Belgian ale with a very dry finish. Typically highly carbonated, and using non-barley cereal grains and optional spices for complexity, as complements the expressive yeast character that is fruity, spicy, and not overly phenolic. Less common variations include both lower-alcohol and higher-alcohol products, as well as darker versions with additional malt character.",
+          "filename": "25B",
+          "identifier": "bjcp_2015_25b",
+          "name": "25B Saison",
+          "search-title": "BJCP 2015: Saison",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "bitter"
+          ]
+        },
+        {
+          "description": "A pale, complex, effervescent, strong Belgian-style ale that is highly attenuated and features fruity and hoppy notes in preference to phenolics.",
+          "filename": "25C",
+          "identifier": "bjcp_2015_25c",
+          "name": "25C Belgian Golden Strong Ale",
+          "search-title": "BJCP 2015: Belgian Golden Strong Ale",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "pale-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "bitter"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "26",
+      "name": "26 Trappist Ale",
+      "sections": [
+        {
+          "filename": "26_intro",
+          "identifier": "bjcp_2015_26_intro",
+          "name": "Trappist Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate. ",
+          "filename": "26A",
+          "identifier": "bjcp_2015_26a",
+          "name": "26A Trappist Single",
+          "search-title": "BJCP 2015: Trappist Single",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermenting",
+            "western-europe",
+            "craft-style",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "A deep reddish-copper, moderately strong, malty, complex Trappist ale with rich malty flavors, dark or dried fruit esters, and light alcohol blended together in a malty presentation that still finishes fairly dry.",
+          "filename": "26B",
+          "identifier": "bjcp_2015_26b",
+          "name": "26B Belgian Dubbel",
+          "search-title": "BJCP 2015: Belgian Dubbel",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "malty"
+          ]
+        },
+        {
+          "description": "A pale, somewhat spicy, dry, strong Trappist ale with a pleasant rounded malt flavor and firm bitterness. Quite aromatic, with spicy, fruity, and light alcohol notes combining with the supportive clean malt character to produce a surprisingly drinkable beverage considering the high alcohol level.",
+          "filename": "26C",
+          "identifier": "bjcp_2015_26c",
+          "name": "26C Belgian Tripel",
+          "search-title": "BJCP 2015: Belgian Tripel",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "pale-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "bitter"
+          ]
+        },
+        {
+          "description": "A dark, complex, very strong Belgian ale with a delicious blend of malt richness, dark fruit flavors, and spicy elements. Complex, rich, smooth and dangerous.",
+          "filename": "26D",
+          "identifier": "bjcp_2015_26d",
+          "name": "26D Belgian Dark Strong Ale",
+          "search-title": "BJCP 2015: Belgian Dark Strong Ale",
+          "searchable": true,
+          "tags": [
+            "very-high-strength",
+            "amber-color",
+            "top-fermented",
+            "western-europe",
+            "traditional-style",
+            "malty"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "27",
+      "name": "27 Historical Beer",
+      "sections": [
+        {
+          "filename": "27_intro",
+          "identifier": "bjcp_2015_27_intro",
+          "name": "Historical Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A highly-carbonated, tart and fruity wheat ale with a restrained coriander and salt character and low bitterness. Very refreshing, with bright flavors and high attenuation.",
+          "filename": "27A",
+          "identifier": "bjcp_2015_27a",
+          "name": "Historical Beer: Gose",
+          "search-title": "BJCP 2015: Gose",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "central-europe",
+            "historical-style",
+            "wheat-beer-family",
+            "sour",
+            "spice"
+          ]
+        },
+        {
+          "description": "A darker-colored, light-flavored, malt-accented beer with a dry finish and interesting character malt flavors. Refreshing due to its high carbonation and mild flavors, and highly sessionable due to being served very fresh and with restrained alcohol levels.",
+          "filename": "27B",
+          "identifier": "bjcp_2015_27b",
+          "name": "Historical Beer: Kentucky Common",
+          "search-title": "BJCP 2015: Kentucky Common",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermented",
+            "north-america",
+            "historical-style",
+            "balanced"
+          ]
+        },
+        {
+          "description": "A sour, smoked, lower-gravity historical German wheat beer. Complex yet refreshing character due to high attenuation and carbonation, along with low bitterness and moderate sourness. ",
+          "filename": "27C",
+          "identifier": "bjcp_2015_27c",
+          "name": "Historical Beer: Lichtenhainer",
+          "search-title": "BJCP 2015: Lichtenhainer",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "top-fermented",
+            "central-europe",
+            "historical-style",
+            "wheat-beer-family",
+            "sour",
+            "smoke"
+          ]
+        },
+        {
+          "description": "A luscious, sweet, malt-oriented dark brown ale, with caramel and toffee malt complexity and a sweet finish.",
+          "filename": "27D",
+          "identifier": "bjcp_2015_27d",
+          "name": "Historical Beer: London Brown Ale",
+          "search-title": "BJCP 2015: London Brown Ale",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "dark-color",
+            "top-fermented",
+            "british-isles",
+            "historical-style",
+            "brown-ale-family",
+            "malty",
+            "sweet"
+          ]
+        },
+        {
+          "description": "A low-gravity, highly-carbonated, light-bodied ale combining an oak-smoked flavor with a clean hop bitterness. Highly sessionable.",
+          "filename": "27E",
+          "identifier": "bjcp_2015_27e",
+          "name": "Historical Beer: Piwo Grodziskie",
+          "search-title": "BJCP 2015: Piwo Grodziskie",
+          "searchable": true,
+          "tags": [
+            "session-strength",
+            "pale-color",
+            "top-fermented",
+            "central-europe",
+            "historical-style",
+            "wheat-beer-family",
+            "bitter",
+            "smoke"
+          ]
+        },
+        {
+          "description": "A clean, refreshing, but bitter pale lager, often showcasing a grainy-sweet corn flavor. All malt or rice-based versions have a crisper, more neutral character. The higher bitterness level is the largest differentiator between this style and most modern mass-market pale lagers, but the more robust flavor profile also sets it apart.",
+          "filename": "27F",
+          "identifier": "bjcp_2015_27f",
+          "name": "Historical Beer: Pre-Prohibition Lager",
+          "search-title": "BJCP 2015: Pre-Prohibition Lager",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "pale-color",
+            "bottom-fermented",
+            "lagered",
+            "north-america",
+            "historical-style",
+            "pilsner-family",
+            "bitter",
+            "hoppy"
+          ]
+        },
+        {
+          "description": "An American adaptation of English Porter using American ingredients, including adjuncts.",
+          "filename": "27G",
+          "identifier": "bjcp_2015_27g",
+          "name": "Historical Beer: Pre-Prohibition Porter",
+          "search-title": "BJCP 2015: Pre-Prohibition Porter",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "dark-color",
+            "any-fermentation",
+            "north-america",
+            "historical-style",
+            "porter-family",
+            "malty"
+          ]
+        },
+        {
+          "description": "A dunkelweizen made with rye rather than wheat, but with a greater body and light finishing hops.",
+          "filename": "27H",
+          "identifier": "bjcp_2015_27h",
+          "name": "Historical Beer: Roggenbier",
+          "search-title": "BJCP 2015: Roggenbier",
+          "searchable": true,
+          "tags": [
+            "standard-strength",
+            "amber-color",
+            "top-fermenting",
+            "central-europe",
+            "historical-style",
+            "wheat-beer-family"
+          ]
+        },
+        {
+          "description": "A sweet, heavy, strong traditional Finnish beer with a rye, juniper, and juniper berry flavor and a strong banana-clove yeast character.",
+          "filename": "27I",
+          "identifier": "bjcp_2015_27i",
+          "name": "Historical Beer: Sahti",
+          "search-title": "BJCP 2015: Sahti",
+          "searchable": true,
+          "tags": [
+            "high-strength",
+            "amber-color",
+            "top-fermented",
+            "central-europe",
+            "historical-style",
+            "spice"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "ST",
+      "name": "Introduction To Specialty-Type Beer",
+      "sections": [
+        {
+          "filename": "s_intro_1",
+          "identifier": "bjcp_2015_special_intro",
+          "name": "Introduction To Specialty-Type Beer",
+          "searchable": false
+        },
+        {
+          "filename": "s_intro_2",
+          "identifier": "bjcp_2015_special_intro_2",
+          "name": "Entering Specialty-Type Beers",
+          "searchable": false
+        },
+        {
+          "filename": "s_intro_3",
+          "identifier": "bjcp_2015_special_intro_3",
+          "name": "Judging Specialty-Type Beers",
+          "searchable": false
+        },
+        {
+          "filename": "s_intro_4",
+          "identifier": "bjcp_2015_special_intro_4",
+          "name": "Effects of Added Ingredients on Balance in Beer",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "28",
+      "name": "28 American Wild Ale",
+      "sections": [
+        {
+          "filename": "28_intro",
+          "identifier": "bjcp_2015_28_intro",
+          "name": "American Wild Ale Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Most often drier and fruitier than the base style suggests. Funky notes range from low to high, depending on the age of the beer and strain(s) of Brett used. Funkiness is generally restrained in younger 100% Brett examples, but tends to increase with age. May possess a light acidity, although this does not come from Brett.",
+          "filename": "28A",
+          "identifier": "bjcp_2015_28a",
+          "name": "28A Brett Beer",
+          "search-title": "BJCP 2015: Brett Beer",
+          "searchable": true,
+          "tags": [
+            "wild-fermentation",
+            "north-america",
+            "craft-style",
+            "specialty-beer"
+          ]
+        },
+        {
+          "description": "A sour and/or funky version of a base style of beer.",
+          "filename": "28B",
+          "identifier": "bjcp_2015_28b",
+          "name": "28B Mixed-Fermentation Sour Beer",
+          "search-title": "BJCP 2015: Mixed-Fermentation Sour Beer",
+          "searchable": true,
+          "tags": [
+            "wild-fermentation",
+            "north-america",
+            "craft-style",
+            "specialty-beer",
+            "sour"
+          ]
+        },
+        {
+          "description": "A sour and/or funky version of a fruit, herb, or spice beer, or a wild beer aged in wood. If wood-aged, the wood should not be the primary or dominant character.",
+          "filename": "28C",
+          "identifier": "bjcp_2015_28c",
+          "name": "28C Wild Specialty Beer",
+          "search-title": "BJCP 2015: Wild Specialty Beer",
+          "searchable": true,
+          "tags": [
+            "wild-fermentation",
+            "north-america",
+            "craft-style",
+            "specialty-beer",
+            "sour",
+            "fruit"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "29",
+      "name": "29 Fruit Beer",
+      "sections": [
+        {
+          "filename": "29_intro",
+          "identifier": "bjcp_2015_29_intro",
+          "name": "Fruit Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A harmonious marriage of fruit and beer, but still recognizable as a beer. The fruit character should be evident but in balance with the beer, not so forward as to suggest an artificial product.",
+          "filename": "29A",
+          "identifier": "bjcp_2015_29a",
+          "name": "29A Fruit Beer",
+          "search-title": "BJCP 2015: Fruit Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "fruit"
+          ]
+        },
+        {
+          "description": "A harmonious marriage of fruit, spice, and beer, but still recognizable as a beer. The fruit and spice character should each be evident but in balance with the beer, not so forward as to suggest an artificial product.",
+          "filename": "29B",
+          "identifier": "bjcp_2015_29b",
+          "name": "29B Fruit and Spice Beer",
+          "search-title": "BJCP 2015: Fruit and Spice Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "fruit",
+            "spice"
+          ]
+        },
+        {
+          "description": "A harmonious marriage of fruit, sugar, and beer, but still recognizable as a beer. The fruit and sugar character should both be evident but in balance with the beer, not so forward as to suggest an artificial product.",
+          "filename": "29C",
+          "identifier": "bjcp_2015_29c",
+          "name": "29C Specialty Fruit Beer",
+          "search-title": "BJCP 2015: Specialty Fruit Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "fruit"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "30",
+      "name": "30 Spiced Beer",
+      "sections": [
+        {
+          "filename": "30_intro",
+          "identifier": "bjcp_2015_30_intro",
+          "name": "Spiced Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A harmonious marriage of SHV and beer, but still recognizable as a beer. The SHV character should be evident but in balance with the beer, not so forward as to suggest an artificial product.",
+          "filename": "30A",
+          "identifier": "bjcp_2015_30a",
+          "name": "30A Spice, Herb, or Vegetable Beer",
+          "search-title": "BJCP 2015: Spice, Herb, or Vegetable Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "spice"
+          ]
+        },
+        {
+          "description": "An amber to copper, spiced beer that often has a moderately rich body and slightly warming finish suggesting a good accompaniment for the cool fall season, and often evocative of Thanksgiving traditions.",
+          "filename": "30B",
+          "identifier": "bjcp_2015_30b",
+          "name": "30B Autumn Seasonal Beer",
+          "search-title": "BJCP 2015: Autumn Seasonal Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "spice"
+          ]
+        },
+        {
+          "description": "A stronger, darker, spiced beer that often has a rich body and warming finish suggesting a good accompaniment for the cold winter season.",
+          "filename": "30C",
+          "identifier": "bjcp_2015_30c",
+          "name": "30C Winter Seasonal Beer",
+          "search-title": "BJCP 2015: Winter Seasonal Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "spice"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "31",
+      "name": "31 Alternative Fermentables Beer",
+      "sections": [
+        {
+          "filename": "31_intro",
+          "identifier": "bjcp_2015_31_intro",
+          "name": "Alternative Fermentables Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A base beer enhanced by or featuring the character of additional grain or grains. The specific character depends greatly on the character of the added grains.",
+          "filename": "31A",
+          "identifier": "bjcp_2015_31a",
+          "name": "31A Alternative Grain Beer",
+          "search-title": "BJCP 2015: Alternative Grain Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer"
+          ]
+        },
+        {
+          "description": "A harmonious marriage of sugar and beer, but still recognizable as a beer. The sugar character should both be evident but in balance with the beer, not so forward as to suggest an artificial product.",
+          "filename": "31B",
+          "identifier": "bjcp_2015_31b",
+          "name": "31B Alternative Sugar Beer",
+          "search-title": "BJCP 2015: Alternative Sugar Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "32",
+      "name": "32 Smoked Beer",
+      "sections": [
+        {
+          "filename": "32_intro",
+          "identifier": "bjcp_2015_32_intro",
+          "name": "Smoked Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A smoke-enhanced beer showing good balance between the smoke, the beer character, and the added ingredients, while remaining pleasant to drink. Balance in the use of smoke, hops and malt character is exhibited by the better examples.",
+          "filename": "32A",
+          "identifier": "bjcp_2015_32a",
+          "name": "32A Classic Style Smoked Beer",
+          "search-title": "BJCP 2015: Classic Style Smoked Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "smoke"
+          ]
+        },
+        {
+          "description": "A smoke-enhanced beer showing good balance between the smoke and beer character, while remaining pleasant to drink. Balance in the use of smoke, hops and malt character is exhibited by the better examples.",
+          "filename": "32B",
+          "identifier": "bjcp_2015_32b",
+          "name": "32B Specialty Smoked Beer",
+          "search-title": "BJCP 2015: Specialty Smoked Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "smoke"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "33",
+      "name": "33 Wood Beer",
+      "sections": [
+        {
+          "filename": "33_intro",
+          "identifier": "bjcp_2015_33_intro",
+          "name": "Wood Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A harmonious blend of the base beer style with characteristics from aging in contact with wood. The best examples will be smooth, flavorful, well-balanced and well-aged.",
+          "filename": "33A",
+          "identifier": "bjcp_2015_33a",
+          "name": "33A Wood-Aged Beer",
+          "search-title": "BJCP 2015: Wood-Aged Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "wood"
+          ]
+        },
+        {
+          "description": "A harmonious blend of the base beer style with characteristics from aging in contact with wood (including alcoholic products previously in contact with the wood). The best examples will be smooth, flavorful, well-balanced and well-aged. ",
+          "filename": "33B",
+          "identifier": "bjcp_2015_33b",
+          "name": "33B Specialty Wood-Aged Beer",
+          "search-title": "BJCP 2015: Specialty Wood-Aged Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer",
+            "wood"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "34",
+      "name": "34 Specialty Beer",
+      "sections": [
+        {
+          "filename": "34_intro",
+          "identifier": "bjcp_2015_34_intro",
+          "name": "Specialty Beer Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Based on declared clone beer.",
+          "filename": "34A",
+          "identifier": "bjcp_2015_34a",
+          "name": "34A Clone Beer",
+          "search-title": "BJCP 2015: Clone Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer"
+          ]
+        },
+        {
+          "description": "Based on the declared base styles. As with all Specialty-Type Beers, the resulting combination of beer styles needs to be harmonious and balanced, and be pleasant to drink.",
+          "filename": "34B",
+          "identifier": "bjcp_2015_34b",
+          "name": "34B Mixed-Style Beer",
+          "search-title": "BJCP 2015: Mixed-Style Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer"
+          ]
+        },
+        {
+          "description": "Varies, but should be a unique experience.",
+          "filename": "34C",
+          "identifier": "bjcp_2015_34c",
+          "name": "34C Experimental Beer",
+          "search-title": "BJCP 2015: Experimental Beer",
+          "searchable": true,
+          "tags": [
+            "specialty-beer"
+          ]
+        }
+      ]
+    },
+    {
+      "index": "A",
+      "name": "Appendix A: Alternate Categorizations",
+      "sections": [
+        {
+          "filename": "A_intro",
+          "identifier": "bjcp_2015_A_intro",
+          "name": "Appendix A: Alternate Categorizations",
+          "searchable": false
+        },
+        {
+          "filename": "A1",
+          "identifier": "bjcp_2015_A1",
+          "name": "1. Styles Sorted Using 2008 Categories (Strict)",
+          "searchable": false
+        },
+        {
+          "filename": "A2",
+          "identifier": "bjcp_2015_A2",
+          "name": "2. Styles Sorted Using 2008 Guidelines (Modified)",
+          "searchable": false
+        },
+        {
+          "filename": "A3",
+          "identifier": "bjcp_2015_A3",
+          "name": "3. Styles Sorted Using Style Family",
+          "searchable": false
+        },
+        {
+          "filename": "A4",
+          "identifier": "bjcp_2015_A4",
+          "name": "4. Styles Sorted Using Country of Origin",
+          "searchable": false
+        },
+        {
+          "filename": "A5",
+          "identifier": "bjcp_2015_A5",
+          "name": "5. Styles Sorted Using History",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "B",
+      "name": "Appendix B: Local Styles",
+      "sections": [
+        {
+          "filename": "B_intro",
+          "identifier": "bjcp_2015_B_intro",
+          "name": "Appendix B: Local Styles",
+          "searchable": false
+        },
+        {
+          "filename": "B1",
+          "identifier": "bjcp_2015_B1",
+          "name": "X1. Argentine Styles: Dorada Pampeana",
+          "searchable": false
+        },
+        {
+          "filename": "B2",
+          "identifier": "bjcp_2015_B2",
+          "name": "X2. Argentine Styles: IPA Argenta",
+          "searchable": false
+        },
+        {
+          "filename": "B3",
+          "identifier": "bjcp_2015_B3",
+          "name": "X3. Italian Styles: Italian Grape Ale",
+          "searchable": false
+        }
+      ]
+    }
+  ],
+  "identifier": "bjcp_2015",
+  "name": "BJCP 2015 Style Guidelines",
+  "url": "http://www.bjcp.org"
+}

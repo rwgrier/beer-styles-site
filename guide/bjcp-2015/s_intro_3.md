@@ -1,0 +1,9 @@
+# Judging Specialty-Type Beers
+
+Overall balance is the key to a successful Specialty-Type Beer. The entry should be a harmonious marriage of the beer and the special ingredients, with neither overpowering the other. The special ingredients should complement and enhance the underlying beer, and the resulting product should be pleasant to drink. The entry should be recognized as belonging in the entry category, or at least not clearly belonging elsewhere.
+
+Some experienced judges will do take a quick hedonistic pass at a Specialty-Type Beer prior to digging deep at the particulars. The quick assessment is designed to judge whether the combination works or doesn’t (i.e., if flavor clashes exist). If the combination is a bad idea, it doesn’t matter how well the product is brewed; it simply won’t be enjoyable. Judges should keep an open mind, however; some unexpected flavor combinations can be surprisingly delicious.
+
+Judges should not be overly pedantic about seeking the full character of a specified base beer style. After all, the base beer does not usually contain the special ingredient, so its character will not be the same. There can be interactions of flavor that produce additional sensory effects. Likewise, judges should understand that the fermentation process can transform some ingredients (particularly those with fermentable sugars), and that the ingredient character may not be the same as the unadulterated specialty ingredient. Therefore, judges should look for the overall pleasantness and balance of the resulting combination, as long as the beer suggests both the base beer and the specialty ingredient or process.
+
+Creating and judging Specialty-Type Beers can be very rewarding. Judges should keep in mind that a creative element exists in these styles, and that something unusual and delicious should generally be rewarded. Keep an open mind when evaluating these styles, and do not look to judge them as rigidly as Classic Styles.
