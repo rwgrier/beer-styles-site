@@ -1,0 +1,1137 @@
+{
+	"chapters": [{
+		"index": "I",
+		"name": "Introduction to the 2020 Guidelines",
+		"sections": [{
+			"filename": "intro",
+			"identifier": "ba_2020_intro",
+			"name": "2020 Guidelines Introduction",
+            "searchable": false
+		}]
+	}, {
+		"index": "1",
+		"name": "British Origin Ale Styles",
+		"sections": [{
+			"description": "Ordinary Bitters are gold to copper colored.",
+			"filename": "01_01_ordinary_bitter",
+			"identifier": "ba_2020_ordinary_bitter",
+			"name": "Ordinary Bitter",
+			"search-title": "BA 2020: Ordinary Bitter",
+			"searchable": true
+		}, {
+			"description": "Special Bitter or Best Bitters are deep gold to deep copper colored.",
+			"filename": "01_02_special_best_bitter",
+			"identifier": "ba_2020_special_best_bitter",
+			"name": "Special Bitter or Best Bitter",
+			"search-title": "BA 2020: Special Bitter or Best Bitter",
+			"searchable": true
+		}, {
+			"description": "Extra Special Bitters are amber to deep copper colored.",
+			"filename": "01_03_extra_special_bitter",
+			"identifier": "ba_2020_extra_special_bitter",
+			"name": "Extra Special Bitter",
+			"search-title": "BA 2020: Extra Special Bitter",
+			"searchable": true
+		}, {
+			"description": "Scottish-Style Light Ales are golden to light brown.",
+			"filename": "01_04_scottish-style_light_ale",
+			"identifier": "ba_2020_scottish-style_light_ale",
+			"name": "Scottish-Style Light Ale",
+			"search-title": "BA 2020: Scottish-Style Light Ale",
+			"searchable": true
+		}, {
+			"description": "Scottish-Style Heavy Ales are amber to dark brown.",
+			"filename": "01_05_scottish-style_heavy_ale",
+			"identifier": "ba_2020_scottish-style_heavy_ale",
+			"name": "Scottish-Style Heavy Ale",
+			"search-title": "BA 2020: Scottish-Style Heavy Ale",
+			"searchable": true
+		}, {
+			"description": "Scottish-Style Export Ales are medium amber to dark chestnut brown.",
+			"filename": "01_06_scottish-style_export_ale",
+			"identifier": "ba_2020_scottish-style_export_ale",
+			"name": "Scottish-Style Export Ale",
+			"search-title": "BA 2020: Scottish-Style Export Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Summer Ales are pale to light amber.",
+			"filename": "01_07_english-style_summer_ale",
+			"identifier": "ba_2020_english-style_summer_ale",
+			"name": "English-Style Summer Ale",
+			"search-title": "BA 2020: English-Style Summer Ale",
+			"searchable": true
+		}, {
+			"description": "Classic English-Style Pale Ales are gold to copper colored.",
+			"filename": "01_08_classic_english-style_pale_ale",
+			"identifier": "ba_2020_classic_english-style_pale_ale",
+			"name": "Classic English-Style Pale Ale",
+			"search-title": "BA 2020: Classic English-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style India Pale Ales are gold to copper colored.",
+			"filename": "01_09_english-style_india_pale_ale",
+			"identifier": "ba_2020_english-style_india_pale_ale",
+			"name": "English-Style India Pale Ale",
+			"search-title": "BA 2020: English-Style India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Strong Ales are amber to dark brown.",
+			"filename": "01_10_strong_ale",
+			"identifier": "ba_2020_strong_ale",
+			"name": "Strong Ale",
+			"search-title": "BA 2020: Strong Ale",
+			"searchable": true
+		}, {
+			"description": "Old Ales are copper-red to very dark.",
+			"filename": "01_11_old_ale",
+			"identifier": "ba_2020_old_ale",
+			"name": "Old Ale",
+			"search-title": "BA 2020: Old Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Pale Mild Ales are light amber to medium amber.",
+			"filename": "01_12_english-style_pale_mild_ale",
+			"identifier": "ba_2020_english-style_pale_mild_ale",
+			"name": "English-Style Pale Mild Ale",
+			"search-title": "BA 2020: English-Style Pale Mild Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Dark Mild Ales are reddish brown to very dark.",
+			"filename": "01_13_english-style_dark_mild_ale",
+			"identifier": "ba_2020_english-style_dark_mild_ale",
+			"name": "English-Style Dark Mild Ale",
+			"search-title": "BA 2020: English-Style Dark Mild Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Brown Ales are copper to brown.",
+			"filename": "01_14_english-style_brown_ale",
+			"identifier": "ba_2020_english-style_brown_ale",
+			"name": "English-Style Brown Ale",
+			"search-title": "BA 2020: English-Style Brown Ale",
+			"searchable": true
+		}, {
+			"description": "Brown Porters are dark brown (may have red tint) to very dark.",
+			"filename": "01_15_brown_porter",
+			"identifier": "ba_2020_brown_porter",
+			"name": "Brown Porter",
+			"search-title": "BA 2020: Brown Porter",
+			"searchable": true
+		}, {
+			"description": "Robust Porters are very dark to black.",
+			"filename": "01_16_robust_porter",
+			"identifier": "ba_2020_robust_porter",
+			"name": "Robust Porter",
+			"search-title": "BA 2020: Robust Porter",
+			"searchable": true
+		}, {
+			"description": "Sweet Stout or Cream Stouts are black.",
+			"filename": "01_17_sweet_stout_or_cream_stout",
+			"identifier": "ba_2020_sweet_stout_or_cream_stout",
+			"name": "Sweet Stout or Cream Stout",
+			"search-title": "BA 2020: Sweet Stout or Cream Stout",
+			"searchable": true
+		}, {
+			"description": "Oatmeal Stouts are dark brown to black.",
+			"filename": "01_18_oatmeal_stout",
+			"identifier": "ba_2020_oatmeal_stout",
+			"name": "Oatmeal Stout",
+			"search-title": "BA 2020: Oatmeal Stout",
+			"searchable": true
+		}, {
+			"description": "Scotch Ales are light-reddish brown to very dark.",
+			"filename": "01_19_scotch_ale",
+			"identifier": "ba_2020_scotch_ale",
+			"name": "Scotch Ale or Wee Heavy",
+			"search-title": "BA 2020: Scotch Ale or Wee Heavy",
+			"searchable": true
+		}, {
+			"description": "British-Style Imperial Stouts are dark copper to very dark.",
+			"filename": "01_20_british-style_imperial_stout",
+			"identifier": "ba_2020_british-style_imperial_stout",
+			"name": "British-Style Imperial Stout",
+			"search-title": "BA 2020: British-Style Imperial Stout",
+			"searchable": true
+		}, {
+			"description": "British-Style Barley Wine Ales are tawny copper to deep red/copper-garnet.",
+			"filename": "01_21_british-style_barley_wine_ale",
+			"identifier": "ba_2020_british-style_barley_wine_ale",
+			"name": "British-Style Barley Wine Ale",
+			"search-title": "BA 2020: British-Style Barley Wine Ale",
+			"searchable": true
+		}]
+	}, {
+		"index": "2",
+		"name": "Irish Origin Ale Styles",
+		"sections": [{
+			"description": "Irish-Style Red Ales are copper red to reddish brown.",
+			"filename": "02_01_irish-style_red_ale",
+			"identifier": "ba_2020_irish-style_red_ale",
+			"name": "Irish-Style Red Ale",
+			"search-title": "BA 2020: Irish-Style Red Ale",
+			"searchable": true
+		}, {
+			"description": "Classic Irish-Style Dry Stouts are black.",
+			"filename": "02_02_classic_irish-style_dry_stout",
+			"identifier": "ba_2020_classic_irish-style_dry_stout",
+			"name": "Classic Irish-Style Dry Stout",
+			"search-title": "BA 2020: Classic Irish-Style Dry Stout",
+			"searchable": true
+		}, {
+			"description": "Export-Style Stouts are black.",
+			"filename": "02_03_export_style_stout",
+			"identifier": "ba_2020_export_style_stout",
+			"name": "Export-Style Stout",
+			"search-title": "BA 2020: Export-Style Stout",
+			"searchable": true
+		}]
+	}, {
+		"index": "3",
+		"name": "North American Origin Ale Styles",
+		"sections": [{
+			"description": "Irish-Style Red Ales are copper red to reddish brown.",
+			"filename": "03_01_golden_or_blonde_ale",
+			"identifier": "ba_2020_golden_or_blonde_ale",
+			"name": "Golden or Blonde Ale",
+			"search-title": "BA 2020: Golden or Blonde Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Amber/Red Ales are copper to reddish brown.",
+			"filename": "03_02_american-style_amber-red_ale",
+			"identifier": "ba_2020_american-style_amber-red_ale",
+			"name": "American-Style Amber/Red Ale",
+			"search-title": "BA 2020: American-Style Amber/Red Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Pale Ales are deep golden to copper or light brown.",
+			"filename": "03_03_american-style_pale_ale",
+			"identifier": "ba_2020_american-style_pale_ale",
+			"name": "American-Style Pale Ale",
+			"search-title": "BA 2020: American-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy Pale Ales are straw to light amber.",
+			"filename": "03_04_juicy_hazy_pale_ale",
+			"identifier": "ba_2020_juicy_hazy_pale_ale",
+			"name": "Juicy or Hazy Pale Ale",
+			"search-title": "BA 2020: Juicy or Hazy Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Strong Pale Ales are deep golden to copper.",
+			"filename": "03_05_american-style_strong_pale_ale",
+			"identifier": "ba_2020_american-style_strong_pale_ale",
+			"name": "American-Style Strong Pale Ale",
+			"search-title": "BA 2020: American-Style Strong Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy Strong Pale Ales are gold to copper.",
+			"filename": "03_06_juicy_hazy_strong_pale_ale",
+			"identifier": "ba_2020_juicy_hazy_strong_pale_ale",
+			"name": "Juicy or Hazy Strong Pale Ale",
+			"search-title": "BA 2020: Juicy or Hazy Strong Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style India Pale Ales are gold to copper.",
+			"filename": "03_07_american-style_india_pale_ale",
+			"identifier": "ba_2020_american-style_india_pale_ale",
+			"name": "American-Style India Pale Ale",
+			"search-title": "BA 2020: American-Style India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy India Pale Ales are straw to deep light amber.",
+			"filename": "03_08_juicy_hazy_india_pale_ale",
+			"identifier": "ba_2020_juicy_hazy_india_pale_ale",
+			"name": "Juicy or Hazy India Pale Ale",
+			"search-title": "BA 2020: Juicy or Hazy India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Belgo-Style Ales are gold to black.",
+			"filename": "03_09_american-belgo-style_ale",
+			"identifier": "ba_2020_american-belgo-style_ale",
+			"name": "American-Belgo-Style Ale",
+			"search-title": "BA 2020: American-Belgo-Style Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Brown Ales are deep copper to very dark brown. ",
+			"filename": "03_10_america-style_brown_ale",
+			"identifier": "ba_2020_america-style_brown_ale",
+			"name": "American-Style Brown Ale",
+			"search-title": "BA 2020: American-Style Brown Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Black Ales are very dark to black.",
+			"filename": "03_11_america-style_black_ale",
+			"identifier": "ba_2020_america-style_black_ale",
+			"name": "American-Style Black Ale",
+			"search-title": "BA 2020: American-Style Black Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Stouts are black.",
+			"filename": "03_12_american-style_stout",
+			"identifier": "ba_2020_american-style_stout",
+			"name": "American-Style Stout",
+			"search-title": "BA 2020: American-Style Stout",
+			"searchable": true
+		}, {
+			"description": "American-Style Imperial Porters are black.",
+			"filename": "03_13_american-style_imperial_porter",
+			"identifier": "ba_2020_american-style_imperial_porter",
+			"name": "American-Style Imperial Porter",
+			"search-title": "BA 2020: American-Style Imperial Porter",
+			"searchable": true
+		}, {
+			"description": "American-Style Imperial Stouts are black.",
+			"filename": "03_14_american-style_imperial_stout",
+			"identifier": "ba_2020_american-style_imperial_stout",
+			"name": "American-Style Imperial Stout",
+			"search-title": "BA 2020: American-Style Imperial Stout",
+			"searchable": true
+		}, {
+			"description": "Double Hoppy Red Ales are deep amber to dark copper/reddish-brown.",
+			"filename": "03_15_double_red_ale",
+			"identifier": "ba_2020_double_red_ale",
+			"name": "Double Hoppy Red",
+			"search-title": "BA 2020: Double Hoppy Red Ale",
+			"searchable": true
+		}, {
+			"description": "Imperial Red Ales are deep amber to dark copper/reddish-brown.",
+			"filename": "03_16_imperial_red_ale",
+			"identifier": "ba_2020_imperial_red_ale",
+			"name": "American-Style Imperial or Double India Pale Ale",
+			"search-title": "BA 2020: American-Style Imperial or Double India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Imperial or Double India Pale Ales are straw to medium amber.",
+			"filename": "03_17_imperial_or_double_india_pale_ale",
+			"identifier": "ba_2020_imperial_or_double_india_pale_ale",
+			"name": "American-Style Imperial or Double India Pale Ale",
+			"search-title": "BA 2020: American-Style Imperial or Double India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy Imperial or Double India Pale Ales are straw to light amber.",
+			"filename": "03_18_juicy_or_hazy_imperial_or_double_india_pale_ale",
+			"identifier": "ba_2020_juicy_or_hazy_imperial_or_double_india_pale_ale",
+			"name": "Juicy or Hazy Imperial or Double India Pale Ale",
+			"search-title": "BA 2020: Juicy or Hazy Imperial or Double India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Barley Wine Ales are amber to deep red/copper-garnet.",
+			"filename": "03_19_american-style_barely_wine_ale",
+			"identifier": "ba_2020_american-style_barely_wine_ale",
+			"name": "American-Style Barley Wine Ale",
+			"search-title": "BA 2020: American-Style Barley Wine Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Wheat Wine Ales are gold to light brown.",
+			"filename": "03_20_american-style_wheat_wine_ale",
+			"identifier": "ba_2020_american-style_wheat_wine_ale",
+			"name": "American-Style Wheat Wine Ale",
+			"search-title": "BA 2020: American-Style Wheat Wine Ale",
+			"searchable": true
+		}, {
+			"description": "Smoke Porters are dark brown to black.",
+			"filename": "03_21_smoke_porter",
+			"identifier": "ba_2020_smoke_porter",
+			"name": "Smoke Porter",
+			"search-title": "BA 2020: Smoke Porter",
+			"searchable": true
+		}, {
+			"description": "American-Style Sour Ales are pale to black",
+			"filename": "03_22_american-style_sour_ale",
+			"identifier": "ba_2020_american-style_sour_ale",
+			"name": "American-Style Sour Ale",
+			"search-title": "BA 2020: American-Style Sour Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Fruited Sour Ales can range from pale to black depending on underlying beer style and is often influenced by the color of added fruit",
+			"filename": "03_23_american-style_fruited_sour_ale",
+			"identifier": "ba_2020_american-style_fruited_sour_ale",
+			"name": "American-Style Fruited Sour Ale",
+			"search-title": "BA 2020: American-Style Fruited Sour Ale",
+			"searchable": true
+		}]
+	}, {
+		"index": "4",
+		"name": "German Origin Ale Styles",
+		"sections": [{
+			"description": "German-Style Koelschs are straw to gold.",
+			"filename": "04_01_german-style_koelsch",
+			"identifier": "ba_2020_german-style_koelsch",
+			"name": "German-Style Koelsch",
+			"search-title": "BA 2020: German-Style Koelsch",
+			"searchable": true
+		}, {
+			"description": "German-Style Altbiers are copper to dark brown ales, originally from the Duesseldorf area.",
+			"filename": "04_02_german-style_altbier",
+			"identifier": "ba_2020_german-style_altbier",
+			"name": "German-Style Altbier",
+			"search-title": "BA 2020: German-Style Altbier",
+			"searchable": true
+		}, {
+			"description": "Berliner Weissbiers are straw to pale. These are the lightest of all the German wheat beers.",
+			"filename": "04_03_berliner-style_weisse",
+			"identifier": "ba_2020_berliner-style_weisse",
+			"name": "Berliner-Style Weisse",
+			"search-title": "BA 2020: Berliner-Style Weisse",
+			"searchable": true
+		}, {
+			"description": "Leipzig-Style Goses are straw to light amber.",
+			"filename": "04_04_leipzig-style_gose",
+			"identifier": "ba_2020_leipzig-style_gose",
+			"name": "Leipzig-Style Gose",
+			"search-title": "BA 2020: Leipzig-Style Gose",
+			"searchable": true
+		}, {
+			"description": "Contemporary-Style Goses are straw to light amber.",
+			"filename": "04_05_contemporary-style_gose",
+			"identifier": "ba_2020_contemporary-style_gose",
+			"name": "Contemporary-Style Gose",
+			"search-title": "BA 2020: Contemporary-Style Gose",
+			"searchable": true
+		}, {
+			"description": "South German-Style Hefeweizens are straw to amber.",
+			"filename": "04_06_south_german-style_hefeweizen",
+			"identifier": "ba_2020_south_german-style_hefeweizen",
+			"name": "South German-Style Hefeweizen",
+			"search-title": "BA 2020: South German-Style Hefeweizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Kristal Weizens are straw to amber.",
+			"filename": "04_07_south_german-style_kristal_weizen",
+			"identifier": "ba_2020_south_german-style_kristal_weizen",
+			"name": "South German-Style Kristal Weizen",
+			"search-title": "BA 2020: South German-Style Kristal Weizen",
+			"searchable": true
+		}, {
+			"description": "German-Style Leichtes Weizens are straw to copper-amber.",
+			"filename": "04_08_german-style_leichtes_weizen",
+			"identifier": "ba_2020_german-style_leichtes_weizen",
+			"name": "German-Style Leichtes Weizen",
+			"search-title": "BA 2020: German-Style Leichtes Weizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Bernsteinfarbenes Weizens are amber to light brown; the German word bernsteinfarben means amber colored.",
+			"filename": "04_09_south_german-style_bernsteinfarbenes_weizen",
+			"identifier": "ba_2020_south_german-style_bernsteinfarbenes_weizen",
+			"name": "South German-Style Bernsteinfarbenes Weizen",
+			"search-title": "BA 2020: South German-Style Bernsteinfarbenes Weizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Dunkel Weizens are copper-brown to very dark.",
+			"filename": "04_10_south_german-style_dunkel_weizen",
+			"identifier": "ba_2020_south_german-style_dunkel_weizen",
+			"name": "South German-Style Dunkel Weizen",
+			"search-title": "BA 2020: South German-Style Dunkel Weizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Weizenbocks are gold to very dark.",
+			"filename": "04_11_south_german-style_weizenbock",
+			"identifier": "ba_2020_south_german-style_weizenbock",
+			"name": "South German-Style Weizenbock",
+			"search-title": "BA 2020: South German-Style Weizenbock",
+			"searchable": true
+		}, {
+			"description": "German-Style Rye Ales are pale to very dark, with darker versions running dark amber to dark brown.",
+			"filename": "04_12_german-style_rye_ale",
+			"identifier": "ba_2020_german-style_rye_ale",
+			"name": "German-Style Rye Ale",
+			"search-title": "BA 2020: German-Style Rye Ale",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Weiss Rauchbiers are a range of color from pale to chestnut brown.",
+			"filename": "04_13_bamberg-style_weiss_rauchbier",
+			"identifier": "ba_2020_bamberg-style_weiss_rauchbier",
+			"name": "Bamberg-Style Weiss Rauchbier",
+			"search-title": "BA 2020: Bamberg-Style Weiss Rauchbier",
+			"searchable": true
+		}]
+	}, {
+		"index": "5",
+		"name": "Belgian and French Origin Ale Styles",
+		"sections": [{
+			"description": "Belgian-Style Blonde Ales are pale to light amber.",
+			"filename": "05_01_belgian-style_blonde_ale",
+			"identifier": "ba_2020_belgian-style_blonde_ale",
+			"name": "Belgian-Style Blonde Ale",
+			"search-title": "BA 2020: Belgian-Style Blonde Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Pale Ales are gold to copper.",
+			"filename": "05_02_belgian-style_pale_ale",
+			"identifier": "ba_2020_belgian-style_pale_ale",
+			"name": "Belgian-Style Pale Ale",
+			"search-title": "BA 2020: Belgian-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Pale Strong Ales are pale to copper.",
+			"filename": "05_03_belgian-style_pale_strong_ale",
+			"identifier": "ba_2020_belgian-style_pale_strong_ale",
+			"name": "Belgian-Style Pale Strong Ale",
+			"search-title": "BA 2020: Belgian-Style Pale Strong Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Dark Strong Ales are medium-amber to very dark.",
+			"filename": "05_04_belgian-style_dark_strong_ale",
+			"identifier": "ba_2020_belgian-style_dark_strong_ale",
+			"name": "Belgian-Style Dark Strong Ale",
+			"search-title": "BA 2020: Belgian-Style Dark Strong Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Dubbels are brown to very dark.",
+			"filename": "05_05_belgian-style_dubbel",
+			"identifier": "ba_2020_belgian-style_dubbel",
+			"name": "Belgian-Style Dubbel",
+			"search-title": "BA 2020: Belgian-Style Dubbel",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Tripels are pale to light-amber.",
+			"filename": "05_06_belgian-style_tripel",
+			"identifier": "ba_2020_belgian-style_tripel",
+			"name": "Belgian-Style Tripel",
+			"search-title": "BA 2020: Belgian-Style Tripel",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Quadrupels are amber to dark brown.",
+			"filename": "05_07_belgian-style_quadrupel",
+			"identifier": "ba_2020_belgian-style_quadrupel",
+			"name": "Belgian-Style Quadrupel",
+			"search-title": "BA 2020: Belgian-Style Quadrupel",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Witbiers are straw to pale.",
+			"filename": "05_08_belgian-style_witbier",
+			"identifier": "ba_2020_belgian-style_witbier",
+			"name": "Belgian-Style Witbier",
+			"search-title": "BA 2020: Belgian-Style Witbier",
+			"searchable": true
+		}, {
+			"description": "Classic French & Belgian-Style Saisons are gold to light amber.",
+			"filename": "05_09_classic_french_and_belgian-style_saison",
+			"identifier": "ba_2020_classic_french_and_belgian-style_saison",
+			"name": "Classic French & Belgian-Style Saison",
+			"search-title": "BA 2020: Classic French & Belgian-Style Saison",
+			"searchable": true
+		}, {
+			"description": "Specialty Saisons are straw to dark brown; may take on hue of fruit(s), darker malts or other ingredients.",
+			"filename": "05_10_specialty_saison",
+			"identifier": "ba_2020_specialty_saison",
+			"name": "Specialty Saisons",
+			"search-title": "BA 2020: Specialty Saisons",
+			"searchable": true
+		}, {
+			"description": "French-Style Bière de Gardes are light amber to chestnut brown/red.",
+			"filename": "05_11_french-style_biere_de_garde",
+			"identifier": "ba_2020_french-style_biere_de_garde",
+			"name": "French-Style Bière de Garde",
+			"search-title": "BA 2020: French-Style Bière de Garde",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Flanders Oud Bruin or Oud Red Ales are copper to very dark.",
+			"filename": "05_12_belgian-style_flanders_oud_bruin",
+			"identifier": "ba_2020_belgian-style_flanders_oud_bruin",
+			"name": "Belgian-Style Flanders Oud Bruin or Oud Red Ale",
+			"search-title": "BA 2020: Belgian-Style Flanders Oud Bruin or Oud Red Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Lambics are gold to medium-amber.",
+			"filename": "05_13_belgian-style_lambic",
+			"identifier": "ba_2020_belgian-style_lambic",
+			"name": "Belgian-Style Lambic",
+			"search-title": "BA 2020: Belgian-Style Lambic",
+			"searchable": true
+		}, {
+			"description": "Traditional Belgian-Style Gueuze Lambics are gold to medium- amber.",
+			"filename": "05_14_traditional_belgian-style_gueuze_lambic",
+			"identifier": "ba_2020_traditional_belgian-style_gueuze_lambic",
+			"name": "Traditional Belgian-Style Gueuze Lambic",
+			"search-title": "BA 2020: Traditional Belgian-Style Gueuze Lambic",
+			"searchable": true
+		}, {
+			"description": "Contemporary Belgian-Style Spontaneous Fermented Ales are gold to very dark.",
+			"filename": "05_15_contemporary_belgian-style_spontaneous_fermented_ales",
+			"identifier": "ba_2020_contemporary_belgian-style_spontaneous_fermented_ales",
+			"name": "Contemporary Belgian-Style Spontaneous Fermented Ale",
+			"search-title": "BA 2020: Contemporary Belgian-Style Spontaneous Fermented Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Fruit Lambics are often influenced by the color of added fruit.",
+			"filename": "05_16_belgian-style_fruit_lambic",
+			"identifier": "ba_2020_belgian-style_fruit_lambic",
+			"name": "Belgian-Style Fruit Lambic",
+			"search-title": "BA 2020: Belgian-Style Fruit Lambic",
+			"searchable": true
+		}, {
+			"description": "Other Belgian-Style Ales are of varying color.",
+			"filename": "05_17_other_belgian-style_ale",
+			"identifier": "ba_2020_other_belgian-style_ale",
+			"name": "Other Belgian-Style Ale",
+			"search-title": "BA 2020: Other Belgian-Style Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Table Beers are gold to black, with caramel color sometimes added to adjust color. ",
+			"filename": "05_18_belgian-style_table_beer",
+			"identifier": "ba_2020_belgian-style_table_beer",
+			"name": "Belgian-Style Table Beer",
+			"search-title": "BA 2020: Belgian-Style Table Beer",
+			"searchable": true
+		}]
+	}, {
+		"index": "6",
+		"name": "Other Origin Ale Styles",
+		"sections": [{
+			"description": "Grodziskies are straw to golden colored.",
+			"filename": "06_01_grodziskie",
+			"identifier": "ba_2020_grodziskie",
+			"name": "Grodziskie",
+			"search-title": "BA 2020: Grodziskie",
+			"searchable": true
+		}, {
+			"description": "Adambiers are light brown to very dark.",
+			"filename": "06_02_adambier",
+			"identifier": "ba_2020_adambier",
+			"name": "Adambier",
+			"search-title": "BA 2020: Adambier",
+			"searchable": true
+		}, {
+			"description": "Dutch-Style Kuit, Kuyt or Koyts are gold to copper colored ale.",
+			"filename": "06_03_dutch-style_kuit",
+			"identifier": "ba_2020_dutch-style_kuit",
+			"name": "Dutch-Style Kuit, Kuyt or Koyt",
+			"search-title": "BA 2020: Dutch-Style Kuit, Kuyt or Koyt",
+			"searchable": true
+		}, {
+			"description": "Classic Australian-Style Pale Ales are light amber to copper.",
+			"filename": "06_04_classic_australian-style_pale_ale",
+			"identifier": "ba_2020_classic_australian-style_pale_ale",
+			"name": "Classic Australian-Style Pale Ale",
+			"search-title": "BA 2020: Classic Australian-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Australian-Style Pale Ales are straw to medium amber.",
+			"filename": "06_05_australian-style_pale_ale",
+			"identifier": "ba_2020_australian-style_pale_ale",
+			"name": "Australian-Style Pale Ale",
+			"search-title": "BA 2020: Australian-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "International-Style Pale Ales are gold to copper.",
+			"filename": "06_06_international-style_pale_ale",
+			"identifier": "ba_2020_international-style_pale_ale",
+			"name": "International-Style Pale Ale",
+			"search-title": "BA 2020: International-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Finnish-Style Sahtis are pale to copper. ",
+			"filename": "06_07_finnish-style_sahti",
+			"identifier": "ba_2020_finnish-style_sahti",
+			"name": "Finnish-Style Sahti",
+			"search-title": "BA 2020: Finnish-Style Sahti",
+			"searchable": true
+		}, {
+			"description": "Swedish-Style Gotlandsdrickes are pale to copper.",
+			"filename": "06_09_swedish-style_gotlandsdricke",
+			"identifier": "ba_2020_swedish-style gotlandsdricke",
+			"name": "Swedish-Style Gotlandsdricke",
+			"search-title": "BA 2020: Swedish-Style Gotlandsdricke",
+			"searchable": true
+		}, {
+			"description": "Breslau-Style Schoeps are straw to black.",
+			"filename": "06_10_breslau-style_pale_schops",
+			"identifier": "ba_2020_breslau-style_pale_schops",
+			"name": "Breslau-Style Schoeps",
+			"search-title": "BA 2020: Breslau-Style Schoeps",
+			"searchable": true
+		}]
+	}, {
+		"index": "7",
+		"name": "European Origin Lager Styles",
+		"sections": [{
+			"description": "German-Style Pilseners are straw to pale.",
+			"filename": "07_01_german-style_pilsener",
+			"identifier": "ba_2020_german-style_pilsener",
+			"name": "German-Style Pilsener",
+			"search-title": "BA 2020: German-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Bohemian-Style Pilseners are straw to light amber.",
+			"filename": "07_02_bohemian-style_pilsener",
+			"identifier": "ba_2020_bohemian-style_pilsener",
+			"name": "Bohemian-Style Pilsener",
+			"search-title": "BA 2020: Bohemian-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Munich Helles lagers are pale to golden.",
+			"filename": "07_03_munich-style_helles",
+			"identifier": "ba_2020_munich-style_helles",
+			"name": "Munich-Style Helles",
+			"search-title": "BA 2020: Munich-Style Helles",
+			"searchable": true
+		}, {
+			"description": "Dortmunder/European-Style Exports are straw to deep golden.",
+			"filename": "07_04_dortmunder-style_export",
+			"identifier": "ba_2020_dortmunder-style_export",
+			"name": "Dortmunder/European-Style Export",
+			"search-title": "BA 2020: Dortmunder/European-Style Export",
+			"searchable": true
+		}, {
+			"description": "Vienna-Style Lagers are copper to reddish brown.",
+			"filename": "07_05_vienna-style_lager",
+			"identifier": "ba_2020_vienna-style_lager",
+			"name": "Vienna-Style Lager",
+			"search-title": "BA 2020: Vienna-Style Lager",
+			"searchable": true
+		}, {
+			"description": "Franconian-Style Rotbiers are amber to dark red.",
+			"filename": "07_06_franconian-style_rotbier",
+			"identifier": "ba_2020_franconian-style_rotbier",
+			"name": "Franconian-Style Rotbier",
+			"search-title": "BA 2020: Franconian-Style Rotbier",
+			"searchable": true
+		}, {
+			"description": "German-Style Maerzen are pale to reddish brown.",
+			"filename": "07_07_german-style_marzen",
+			"identifier": "ba_2020_german-style_maerzen",
+			"name": "German-Style Maerzen",
+			"search-title": "BA 2020: German-Style Maerzen",
+			"searchable": true
+		}, {
+			"description": "German-Style Oktoberfest/Wiesns are straw to golden.",
+			"filename": "07_08_german-style_oktoberfest",
+			"identifier": "ba_2020_german-style_oktoberfest",
+			"name": "German-Style Oktoberfest/Wiesn",
+			"search-title": "BA 2020: German-Style Oktoberfest/Wiesn",
+			"searchable": true
+		}, {
+			"description": "Munich-Style Dunkel are light brown to brown.",
+			"filename": "07_09_munich-style_dunkel",
+			"identifier": "ba_2020_munich-style_dunkel",
+			"name": "Munich-Style Dunkel",
+			"search-title": "BA 2020: Munich-Style Dunkel",
+			"searchable": true
+		}, {
+			"description": "European-Style Dark Lagers are light brown to dark brown.",
+			"filename": "07_10_european-style_dark_lager",
+			"identifier": "ba_2020_european-style_dark_lager",
+			"name": "European-Style Dark Lager",
+			"search-title": "BA 2020: European-Style Dark Lager",
+			"searchable": true
+		}, {
+			"description": "German-Style Schwarzbiers are very dark brown to black, with a pale-colored head.",
+			"filename": "07_11_german-style_schwarzbier",
+			"identifier": "ba_2020_german-style_schwarzbier",
+			"name": "German-Style Schwarzbier",
+			"search-title": "BA 2020: German-Style Schwarzbier",
+			"searchable": true
+		}, {
+			"description": "German-Style Leichtbiers are straw to pale.",
+			"filename": "07_12_german-style_leichtbier",
+			"identifier": "ba_2020_german-style_leichtbier",
+			"name": "German-Style Leichtbier",
+			"search-title": "BA 2020: German-Style Leichtbier",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Helles Rauchbiers are light pale to golden.",
+			"filename": "07_13_bamberg-style_helles_rauchbier",
+			"identifier": "ba_2020_bamberg-style_helles_rauchbier",
+			"name": "Bamberg-Style Helles Rauchbier",
+			"search-title": "BA 2020: Bamberg-Style Helles Rauchbier",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Maerzen Rauchbiers are pale to light brown.",
+			"filename": "07_14_bamberg-style_maerzen_rauchbier",
+			"identifier": "ba_2020_bamberg-style_maerzen_rauchbier",
+			"name": "Bamberg-Style Maerzen Rauchbier",
+			"search-title": "BA 2020: Bamberg-Style Maerzen Rauchbier",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Bock Rauchbiers are dark brown to very dark.",
+			"filename": "07_15_bamberg-style_bock_rauchbier",
+			"identifier": "ba_2020_bamberg-style_bock_rauchbier",
+			"name": "Bamberg-Style Bock Rauchbier",
+			"search-title": "BA 2020: Bamberg-Style Bock Rauchbier",
+			"searchable": true
+		}, {
+			"description": "German-Style Heller Bock/Maibocks are pale to light amber.",
+			"filename": "07_16_german-style_heller_bock",
+			"identifier": "ba_2020_german-style_heller_bock",
+			"name": "German-Style Heller Bock/Maibock",
+			"search-title": "BA 2020: German-Style Heller Bock/Maibock",
+			"searchable": true
+		}, {
+			"description": "Traditional German-Style Bocks are dark brown to very dark.",
+			"filename": "07_17_traditional_german-style_bock",
+			"identifier": "ba_2020_traditional_german-style_bock",
+			"name": "Traditional German-Style Bock",
+			"search-title": "BA 2020: Traditional German-Style Bock",
+			"searchable": true
+		}, {
+			"description": "German-Style Doppelbocks are copper to dark brown.",
+			"filename": "07_18_german-style_doppelbock",
+			"identifier": "ba_2020_german-style_doppelbock",
+			"name": "German-Style Doppelbock",
+			"search-title": "BA 2020: German-Style Doppelbock",
+			"searchable": true
+		}, {
+			"description": "German-Style Eisbocks are light brown to black.",
+			"filename": "07_19_german-style_eisbock",
+			"identifier": "ba_2020_german-style_eisbock",
+			"name": "German-Style Eisbock",
+			"search-title": "BA 2020: German-Style Eisbock",
+			"searchable": true
+		}]
+	}, {
+
+		"index": "8",
+		"name": "North American Origin Lager Styles",
+		"sections": [{
+			"description": "American-Style Lagers are straw to gold.",
+			"filename": "08_01_american-style_lager",
+			"identifier": "ba_2020_american-style_lager",
+			"name": "American-Style Lager",
+			"search-title": "BA 2020: American-Style Lager",
+			"searchable": true
+		}, {
+			"description": "Contemporary American-Style Lagers are straw to gold.",
+			"filename": "08_02_contemporary_american-style_lager",
+			"identifier": "ba_2020_contemporary_american-style_lager",
+			"name": "Contemporary American-Style Lager",
+			"search-title": "BA 2020: Contemporary American-Style Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Light Lagers are very light to pale.",
+			"filename": "08_03_american-style_light_lager",
+			"identifier": "ba_2020_american-style_light_lager",
+			"name": "American-Style Light Lager",
+			"search-title": "BA 2020: American-Style Light Lager",
+			"searchable": true
+		}, {
+			"description": "Contemporary American-Style Light Lagers are very light to medium amber.",
+			"filename": "08_04_contempoarary_american-style_light_lager",
+			"identifier": "ba_2020_contempoarary_american-style_light_lager",
+			"name": "Contemporary American-Style Light Lager",
+			"search-title": "BA 2020: Contemporary American-Style Light Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Pilseners are straw to gold.",
+			"filename": "08_05_american-style_pilsener",
+			"identifier": "ba_2020_american-style_pilsener",
+			"name": "American-Style Pilsener",
+			"search-title": "BA 2020: American-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Contemporary American-Style Pilseners are straw to gold.",
+			"filename": "08_06_contemporary_american-style_pilsener",
+			"identifier": "ba_2020_contemporary_american-style_pilsener",
+			"name": "Contemporary American-Style Pilsener",
+			"search-title": "BA 2020: Contemporary American-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "American-Style India Pale Lagers are straw to gold.",
+			"filename": "08_07_american-style_india_pale_lager",
+			"identifier": "ba_2020_american-style_india_pale_lager",
+			"name": "American-Style India Pale Lager",
+			"search-title": "BA 2020: American-Style India Pale Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Malt Liquors are straw to gold.",
+			"filename": "08_08_american-style_malt_liquor",
+			"identifier": "ba_2020_american-style_malt_liquor",
+			"name": "American-Style Malt Liquor",
+			"search-title": "BA 2020: American-Style Malt Liquor",
+			"searchable": true
+		}, {
+			"description": "American-Style Amber Lagers are gold to copper.",
+			"filename": "08_09_american-style_amber_lager",
+			"identifier": "ba_2020_american-style_amber_lager",
+			"name": "American-Style Amber Lager",
+			"search-title": "BA 2020: American-Style Amber Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Maerzen/Oktoberfests are pale to reddish brown.",
+			"filename": "08_10_american-style_oktoberfest",
+			"identifier": "ba_2020_american-style_oktoberfest",
+			"name": "American-Style Maerzen/Oktoberfest",
+			"search-title": "BA 2020: American-Style Maerzen/Oktoberfest",
+			"searchable": true
+		}, {
+			"description": "American-Style Dark Lagers are light brown to very dark.",
+			"filename": "08_11_american-style_dark_lager",
+			"identifier": "ba_2020_american-style_dark_lager",
+			"name": "American-Style Dark Lager",
+			"search-title": "BA 2020: American-Style Dark Lager",
+			"searchable": true
+		}]
+	}, {
+
+		"index": "9",
+		"name": "Other Origin Lager Styles",
+		"sections": [{
+			"description": "Baltic-Style Porters are black.",
+			"filename": "09_01_baltic-style_porter",
+			"identifier": "ba_2020_baltic-style_porter",
+			"name": "Baltic-Style Porter",
+			"search-title": "BA 2020: Baltic-Style Porter",
+			"searchable": true
+		}, {
+			"description": "Australasian, Latin American or Tropical-Style Light Lagers are straw to gold.",
+			"filename": "09_02_tropical-style_light_lager",
+			"identifier": "ba_2020_tropical-style_light_lager",
+			"name": "Australasian, Latin American or Tropical-Style Light Lager",
+			"search-title": "BA 2020: Australasian, Latin American or Tropical-Style Light Lager",
+			"searchable": true
+		}, {
+			"description": "International-Style Pilseners are straw to pale.",
+			"filename": "09_03_international-style_pilsener",
+			"identifier": "ba_2020_international-style_pilsener",
+			"name": "International-Style Pilsener",
+			"search-title": "BA 2020: International-Style Pilsener",
+			"searchable": true
+		}]
+
+	}, {
+		"index": "10",
+		"name": "All Origin Hybrid/Mixed Lager or Ales",
+		"sections": [{
+			"description": "Session Beers are the color of the classic beer style being made to lower strength.",
+			"filename": "10_01_session_beer",
+			"identifier": "ba_2020_session_beer",
+			"name": "Session Beer",
+			"search-title": "BA 2020: Session Beer",
+			"searchable": true
+		}, {
+			"description": "Session India Pale Ales are straw to copper.",
+			"filename": "10_02_session_india_pale_ale",
+			"identifier": "ba_2020_session_india_pale_ale",
+			"name": "Session India Pale Ale",
+			"search-title": "BA 2020: Session India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Cream Ales are straw to gold.",
+			"filename": "10_03_american-style_cream_ale",
+			"identifier": "ba_2020_american-style_cream_ale",
+			"name": "American-Style Cream Ale",
+			"search-title": "BA 2020: American-Style Cream Ale",
+			"searchable": true
+		}, {
+			"description": "California Common Beers are light amber to medium amber.",
+			"filename": "10_04_california_common_beer",
+			"identifier": "ba_2020_california_common_beer",
+			"name": "California Common Beer",
+			"search-title": "BA 2020: California Common Beer",
+			"searchable": true
+		}, {
+			"description": "American-Style Wheat Beers are straw to dark brown.",
+			"filename": "10_05_american_wheat_beer",
+			"identifier": "ba_2020_american_wheat_beer",
+			"name": "American-Style Wheat Beer",
+			"search-title": "BA 2020: American-Style Wheat Beer",
+			"searchable": true
+		}, {
+			"description": "Kellerbiers or Zwickelbiers vary depending on the underlying European origin lager or ale style.",
+			"filename": "10_06_kellerbier_zwickelbier",
+			"identifier": "ba_2020_kellerbier_zwickelbier",
+			"name": "Kellerbier or Zwickelbier",
+			"search-title": "BA 2020: Kellerbier or Zwickelbier",
+			"searchable": true
+		}, {
+			"description": "American-Style Fruit Beers are any range of color from pale to very dark depending on the underlying style, and are often influenced by the color of added fruit.",
+			"filename": "10_07_american-style_fruit_beer",
+			"identifier": "ba_2020_american-style_fruit_beer",
+			"name": "American-Style Fruit Beer",
+			"search-title": "BA 2020: American-Style Fruit Beer",
+			"searchable": true
+		}, {
+			"description": "Fruit Wheat Beers are generally straw to light amber, and often influenced by the color of added fruit.",
+			"filename": "10_08_fruit_wheat_beer",
+			"identifier": "ba_2020_fruit_wheat_beer",
+			"name": "Fruit Wheat Beer",
+			"search-title": "BA 2020: Fruit Wheat Beer",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Fruit Beers are any range of color from pale to dark depending on underlying Belgian style, and is often influenced by the color of added fruit.",
+			"filename": "10_09_belgian-style_fruit_beer",
+			"identifier": "ba_2020_belgian-style_fruit_beer",
+			"name": "Belgian-Style Fruit Beer",
+			"search-title": "BA 2020: Belgian-Style Fruit Beer",
+			"searchable": true
+		}, {
+			"description": "Field Beers are any range of color from pale to very dark depending on the underlying style, and is often influenced by the color of added fruit.",
+			"filename": "10_10_field_beer",
+			"identifier": "ba_2020_field_beer",
+			"name": "Field Beer",
+			"search-title": "BA 2020: Field Beer",
+			"searchable": true
+		}, {
+			"description": "Pumpkin Spice Beers are any range of color from pale to very dark depending on the underlying style.",
+			"filename": "10_11_pumpkin_spice_beer",
+			"identifier": "ba_2020_pumpkin_spice_beer",
+			"name": "Pumpkin Spice Beer",
+			"search-title": "BA 2020: Pumpkin Spice Beer",
+			"searchable": true
+		}, {
+			"description": "Pumpkin/Squash Beers are any range of color from pale to very dark depending on the underlying style.",
+			"filename": "10_12_pumpkin_beer",
+			"identifier": "ba_2020_pumpkin_beer",
+			"name": "Pumpkin/Squash Beer",
+			"search-title": "BA 2020: Pumpkin/Squash Beer",
+			"searchable": true
+		}, {
+			"description": "Chocolate or Cocoa Beers can range from pale to very dark depending on the underlying style.",
+			"filename": "10_13_chocolate_beer",
+			"identifier": "ba_2020_chocolate_beer",
+			"name": "Chocolate or Cocoa Beer",
+			"search-title": "BA 2020: Chocolate or Cocoa Beer",
+			"searchable": true
+		}, {
+			"description": "Coffee Beers are pale to black depending on the underlying style.",
+			"filename": "10_14_coffee_beer",
+			"identifier": "ba_2020_coffee_beer",
+			"name": "Coffee Beer",
+			"search-title": "BA 2020: Coffee Beer",
+			"searchable": true
+		}, {
+			"description": "Chili Pepper Beers can range from pale to very dark depending on the underlying style.",
+			"filename": "10_15_chili_pepper_beer",
+			"identifier": "ba_2020_chili_pepper_beer",
+			"name": "Chili Pepper Beer",
+			"search-title": "BA 2020: Chili Pepper Beer",
+			"searchable": true
+		}, {
+			"description": "Herb and Spice Beers are any range of color depending on underlying style.",
+			"filename": "10_16_herb_spice_beer",
+			"identifier": "ba_2020_herb_spice_beer",
+			"name": "Herb and Spice Beer",
+			"search-title": "BA 2020: Herb and Spice Beer",
+			"searchable": true
+		}, {
+			"description": "Specialty Beers are very light to black depending on the underlying style.",
+			"filename": "10_17_specialty_beer",
+			"identifier": "ba_2020_specialty_beer",
+			"name": "Specialty Beer",
+			"search-title": "BA 2020: Specialty Beer",
+			"searchable": true
+		}, {
+			"description": "Specialty Honey Beers are very light to black depending on underlying style.",
+			"filename": "10_18_specialty_honey_beer",
+			"identifier": "ba_2020_specialty_honey_beer",
+			"name": "Specialty Honey Beer",
+			"search-title": "BA 2020: Specialty Honey Beer",
+			"searchable": true
+		}, {
+			"description": "Rye Beers are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer.",
+			"filename": "10_19_rye_beer",
+			"identifier": "ba_2020_rye_beer",
+			"name": "Rye Beer",
+			"search-title": "BA 2020: Rye Beer",
+			"searchable": true
+		}, {
+			"description": "Brett Beers are any range of color and may take on the color of added fruits or other ingredients.",
+			"filename": "10_20_brett_beer",
+			"identifier": "ba_2020_brett_beer",
+			"name": "Brett Beer",
+			"search-title": "BA 2020: Brett Beer",
+			"searchable": true
+		}, {
+			"description": "Mixed-Culture Brett Beers are any range of color and may take on the color of added fruits or other ingredients.",
+			"filename": "10_21_mixed-culture_brett_beer",
+			"identifier": "ba_2020_mixed-culture_brett_beer",
+			"name": "Mixed-Culture Brett Beer",
+			"search-title": "BA 2020: Mixed-Culture Brett Beer",
+			"searchable": true
+		}, {
+			"description": "Ginjo Beer or Sake-Yeast Beers are pale to dark brown.",
+			"filename": "10_22_ginjo_beer",
+			"identifier": "ba_2020_ginjo_beer",
+			"name": "Ginjo Beer or Sake-Yeast Beer",
+			"search-title": "BA 2020: Ginjo Beer or Sake-Yeast Beer",
+			"searchable": true
+		}, {
+			"description": "Fresh Hop Beers are the color of the underlying ale style being made with fresh hops.",
+			"filename": "10_23_fresh_hop_beer",
+			"identifier": "ba_2020_fresh_hop_beer",
+			"name": "Fresh Hop Beer",
+			"search-title": "BA 2020: Fresh Hop Beer",
+			"searchable": true
+		}, {
+			"description": "Wood- and Barrel-Aged Beers are any range of color and can be influenced by the color of added fruit(s) if any.",
+			"filename": "10_24_wood_aged_beer",
+			"identifier": "ba_2020_wood_aged_beer",
+			"name": "Wood- and Barrel-Aged Beer",
+			"search-title": "BA 2020: Wood- and Barrel-Aged Beer",
+			"searchable": true
+		}, {
+			"description": "Wood- and Barrel-Aged Sour Beers are any range of color and can be influenced by the color of added fruit(s) if any.",
+			"filename": "10_25_wood_aged_sour_beer",
+			"identifier": "ba_2020_wood_aged_sour_beer",
+			"name": "Wood- and Barrel-Aged Sour Beer",
+			"search-title": "BA 2020: Wood- and Barrel-Aged Sour Beer",
+			"searchable": true
+		}, {
+			"description": "Aged Beers are any range or color from very light to black.",
+			"filename": "10_26_aged_beer",
+			"identifier": "ba_2020_aged_beer",
+			"name": "Aged Beer",
+			"search-title": "BA 2020: Aged Beer",
+			"searchable": true
+		}, {
+			"description": "Experimental Beers are any range of color.",
+			"filename": "10_27_experimental_beer",
+			"identifier": "ba_2020_experimental_beer",
+			"name": "Experimental Beer",
+			"search-title": "BA 2020: Experimental Beer",
+			"searchable": true
+		}, {
+			"description": "Experimental India Pale Ales can range from pale to very dark.",
+			"filename": "10_28_experimental_india_pale_ale",
+			"identifier": "ba_2020_experimental_india_pale_ale",
+			"name": "Experimental India Pale Ale",
+			"search-title": "BA 2020: Experimental India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Historical Beers are any range of color.",
+			"filename": "10_29_historical_beer",
+			"identifier": "ba_2020_historical_beer",
+			"name": "Historical Beer",
+			"search-title": "BA 2020: Historical Beer",
+			"searchable": true
+		}, {
+			"description": "Wild Beers are any range of color.",
+			"filename": "10_30_wild_beer",
+			"identifier": "ba_2020_wild_beer",
+			"name": "Wild Beer",
+			"search-title": "BA 2020: Wild Beer",
+			"searchable": true
+		}, {
+			"description": "Smoke Beers are any beer of any style incorporating smoke, and therefore may range from very light to black.",
+			"filename": "10_31_smoke_beer",
+			"identifier": "ba_2020_smoke_beer",
+			"name": "Smoke Beer",
+			"search-title": "BA 2020: Smoke Beer",
+			"searchable": true
+		}, {
+			"description": "Other Strong Ale or Lagers are any color from very light to black.",
+			"filename": "10_32_other_strong_ale_lager",
+			"identifier": "ba_2020_other_strong_ale_lager",
+			"name": "Other Strong Ale or Lager",
+			"search-title": "BA 2020: Other Strong Ale or Lager",
+			"searchable": true
+		}, {
+			"description": "Gluten-Free Beers are very light to black.",
+			"filename": "10_33_gluten-free_beer",
+			"identifier": "ba_2020_gluten-free_beer",
+			"name": "Gluten-Free Beer",
+			"search-title": "BA 2020: Gluten-Free Beer",
+			"searchable": true
+		}, {
+			"description": "Non-Alcoholic Malt Beverages are any range or color from very light to black.",
+			"filename": "10_34_non-alcoholic_malt_beverage",
+			"identifier": "ba_2020_non-alcoholic_malt_beverage",
+			"name": "Non-Alcoholic Malt Beverage",
+			"search-title": "BA 2020: Non-Alcoholic Malt Beverage",
+			"searchable": true
+		}]
+
+	}],
+	"identifier": "ba_2020",
+	"name": "BA 2020 Beer Style Guidelines",
+	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/"
+}
