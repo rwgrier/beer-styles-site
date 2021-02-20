@@ -1,14 +1,14 @@
 {
   "activitycontinuation": {
     "apps": [
-      "G8C3PMN49A.com.ryangrier.BeerStyles"
+      "L9G38R6KV7.com.ryangrier.BeerStyles"
     ]
   },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "G8C3PMN49A.com.ryangrier.BeerStyles",
+        "appID": "L9G38R6KV7.com.ryangrier.BeerStyles",
         "paths": [
           "/",
           "/guide/*"
