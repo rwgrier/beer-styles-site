@@ -1,0 +1,19 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "L9G38R6KV7.com.ryangrier.BeerStyles"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "L9G38R6KV7.com.ryangrier.BeerStyles",
+        "paths": [
+          "/",
+          "/guide/*"
+        ]
+      }
+    ]
+  }
+}
