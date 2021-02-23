@@ -1,0 +1,49 @@
+body {
+  font: -apple-system-body;
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+  color: #000;
+  background: #fff;
+}
+
+h1 {
+  font: -apple-system-headline1;
+}
+
+h2 {
+  border-bottom: 1px solid #CCC;
+  font: -apple-system-headline2;
+}
+
+hr {
+  height: 0.2em;
+  border: 0;
+}
+
+blockquote, dl, li, ol, p, pre, table, ul {
+  margin: 15px 0
+}
+
+th, td {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%
+}
+
+a {
+  color: #61C169;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+	body {
+		color: #fff;
+		background: #000;
+	}
+	
+	th, td {
+  		border: 1px solid white;
+	}
+}
