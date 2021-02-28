@@ -1,0 +1,10 @@
+Beer Style Guidelines 2021.2
+
+Revamped how universal search works within the app. 
+
+The following guide sections didn't load properly from universal search: 
+* BJCP 2015: American Amber Ale
+* BJCP 2015: California Common
+* BJCP 2015: American Brown Ale
+
+These should be fixed and available from universal search. 

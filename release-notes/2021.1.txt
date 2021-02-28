@@ -1,0 +1,3 @@
+Beer Style Guidelines 2021.1
+
+Revamped how sharing works within the app. 
