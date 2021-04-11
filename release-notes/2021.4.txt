@@ -1,0 +1,4 @@
+Beer Style Guidelines 2021.4
+
+* Re-enabled iPad keyboard shortcuts (finally). 
+* Some under the hood updates
