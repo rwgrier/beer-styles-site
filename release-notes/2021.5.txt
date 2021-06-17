@@ -1,0 +1,5 @@
+Beer Style Guidelines 2021.5
+
+Our largest update in a long time! But you shouldn't notice much. There is a new 3-column layout on the iPad, but everything looks similar on iPhone. This is the first release that is laying the groundwork for something big coming in a future build. 
+
+While I was in there, I fixed a few bugs. I just hope I didn't create too many new bugs with all of these changes. Thanks for using the app!
