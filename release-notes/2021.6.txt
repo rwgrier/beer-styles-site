@@ -1,0 +1,3 @@
+Beer Style Guidelines 2021.6
+
+Updated for the latest iOS release and devices. 
