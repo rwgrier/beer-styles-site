@@ -4,11 +4,11 @@ To assist with regrouping styles for other purposes, we have added informational
 
 <table>
 	<tr>
-		<th>Category</th>
-		<th>Tag</th>
-		<th>Meaning</th>
+		<th><b>Category</b></th>
+		<th><b>Tag</b></th>
+		<th><b>Meaning</b></th>
 	</tr>
-	<tr><td colspan="3"><strong>Strength</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Strength</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>session-strength</td>
@@ -29,7 +29,7 @@ To assist with regrouping styles for other purposes, we have added informational
 		<td>very-high-strength</td>
 		<td>>9% ABV</td>
 	</tr>
-	<tr><td colspan="3"><strong>Color</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Color</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>pale-color</td>
@@ -45,7 +45,7 @@ To assist with regrouping styles for other purposes, we have added informational
 		<td>dark-color</td>
 		<td>dark brown to black</td>
 	</tr>
-	<tr><td colspan="3"><strong>Fermentation/Conditioning</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Fermentation/Conditioning</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>top-fermented</td>
@@ -76,7 +76,7 @@ To assist with regrouping styles for other purposes, we have added informational
 		<td>aged</td>
 		<td>long conditioning before release</td>
 	</tr>
-	<tr><td colspan="3"><strong>Region of Origin</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Region of Origin</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>british-isles</td>
@@ -107,7 +107,7 @@ To assist with regrouping styles for other purposes, we have added informational
 		<td>pacific</td>
 		<td>Australia, New Zealand</td>
 	</tr>
-	<tr><td colspan="3"><strong>Style Family</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Style Family</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>ipa-family</td>
@@ -178,7 +178,7 @@ To assist with regrouping styles for other purposes, we have added informational
 		<td>specialty-beer</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr><td colspan="3"><strong>Era</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Era</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>craft-style</td>
@@ -194,7 +194,7 @@ To assist with regrouping styles for other purposes, we have added informational
 		<td>historical-style</td>
 		<td>no longer made, or very limited production</td>
 	</tr>
-	<tr><td colspan="3"><strong>Dominant Flavor</strong></td></tr>
+	<tr><td colspan="3"><strong><b>Dominant Flavor</b></strong></td></tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>malty</td>

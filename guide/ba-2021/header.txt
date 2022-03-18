@@ -9,7 +9,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="apple-itunes-app" content="app-id=998139111">
 
-  <!-- SITE TITLE -->
   <title>Beer Style Guidelines - 2021 Brewers Association Beer Style Guidelines</title>
 
   <link rel="stylesheet" href="../../css/guide.css">
@@ -19,12 +18,9 @@
   <link rel="apple-touch-icon" sizes="152x152" href="./images/apple-icon-152x152.png">
 
   <script src="https://unpkg.com/@telemetrydeck/sdk/dist/telemetrydeck.min.js" defer></script>
-
   <script>
     window.td = window.td || [];
-    td.push(['app', 'FF375710-D008-45FA-AADF-C947B5FF92BE'], ['user', 'anonymous'], ['web-guide', {
-      guide: 'ba-2021'
-    }]);
+    td.push(['app', 'FF375710-D008-45FA-AADF-C947B5FF92BE'], ['user', 'anonymous'], ['signal']);
   </script>
 </head>
 
