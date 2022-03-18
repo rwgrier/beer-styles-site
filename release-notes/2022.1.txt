@@ -1,0 +1,10 @@
+Beer Style Guidelines 2022.1
+
+First update of 2022. 🥳
+
+* Adds the 2021 BJCP Beer Style Guidelines.
+* Removes access to the 2015 BJCP Beer Style Guidelines.
+* Removes access to the 2020 Brewers Association Beer Style Guidelines.
+* Adds basic Telemetry analytics.
+* Updates the "Page Down" keyboard shortcut to use a space (as it should have been all along).
+* Fixes a crashing issue. 
