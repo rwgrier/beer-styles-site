@@ -1,0 +1,9 @@
+# Basic Categorization
+
+The most general categorization of beer styles by yeast type is a modern craft brewing phenomenon. American brewers and most other craft brewers call beers _ales_ if they use top-fermenting (ale) yeast and _lagers_ if they use bottom-fermenting (lager) yeast. Most categorization systems will allow for a third classification, often called spontaneously-fermented because of the method; however, _wild_ or _mixed fermentation_ are perhaps more widely-used modern craft beer terms for these beers fermented with bacteria or non-Saccharomyces yeast. The term _wild_ in this context should not be interpreted to imply spontaneously-fermented; most are directly inoculated with the desired fermentation strains.
+
+In Germany and other old-world brewing centers, the terminology most typically used to differentiate beers is to refer to them as _top-fermented_ or _bottom-fermented_. Germans think of ale as a type of English beer, and lager as a method of conditioning beer. So, Germans would typically speak of Kölsch as a top-fermented lager beer, not an ale, for example.
+
+English brewers, particularly when dealing in a historical context, might separate ales from porters and stouts as types of beer (although in the next breath, saying there is no difference between porters and stouts). They might go even further to describe ale as historically distinct from beer in that beer was hopped (or more highly hopped) than ale. These historical notes are important for understanding old recipes and writings, but have little relevance today in the common usages of terms describing beer.
+
+These guidelines attempt to use the modern craft beer definitions of _ale_, _lager_, and _wild_ as the major groupings of beer styles, but will mention how they might be described in local or regional contexts, if possible.
