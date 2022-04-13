@@ -1,0 +1,6 @@
+Beer Style Guidelines 2022.2
+
+Second update of 2022. We're on a roll!
+
+* Adds the 2022 Brewers Association Beer Style Guidelines.
+* Fixed another crashing issue. Hoping this was the last one. 
