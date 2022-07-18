@@ -1,0 +1,3 @@
+Beer Style Guidelines 2022.3
+
+There's a new way to change sections in a guide. You can now swipe left and right to change sections. The next/previous buttons are gone in favor of this new approach.
