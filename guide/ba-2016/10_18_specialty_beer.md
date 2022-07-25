@@ -1,0 +1,11 @@
+# Specialty Beer
+
+Specialty Beers are very light to black depending on the underlying style. Clear or hazy beer is acceptable in appearance. Specialty Beers are brewed with unusual fermentable sugars, grains and/or starches other than or in addition to malted barley, which contribute to alcohol content. For example, maple syrup, agave or potatoes are considered unusual. Rice, corn, or wheat are not considered unusual. The distinctive characters of these special ingredients should be evident in the aroma, flavor and/or overall balance of the beer, but not necessarily in overpowering quantities. Malt sweetness will vary dramatically depending on overall balance desired. Hop bitterness is very low to very high, and may be used for highlighting desired characters. Body is variable with style. Classifying these beers can be complex. Nuts generally impart much more flavor than fermentables, thus beer brewed with nuts would be appropriately characterized as Field Beer. Beers brewed with coconut are typically characterized as Field Beer. Beers brewed with honey would most appropriately be characterized as Specialty Honey Beer. Beer brewed with roots, seeds, flowers etc. and which exhibit herbal and/or spicy characters would be appropriately characterized as Herb and Spice Beer (for example a juniper berry beer in which juniper berry characters are expressed more as herbal or spice quality than as berry fruity character). While beers brewed with fruits or vegetables may derive fermentable carbohydrate from those sources, such beers which exhibit fruit or vegetable qualities would most appropriately be characterized as Fruit Beer or Field Beer. Spiced versions of beers made with unusual fermentables would be appropriately characterized as Experimental Beer. Beers brewed with unusual fermentables as well as fruit should be entered as Fruit Beer. _A statement by the brewer identifying the unusual fermentable ingredient(s), underlying classic or other beer style and achieved character is essential in order for accurate assessment in competitions._
+
+## Vital Statistics:
+
+- OG: 1.030 - 1.140+
+- FG: 1.006 - 1.030+
+- IBUs: 1 - 100
+- SRM: 1 - 100
+- ABV: 2.5 - 25.0+%

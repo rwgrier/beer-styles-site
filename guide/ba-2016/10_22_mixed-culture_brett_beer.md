@@ -1,0 +1,11 @@
+# Mixed-Culture Brett Beer
+
+Mixed-Culture Brett Beers are any range of color and may take on the color of added fruits or other ingredients. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Moderate to intense yet balanced fruity-ester aromas are evident. In darker versions, roasted malt, caramel-like and chocolate- like aromas are subtly present. Diacetyl and DMS aromas should not be perceived. Hop aroma evident over a full range from low to high. In darker versions, roasted malt, caramel-like and chocolate-like flavors are subtly present. Fruited versions will exhibit fruit flavors in harmonious balance with other characters. Hop flavor is evident over a full range from low to high. Hop bitterness is evident over a full range from low to high. The evolution of natural acidity develops balanced complexity. Horsey, goaty, leathery, phenolic and light to moderate and/or fruity acidic character evolved from _Brettanomyces_ organisms may be evident, not dominant and in balance with other character. Cultured yeast may be used in the fermentation. Bacteria should be used and in evidence in this style of beer. Acidity will be contributed by bacteria, but may or may not dominate. Moderate to intense yet balanced fruity-ester flavors are evident. Diacetyl and DMS flavors should not be perceived. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Body is evident over a full range from low to high. For purposes of competition entries exhibiting wood-derived characters or characters of liquids previously aged in wood would more appropriately be characterized in other Wood-Aged Beer categories. Wood- and barrel-aged sour ales should not be entered here and are classified elsewhere. _A statement provided by the brewer listing a classic or other style of base beer, fruit, bacteria or any other ingredients if present is essential for accurate assessment at competitions._
+
+## Vital Statistics:
+
+- OG: Varies with style 
+- FG: Varies with style 
+- IBUs: Varies with style 
+- SRM: Varies with style 
+- ABV: Varies with style 

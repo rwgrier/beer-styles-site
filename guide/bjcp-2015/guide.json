@@ -1326,14 +1326,14 @@
       "sections": [
         {
           "filename": "19_intro",
-          "identifier": "bjcp_2019_19_intro",
+          "identifier": "bjcp_2015_19_intro",
           "name": "Amber and Brown American Beer Introduction",
           "searchable": false
         },
         {
           "description": "An amber, hoppy, moderate-strength American craft beer with a caramel malty flavor. The balance can vary quite a bit, with some versions being fairly malty and others being aggressively hoppy. Hoppy and bitter versions should not have clashing flavors with the caramel malt profile.",
           "filename": "19A",
-          "identifier": "bjcp_2019_19a",
+          "identifier": "bjcp_2015_19a",
           "name": "19A American Amber Ale",
           "search-title": "BJCP 2015: American Amber Ale",
           "searchable": true,
@@ -1351,7 +1351,7 @@
         {
           "description": "A lightly fruity beer with firm, grainy maltiness, interesting toasty and caramel flavors, and showcasing rustic, traditional American hop characteristics.",
           "filename": "19B",
-          "identifier": "bjcp_2019_19b",
+          "identifier": "bjcp_2015_19b",
           "name": "19B California Common",
           "search-title": "BJCP 2015: California Common",
           "searchable": true,
@@ -1369,7 +1369,7 @@
         {
           "description": "A malty but hoppy beer frequently with chocolate and caramel flavors. The hop flavor and aroma complements and enhances the malt rather than clashing with it.",
           "filename": "19C",
-          "identifier": "bjcp_2019_19c",
+          "identifier": "bjcp_2015_19c",
           "name": "19C American Brown Ale",
           "search-title": "BJCP 2015: American Brown Ale",
           "searchable": true,
@@ -1392,14 +1392,14 @@
       "sections": [
         {
           "filename": "20_intro",
-          "identifier": "bjcp_2020_20_intro",
+          "identifier": "bjcp_2015_20_intro",
           "name": "American Porter And Stout Introduction",
           "searchable": false
         },
         {
           "description": "A substantial, malty dark beer with a complex and flavorful dark malt character.",
           "filename": "20A",
-          "identifier": "bjcp_2020_20a",
+          "identifier": "bjcp_2015_20a",
           "name": "20A American Porter",
           "search-title": "BJCP 2015: American Porter",
           "searchable": true,
@@ -1418,7 +1418,7 @@
         {
           "description": "A fairly strong, highly roasted, bitter, hoppy dark stout. Has the body and dark flavors typical of stouts with a more aggressive American hop character and bitterness.",
           "filename": "20B",
-          "identifier": "bjcp_2020_20b",
+          "identifier": "bjcp_2015_20b",
           "name": "20B American Stout",
           "search-title": "BJCP 2015: American Stout",
           "searchable": true,
@@ -1437,7 +1437,7 @@
         {
           "description": "An intensely-flavored, big, dark ale with a wide range of flavor balances and regional interpretations. Roasty-burnt malt with deep dark or dried fruit flavors, and a warming, bittersweet finish. Despite the intense flavors, the components need to meld together to create a complex, harmonious beer, not a hot mess.",
           "filename": "20C",
-          "identifier": "bjcp_2020_20c",
+          "identifier": "bjcp_2015_20c",
           "name": "20C Imperial Stout",
           "search-title": "BJCP 2015: Imperial Stout",
           "searchable": true,
@@ -2493,5 +2493,7 @@
   ],
   "identifier": "bjcp_2015",
   "name": "BJCP 2015 Style Guidelines",
-  "url": "http://www.bjcp.org"
+  "shortName": "2015 Guidelines",
+  "url": "http://www.bjcp.org",
+  "version": 1
 }

@@ -1,0 +1,11 @@
+# Belgian-Style Fruit Beer
+
+Belgian-Style Fruit Beers are any range of color from pale to dark depending on underlying Belgian style, and will usually reflect the color of added fruit to some degree. Clear to hazy beer is acceptable in appearance. Fruit aromas ranging from subtle to intense should be evident, and should not be overpowered by hop aromas. Belgian- Style Fruit Beers are fermented with traditional Belgian-, wit-, abbey-, and/or farmhouse-type yeast using fruit or fruit extracts as an adjunct in either the mash, kettle, primary or secondary fermentation providing obvious (ranging from subtle to intense), yet harmonious, fruit qualities. Malt sweetness can vary from not perceived to medium-high levels. Acidic bacterial (not wild yeast) fermentation characters may be evident (but not necessary) and if present contribute to acidity and enhance fruity balance. Body is variable with style. Classifying these beers is complex, with exemplary versions depending on the exhibition of fruit characters more so than the addition of fruit itself, within a Belgian beer style. As examples, a fruited Saison exhibiting some Brett character would be appropriately characterized as Specialty Saison. Whereas a fruited version of a Brett Beer might more appropriately be characterized within a fruited Brett Beer subcategory. Lambic-Style fruit beers should be entered in the Belgian- Style Fruit Lambic category. Fruited Belgian style beers brewed with additional unusual fermentables should be entered in this category. Fruit beers fermented using German, British or American ale or lager yeast would be more appropriately categorized as American-Style Fruit Beer or as Fruit Wheat Beer. At competition coconut is defined as a vegetable; beers exhibiting coconut character would be appropriately entered as Field Beer. A statement by the brewer explaining fruit(s) used and classic or other Belgian beer style is essential in order for accurate assessment in competitions.  
+
+## Vital Statistics:
+
+- OG: 1.030 - 1.110
+- FG: 1.006 - 1.030
+- IBUs: 5 - 70
+- SRM: 5 - 50
+- ABV: 2.5 - 12.0%

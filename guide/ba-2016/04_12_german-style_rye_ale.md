@@ -1,0 +1,11 @@
+# German-Style Rye Ale
+
+German-Style Rye Ales are pale to very dark, with darker versions running dark amber to dark brown. Chill haze is acceptable in versions packaged and served without yeast. In versions served with yeast, appearance may range from hazy to very cloudy. Low to medium banana–like fruity-ester aroma is typical; phenolic, clove-like aromas should also be perceived. In darker versions malt aromas can optionally include low roasted malt characters evident as cocoa/chocolate or caramel, and/or aromatic toffee-like, caramel, or biscuit-like characters. Diacetyl aroma should not be perceived. No yeast aroma should be evident in versions without yeast. Low to medium yeast aroma should not overpower the balance and character of rye and barley malt and hops in versions with yeast. Hop aroma is not perceived. Malt sweetness will vary from low to medium. In darker versions malt flavor can optionally include low roasted malt characters evident as cocoa/chocolate or caramel, and/or aromatic toffee-like, caramel, or biscuit- like characters. Low level roast malt astringency acceptable when balanced with low to medium level malt sweetness. Versions packaged and served without yeast will not have yeast flavor or fuller mouthfeel caused by yeast. Versions packaged and served with yeast will have low to medium yeast flavor and a characteristically fuller mouthfeel, which should not overpower the balance and character of rye and barley malt and hops. Hop flavor is not perceived. Hop bitterness is very low to low. Grist should include at least 30 percent rye malt. Low banana-like fruity-ester flavor is typical; phenolic, clove-like characteristics should also be perceived. Diacetyl flavor should not be perceived. Body is low to medium. _At competition beers will be poured as instructed by entering brewer. During registration brewer may specify pouring instructions, choosing normal pouring, quiet pouring or intentional rousing of yeast._
+
+## Vital Statistics:
+
+- OG: 1.047 - 1.056
+- FG: 1.008 - 1.016
+- IBUs: 10 - 15
+- SRM: 4 - 25
+- ABV: 4.9 - 5.6% 

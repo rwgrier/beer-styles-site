@@ -1,0 +1,11 @@
+# Rye Beer
+
+Rye Beers are often versions of classic styles that contain noticeable rye character in balance with other qualities of the beer. As such they include a wide range of color. Lighter versions are straw to copper, while darker versions are dark amber to dark brown. Chill haze is acceptable in these versions packaged and served without yeast. In versions served with yeast, appearance may range from hazy to very cloudy. Low spicy, fruity-estery aromas are typical. Phenolic, clove-like aromas should not be perceived. In darker versions malt aromas can optionally include low roasted malt characters evident as cocoa/chocolate or caramel, and/or aromatic toffee-like, caramel, or biscuit-like characters. Diacetyl aroma should not be perceived. No yeast aroma should be evident in versions without yeast. Low to medium yeast aroma should not overpower the balance and character of rye and barley malt and hops in versions with yeast. Hop aroma is low to medium-high. In darker versions malt flavor can optionally include low roasted malt characters evident as cocoa/chocolate or caramel, and/or aromatic toffee-like, caramel, or biscuit-like characters. Low level roast malt astringency acceptable when balanced with low to medium malt sweetness. Hop flavor is low to medium-high. Hop bitterness is low to medium. These beers can be made using either ale or lager yeast. Grist should include sufficient rye such that rye character is evident in the beer. Beers brewed with rye but which do not exhibit rye character would be more appropriately considered as other beer styles. Rye characters are often described as low level spicy and subtle black pepper. Very low level astringent, grainy, and/or fruity-ester flavors are typical. Phenolic clove-like characteristics and diacetyl should not be perceived. A low level of tannin derived astringency may be perceived. Body is low to medium. In versions packaged and served without yeast, no yeast characters should be evident in mouthfeel. Versions served with yeast should portray a full yeasty mouthfeel. _A Statement by the brewer indicating the classic or other style being made with rye is essential for accurate assessment in competitions._
+
+## Vital Statistics:
+
+- OG: Varies with style 
+- FG: Varies with style 
+- IBUs: Varies with style 
+- SRM: Varies with style 
+- ABV: Varies with style 

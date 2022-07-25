@@ -1373,14 +1373,14 @@
       "sections": [
         {
           "filename": "20_intro",
-          "identifier": "bjcp_2020_20_intro",
+          "identifier": "bjcp_2021_20_intro",
           "name": "American Porter And Stout Introduction",
           "searchable": false
         },
         {
           "description": "A malty, bitter, and often somewhat hoppy dark beer with a balanced, roasted, and frequently chocolatey character.",
           "filename": "20A",
-          "identifier": "bjcp_2020_20a",
+          "identifier": "bjcp_2021_20a",
           "name": "20A American Porter",
           "search-title": "BJCP 2021: American Porter",
           "searchable": true,
@@ -1399,7 +1399,7 @@
         {
           "description": "A fairly strong, highly roasted, bitter, hoppy dark stout. The body and dark flavors typical of stouts with a more aggressive American hop character and bitterness.",
           "filename": "20B",
-          "identifier": "bjcp_2020_20b",
+          "identifier": "bjcp_2021_20b",
           "name": "20B American Stout",
           "search-title": "BJCP 2021: American Stout",
           "searchable": true,
@@ -1418,7 +1418,7 @@
         {
           "description": "An intensely-flavored, very strong, very dark stout with a broad range of interpretations. Roasty-burnt malt with a depth of dark or dried fruit flavors, and a warming, bittersweet finish. Despite the intense flavors, the components need to meld together to create a complex, harmonious beer, not a hot mess – sometimes only accomplished with age.",
           "filename": "20C",
-          "identifier": "bjcp_2020_20c",
+          "identifier": "bjcp_2021_20c",
           "name": "20C Imperial Stout",
           "search-title": "BJCP 2021: Imperial Stout",
           "searchable": true,
@@ -2548,6 +2548,7 @@
   ],
   "identifier": "bjcp_2021",
   "name": "BJCP 2021 Style Guidelines",
+  "shortName": "2021 Guidelines",
   "url": "http://www.bjcp.org",
   "version": 1
 }

@@ -1,0 +1,11 @@
+# Belgian-Style Gueuze Lambic
+
+Belgian-Style Gueuze Lambics are gold to medium-amber. Cloudiness is acceptable, as Gueuze is always refermented in the bottle. Gueuze is characterized by intense fruity-estery, sour, and acidic aromas. Diacetyl aroma should be absent. Characteristic horsey, goaty, leathery and phenolic aromas evolved from _Brettanomyces_ yeast are often present at moderate levels. Hop aroma is not perceived to very low, and can include cheesy or floral lavender-like character. Gueuze is brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. Hop flavor is not perceived. Hop bitterness is very low. Old lambic is blended with newly fermenting young lambic to create this special style of lambic. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic flavors. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic flavors evolved from _Brettanomyces_ yeast are often present at moderate levels. Vanillin and other wood-derived flavors should not be evident. Body is very low with dry mouthfeel. Gueuze Lambics whose origin is the Brussels area are often simply called gueuze lambic. Versions of this beer style made outside of the Brussels area of Belgium are said to be "Belgian-Style Gueuze Lambics." The Belgian-style versions are made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some modern versions may have a degree of sweetness, contributed by sugars or artificial sweeteners. See also Belgian-Style Lambic for additional background information. _Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet._
+
+## Vital Statistics:
+
+- OG: 1.044 - 1.056
+- FG: 1.000 - 1.010
+- IBUs: 11 - 23
+- SRM: 11 - 13
+- ABV: 7.9 - 8.9% 

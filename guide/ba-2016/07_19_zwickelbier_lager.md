@@ -1,0 +1,11 @@
+# Kellerbier or Zwickelbier Lager
+
+Kellerbier or Zwickelbier Lagers are the color of the underlying German lager style. They may appear slightly hazy to moderately cloudy. Exhibiting a small amount of yeast haze is acceptable and traditional. These beers must be unfiltered, but may be naturally clear due to settling of yeast during aging. Head retention may not be optimal. Kellerbier Lagers are unfiltered lagered versions of Germanic lager beer styles such as Münchner Helles and Dunkel, Dortmunder/ Export, Bohemian Pilsener and German Pilsener. Aromas typical of the underlying beer style are present. Low to medium levels of yeast-generated sulfur aromas should be apparent in aroma. Low levels of acetaldehyde or other volatiles normally scrubbed during fermentation may or may not be apparent. Subtle or low fruity-ester aromas may be apparent. Diacetyl aroma should be absent. Hop aroma is variable with style, with dry hopped characters acceptable. Malt character will vary with style (see individual style descriptions). Hop flavor is variable with style, with dry hopped characters acceptable. Hop bitterness is variable with style. Kellerbier Lagers have low to medium carbonation. Subtle or low fruity-ester flavors may be apparent. Low to medium levels of yeast- generated sulfur flavors should be apparent, and low levels of acetaldehyde or other volatiles normally scrubbed during fermentation may or may not be apparent. Diacetyl should be absent. Body is variable with style. The sulfur and acetaldehyde characters should contribute positively to the beer drinking experience. These unfiltered German lager styles are packaged and/or served intentionally with low to moderate amounts of yeast. Products may be filtered and again dosed with yeast in the package, manifesting themselves as bottle conditioned beers or unfiltered beer with yeast present. During registration brewers may specify pouring instructions, choosing normal pouring, quiet pouring or intentional rousing of yeast. Entries will be presented during judging as specified by entering brewer. _A statement by the brewer explaining the underlying classic German ale style is essential for accurate assessment in competitions._
+
+## Vital Statistics:
+
+- OG: Varies with style
+- FG: Varies with style
+- IBUs: Varies with style
+- SRM: Varies with style
+- ABV: Varies with style

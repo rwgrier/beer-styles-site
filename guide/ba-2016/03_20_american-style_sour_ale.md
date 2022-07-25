@@ -1,0 +1,11 @@
+# American-Style Sour Ale
+
+American-Style Sour Ales are any range of color, and may take on the color of other ingredients. Chill haze, bacteria and yeast-induced haze are allowable at low to medium levels at any temperature. Moderate to intense yet balanced fruity-ester aromas are evident. In darker versions, roasted malt, caramel-like and chocolate-like aromas are subtly present. Diacetyl and DMS aromas should not be perceived. Hop aroma is evident over a full range from low to high. In darker versions, roasted malt, caramel-like and chocolate-like flavors are subtly present. Hop flavor is evident over a full range from low to high. Hop bitterness is evident over a full range from low to high. There is no _Brettanomyces_ character in this style of beer. The evolution of natural acidity develops balanced complexity. The acidity present is usually in the form of lactic, acetic and other organic acids naturally developed with acidified malt in the mash or in fermentation by the use of various microorganisms including certain bacteria and yeasts. Acidic character can be a complex balance of several types of acid and characteristics of age. Moderate to intense yet balanced fruity-ester flavors are evident. Residual flavors that come from liquids previously aged in a barrel such as bourbon or sherry should not be present. Wood vessels may be used during the fermentation and aging process, but wood-derived flavors such as vanillin must not be present. Fruited versions will exhibit fruit flavors in harmonious balance with other characters. Diacetyl and DMS flavors should not be perceived. Body is evident over a wide range from low to high. _Entries exhibiting wood-derived characters or characters of liquids previously aged in wood would more appropriately be characterized as Wood-Aged Sour Beers which are classified elsewhere. Fruited versions will exhibit fruit flavors in harmonious balance with other characters. A statement by the brewer explaining the classic or experimental beer style being made sour and identifying fruit or any other ingredients (if any) is essential in order for accurate assessment in competitions._
+
+## Vital Statistics:
+
+- OG: Varies with style
+- FG: Varies with style 
+- IBUs: Varies with style 
+- SRM: Varies with style 
+- ABV: Varies with style 
