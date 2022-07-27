@@ -1,0 +1,6 @@
+This is the trashcan man update. I hope you enjoy it. 
+
+- I've re-added all older guides. If it used to be in the app, it's in the app again. 
+- I think I've also fixed the favoriting of BJCP (2015 & 2021) 20A, 20B, & 20C. 
+
+Beer Style Guidelines is maintained by a single developer. Thanks for the support all these years. 
