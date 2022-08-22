@@ -79,6 +79,11 @@ body {
 	}
 }
 
+ul {
+  list-style-type: none;
+  list-style-position: outside;
+}
+
 /** Tablet **/
 @media (min-width: 48em) {
 
