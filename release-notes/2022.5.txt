@@ -1,0 +1,6 @@
+This version includes: 
+
+- An updated sidebar (guide list) 
+- Fixed a crashing issue when putting the app into the background
+- Fixed a crashing issue that occurred sometimes when rotating the device. 
+- Added macOS support via Mac Catalyst. 
