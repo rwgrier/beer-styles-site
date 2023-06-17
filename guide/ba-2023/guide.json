@@ -1,0 +1,1181 @@
+{
+	"chapters": [{
+		"index": "I",
+		"name": "Introduction to the 2023 Guidelines",
+		"sections": [{
+			"filename": "intro",
+			"identifier": "ba_2023_intro",
+			"name": "2023 Guidelines Introduction",
+            "searchable": false
+		}]
+	}, {
+		"index": "1",
+		"name": "British Origin Ale Styles",
+		"sections": [{
+			"description": "Ordinary Bitter is a British origin style ale",
+			"filename": "01_01_ordinary_bitter",
+			"identifier": "ba_2023_ordinary_bitter",
+			"name": "Ordinary Bitter",
+			"search-title": "BA 2023: Ordinary Bitter",
+			"searchable": true
+		}, {
+			"description": "Special Bitter or Best Bitter is a British origin style ale",
+			"filename": "01_02_special_best_bitter",
+			"identifier": "ba_2023_special_best_bitter",
+			"name": "Special Bitter or Best Bitter",
+			"search-title": "BA 2023: Special Bitter or Best Bitter",
+			"searchable": true
+		}, {
+			"description": "Extra Special Bitter is a British origin style ale",
+			"filename": "01_03_extra_special_bitter",
+			"identifier": "ba_2023_extra_special_bitter",
+			"name": "Extra Special Bitter",
+			"search-title": "BA 2023: Extra Special Bitter",
+			"searchable": true
+		}, {
+			"description": "Scottish-Style Light Ale is a British origin style ale.",
+			"filename": "01_04_scottish-style_light_ale",
+			"identifier": "ba_2023_scottish-style_light_ale",
+			"name": "Scottish-Style Light Ale",
+			"search-title": "BA 2023: Scottish-Style Light Ale",
+			"searchable": true
+		}, {
+			"description": "Scottish-Style Heavy Ale is a British origin style ale.",
+			"filename": "01_05_scottish-style_heavy_ale",
+			"identifier": "ba_2023_scottish-style_heavy_ale",
+			"name": "Scottish-Style Heavy Ale",
+			"search-title": "BA 2023: Scottish-Style Heavy Ale",
+			"searchable": true
+		}, {
+			"description": "Scottish-Style Export Ale is a British origin style ale.",
+			"filename": "01_06_scottish-style_export_ale",
+			"identifier": "ba_2023_scottish-style_export_ale",
+			"name": "Scottish-Style Export Ale",
+			"search-title": "BA 2023: Scottish-Style Export Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Summer Ale is a British origin style ale.",
+			"filename": "01_07_english-style_summer_ale",
+			"identifier": "ba_2023_english-style_summer_ale",
+			"name": "English-Style Summer Ale",
+			"search-title": "BA 2023: English-Style Summer Ale",
+			"searchable": true
+		}, {
+			"description": "Classic English-Style Pale Ale is a British origin style ale.",
+			"filename": "01_08_classic_english-style_pale_ale",
+			"identifier": "ba_2023_classic_english-style_pale_ale",
+			"name": "Classic English-Style Pale Ale",
+			"search-title": "BA 2023: Classic English-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "British-Style India Pale Ale is a British origin style ale.",
+			"filename": "01_09_british-style_india_pale_ale",
+			"identifier": "ba_2023_british-style_india_pale_ale",
+			"name": "British-Style India Pale Ale",
+			"search-title": "BA 2023: British-Style India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Strong Ale is a British origin style ale.",
+			"filename": "01_10_strong_ale",
+			"identifier": "ba_2023_strong_ale",
+			"name": "Strong Ale",
+			"search-title": "BA 2023: Strong Ale",
+			"searchable": true
+		}, {
+			"description": "Old Ale is a British origin style ale.",
+			"filename": "01_11_old_ale",
+			"identifier": "ba_2023_old_ale",
+			"name": "Old Ale",
+			"search-title": "BA 2023: Old Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Pale Mild Ale is a British origin style ale.",
+			"filename": "01_12_english-style_pale_mild_ale",
+			"identifier": "ba_2023_english-style_pale_mild_ale",
+			"name": "English-Style Pale Mild Ale",
+			"search-title": "BA 2023: English-Style Pale Mild Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Dark Mild Ale is a British origin style ale.",
+			"filename": "01_13_english-style_dark_mild_ale",
+			"identifier": "ba_2023_english-style_dark_mild_ale",
+			"name": "English-Style Dark Mild Ale",
+			"search-title": "BA 2023: English-Style Dark Mild Ale",
+			"searchable": true
+		}, {
+			"description": "English-Style Brown Ale is a British origin style ale.",
+			"filename": "01_14_english-style_brown_ale",
+			"identifier": "ba_2023_english-style_brown_ale",
+			"name": "English-Style Brown Ale",
+			"search-title": "BA 2023: English-Style Brown Ale",
+			"searchable": true
+		}, {
+			"description": "Brown Porter is a British origin style ale.",
+			"filename": "01_15_brown_porter",
+			"identifier": "ba_2023_brown_porter",
+			"name": "Brown Porter",
+			"search-title": "BA 2023: Brown Porter",
+			"searchable": true
+		}, {
+			"description": "Robust Porter is a British origin style ale.",
+			"filename": "01_16_robust_porter",
+			"identifier": "ba_2023_robust_porter",
+			"name": "Robust Porter",
+			"search-title": "BA 2023: Robust Porter",
+			"searchable": true
+		}, {
+			"description": "Sweet Stout or Cream Stout is a British origin style ale.",
+			"filename": "01_17_sweet_stout_or_cream_stout",
+			"identifier": "ba_2023_sweet_stout_or_cream_stout",
+			"name": "Sweet Stout or Cream Stout",
+			"search-title": "BA 2023: Sweet Stout or Cream Stout",
+			"searchable": true
+		}, {
+			"description": "Oatmeal Stout is a British origin style ale.",
+			"filename": "01_18_oatmeal_stout",
+			"identifier": "ba_2023_oatmeal_stout",
+			"name": "Oatmeal Stout",
+			"search-title": "BA 2023: Oatmeal Stout",
+			"searchable": true
+		}, {
+			"description": "Scotch Ale is a British origin style ale.",
+			"filename": "01_19_scotch_ale",
+			"identifier": "ba_2023_scotch_ale",
+			"name": "Scotch Ale or Wee Heavy",
+			"search-title": "BA 2023: Scotch Ale or Wee Heavy",
+			"searchable": true
+		}, {
+			"description": "British-Style Imperial Stout is a British origin style ale.",
+			"filename": "01_20_british-style_imperial_stout",
+			"identifier": "ba_2023_british-style_imperial_stout",
+			"name": "British-Style Imperial Stout",
+			"search-title": "BA 2023: British-Style Imperial Stout",
+			"searchable": true
+		}, {
+			"description": "British-Style Barley Wine Ale is a British origin style ale.",
+			"filename": "01_21_british-style_barley_wine_ale",
+			"identifier": "ba_2023_british-style_barley_wine_ale",
+			"name": "British-Style Barley Wine Ale",
+			"search-title": "BA 2023: British-Style Barley Wine Ale",
+			"searchable": true
+		}]
+	}, {
+		"index": "2",
+		"name": "Irish Origin Ale Styles",
+		"sections": [{
+			"description": "Irish-Style Red Ale is a Irish origin style ale.",
+			"filename": "02_01_irish-style_red_ale",
+			"identifier": "ba_2023_irish-style_red_ale",
+			"name": "Irish-Style Red Ale",
+			"search-title": "BA 2023: Irish-Style Red Ale",
+			"searchable": true
+		}, {
+			"description": "Classic Irish-Style Dry Stout is a British origin style ale.",
+			"filename": "02_02_classic_irish-style_dry_stout",
+			"identifier": "ba_2023_classic_irish-style_dry_stout",
+			"name": "Classic Irish-Style Dry Stout",
+			"search-title": "BA 2023: Classic Irish-Style Dry Stout",
+			"searchable": true
+		}, {
+			"description": "Export-Style Stout is a British origin style ale.",
+			"filename": "02_03_export_style_stout",
+			"identifier": "ba_2023_export_style_stout",
+			"name": "Export-Style Stout",
+			"search-title": "BA 2023: Export-Style Stout",
+			"searchable": true
+		}]
+	}, {
+		"index": "3",
+		"name": "North American Origin Ale Styles",
+		"sections": [{
+			"description": "Golden/Blonde Ale is a North American origin style ale.",
+			"filename": "03_01_golden_or_blonde_ale",
+			"identifier": "ba_2023_golden_or_blonde_ale",
+			"name": "Golden or Blonde Ale",
+			"search-title": "BA 2023: Golden or Blonde Ale",
+			"searchable": true
+		}, {
+			"description": "Session India Pale Ale is a North American origin style ale.",
+			"filename": "03_02_session_india_pale_ale",
+			"identifier": "ba_2023_session_india_pale_ale",
+			"name": "Session India Pale Ale",
+			"search-title": "BA 2023: Session India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Amber/Red Ale is a North American origin style ale.",
+			"filename": "03_03_american-style_amber-red_ale",
+			"identifier": "ba_2023_american-style_amber-red_ale",
+			"name": "American-Style Amber/Red Ale",
+			"search-title": "BA 2023: American-Style Amber/Red Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Pale Ale is a North American origin style ale.",
+			"filename": "03_04_american-style_pale_ale",
+			"identifier": "ba_2023_american-style_pale_ale",
+			"name": "American-Style Pale Ale",
+			"search-title": "BA 2023: American-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy Pale Ale is a North American origin style ale.",
+			"filename": "03_05_juicy_hazy_pale_ale",
+			"identifier": "ba_2023_juicy_hazy_pale_ale",
+			"name": "Juicy or Hazy Pale Ale",
+			"search-title": "BA 2023: Juicy or Hazy Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Strong Pale Ale is a North American origin style ale.",
+			"filename": "03_06_american-style_strong_pale_ale",
+			"identifier": "ba_2023_american-style_strong_pale_ale",
+			"name": "American-Style Strong Pale Ale",
+			"search-title": "BA 2023: American-Style Strong Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy Strong Pale Ale is a North American origin style ale.",
+			"filename": "03_07_juicy_hazy_strong_pale_ale",
+			"identifier": "ba_2023_juicy_hazy_strong_pale_ale",
+			"name": "Juicy or Hazy Strong Pale Ale",
+			"search-title": "BA 2023: Juicy or Hazy Strong Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style India Pale Ale is a North American origin style ale.",
+			"filename": "03_08_american-style_india_pale_ale",
+			"identifier": "ba_2023_american-style_india_pale_ale",
+			"name": "American-Style India Pale Ale",
+			"search-title": "BA 2023: American-Style India Pale Ale",
+			"searchable": true
+		},  {
+			"description": "West Coast-Style India Pale Ale is a North American origin style ale.",
+			"filename": "03_09_west_coast-style_india_pale_ale",
+			"identifier": "ba_2023_west_coast-style_india_pale_ale",
+			"name": "West Coast-Style India Pale Ale",
+			"search-title": "BA 2023: West Coast-Style India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy India Pale Ale is a North American origin style ale.",
+			"filename": "03_10_juicy_hazy_india_pale_ale",
+			"identifier": "ba_2023_juicy_hazy_india_pale_ale",
+			"name": "Juicy or Hazy India Pale Ale",
+			"search-title": "BA 2023: Juicy or Hazy India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Belgo-Style Ale is a North American origin style ale.",
+			"filename": "03_11_american-belgo-style_ale",
+			"identifier": "ba_2023_american-belgo-style_ale",
+			"name": "American-Belgo-Style Ale",
+			"search-title": "BA 2023: American-Belgo-Style Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Brown Ale is a North American origin style ale.",
+			"filename": "03_12_america-style_brown_ale",
+			"identifier": "ba_2023_america-style_brown_ale",
+			"name": "American-Style Brown Ale",
+			"search-title": "BA 2023: American-Style Brown Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Black Ale is a North American origin style ale.",
+			"filename": "03_13_america-style_black_ale",
+			"identifier": "ba_2023_america-style_black_ale",
+			"name": "American-Style Black Ale",
+			"search-title": "BA 2023: American-Style Black Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Stout is a North American origin style ale.",
+			"filename": "03_14_american-style_stout",
+			"identifier": "ba_2023_american-style_stout",
+			"name": "American-Style Stout",
+			"search-title": "BA 2023: American-Style Stout",
+			"searchable": true
+		}, {
+			"description": "American-Style Imperial Porter is a North American origin style ale.",
+			"filename": "03_15_american-style_imperial_porter",
+			"identifier": "ba_2023_american-style_imperial_porter",
+			"name": "American-Style Imperial Porter",
+			"search-title": "BA 2023: American-Style Imperial Porter",
+			"searchable": true
+		}, {
+			"description": "American-Style Imperial Stout is a North American origin style ale.",
+			"filename": "03_16_american-style_imperial_stout",
+			"identifier": "ba_2023_american-style_imperial_stout",
+			"name": "American-Style Imperial Stout",
+			"search-title": "BA 2023: American-Style Imperial Stout",
+			"searchable": true
+		}, {
+			"description": "Double Hoppy Red Ale is a North American origin style ale.",
+			"filename": "03_17_double_red_ale",
+			"identifier": "ba_2023_double_red_ale",
+			"name": "Double Hoppy Red",
+			"search-title": "BA 2023: Double Hoppy Red Ale",
+			"searchable": true
+		}, {
+			"description": "Imperial Red Ale is a North American origin style ale.",
+			"filename": "03_18_imperial_red_ale",
+			"identifier": "ba_2023_imperial_red_ale",
+			"name": "Imperial Red Ale",
+			"search-title": "BA 2023: Imperial Red Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Imperial or Double India Pale Ale is a North American origin style ale.",
+			"filename": "03_19_imperial_or_double_india_pale_ale",
+			"identifier": "ba_2023_imperial_or_double_india_pale_ale",
+			"name": "American-Style Imperial or Double India Pale Ale",
+			"search-title": "BA 2023: American-Style Imperial or Double India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Juicy or Hazy Imperial or Double India Pale Ale is a North American origin style ale.",
+			"filename": "03_20_juicy_or_hazy_imperial_or_double_india_pale_ale",
+			"identifier": "ba_2023_juicy_or_hazy_imperial_or_double_india_pale_ale",
+			"name": "Juicy or Hazy Imperial or Double India Pale Ale",
+			"search-title": "BA 2023: Juicy or Hazy Imperial or Double India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Barley Wine Ale is a North American origin style ale.",
+			"filename": "03_21_american-style_barely_wine_ale",
+			"identifier": "ba_2023_american-style_barely_wine_ale",
+			"name": "American-Style Barley Wine Ale",
+			"search-title": "BA 2023: American-Style Barley Wine Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Wheat Wine Ale is a North American origin style ale.",
+			"filename": "03_22_american-style_wheat_wine_ale",
+			"identifier": "ba_2023_american-style_wheat_wine_ale",
+			"name": "American-Style Wheat Wine Ale",
+			"search-title": "BA 2023: American-Style Wheat Wine Ale",
+			"searchable": true
+		}, {
+			"description": "Smoke Porter is a North American origin style ale.",
+			"filename": "03_23_smoke_porter",
+			"identifier": "ba_2023_smoke_porter",
+			"name": "Smoke Porter",
+			"search-title": "BA 2023: Smoke Porter",
+			"searchable": true
+		}, {
+			"description": "American-Style Sour Ale is a North American origin style ale.",
+			"filename": "03_24_american-style_sour_ale",
+			"identifier": "ba_2023_american-style_sour_ale",
+			"name": "American-Style Sour Ale",
+			"search-title": "BA 2023: American-Style Sour Ale",
+			"searchable": true
+		}, {
+			"description": "American-Style Fruited Sour Ale is a North American origin style ale.",
+			"filename": "03_25_american-style_fruited_sour_ale",
+			"identifier": "ba_2023_american-style_fruited_sour_ale",
+			"name": "American-Style Fruited Sour Ale",
+			"search-title": "BA 2023: American-Style Fruited Sour Ale",
+			"searchable": true
+		}]
+	}, {
+		"index": "4",
+		"name": "German Origin Ale Styles",
+		"sections": [{
+			"description": "German-Style Koelsch is a German origin style ale.",
+			"filename": "04_01_german-style_koelsch",
+			"identifier": "ba_2023_german-style_koelsch",
+			"name": "German-Style Koelsch",
+			"search-title": "BA 2023: German-Style Koelsch",
+			"searchable": true
+		}, {
+			"description": "German-Style Altbier is a German origin style ale.",
+			"filename": "04_02_german-style_altbier",
+			"identifier": "ba_2023_german-style_altbier",
+			"name": "German-Style Altbier",
+			"search-title": "BA 2023: German-Style Altbier",
+			"searchable": true
+		}, {
+			"description": "Berliner Weissbier is a German origin style ale.",
+			"filename": "04_03_berliner-style_weisse",
+			"identifier": "ba_2023_berliner-style_weisse",
+			"name": "Berliner-Style Weisse",
+			"search-title": "BA 2023: Berliner-Style Weisse",
+			"searchable": true
+		}, {
+			"description": "Leipzig-Style Gose is a German origin style ale.",
+			"filename": "04_04_leipzig-style_gose",
+			"identifier": "ba_2023_leipzig-style_gose",
+			"name": "Leipzig-Style Gose",
+			"search-title": "BA 2023: Leipzig-Style Gose",
+			"searchable": true
+		}, {
+			"description": "Contemporary-Style Gose is a German origin style ale.",
+			"filename": "04_05_contemporary-style_gose",
+			"identifier": "ba_2023_contemporary-style_gose",
+			"name": "Contemporary-Style Gose",
+			"search-title": "BA 2023: Contemporary-Style Gose",
+			"searchable": true
+		}, {
+			"description": "South German-Style Hefeweizen is a German origin style ale.",
+			"filename": "04_06_south_german-style_hefeweizen",
+			"identifier": "ba_2023_south_german-style_hefeweizen",
+			"name": "South German-Style Hefeweizen",
+			"search-title": "BA 2023: South German-Style Hefeweizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Kristal Weizen is a German origin style ale.",
+			"filename": "04_07_south_german-style_kristal_weizen",
+			"identifier": "ba_2023_south_german-style_kristal_weizen",
+			"name": "South German-Style Kristal Weizen",
+			"search-title": "BA 2023: South German-Style Kristal Weizen",
+			"searchable": true
+		}, {
+			"description": "German-Style Leichtes Weizen is a German origin style ale.",
+			"filename": "04_08_german-style_leichtes_weizen",
+			"identifier": "ba_2023_german-style_leichtes_weizen",
+			"name": "German-Style Leichtes Weizen",
+			"search-title": "BA 2023: German-Style Leichtes Weizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Bernsteinfarbenes Weizen is a German origin style ale.",
+			"filename": "04_09_south_german-style_bernsteinfarbenes_weizen",
+			"identifier": "ba_2023_south_german-style_bernsteinfarbenes_weizen",
+			"name": "South German-Style Bernsteinfarbenes Weizen",
+			"search-title": "BA 2023: South German-Style Bernsteinfarbenes Weizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Dunkel Weizen is a German origin style ale.",
+			"filename": "04_10_south_german-style_dunkel_weizen",
+			"identifier": "ba_2023_south_german-style_dunkel_weizen",
+			"name": "South German-Style Dunkel Weizen",
+			"search-title": "BA 2023: South German-Style Dunkel Weizen",
+			"searchable": true
+		}, {
+			"description": "South German-Style Weizenbock is a German origin style ale.",
+			"filename": "04_11_south_german-style_weizenbock",
+			"identifier": "ba_2023_south_german-style_weizenbock",
+			"name": "South German-Style Weizenbock",
+			"search-title": "BA 2023: South German-Style Weizenbock",
+			"searchable": true
+		}, {
+			"description": "German-Style Rye Ale is a German origin style ale.",
+			"filename": "04_12_german-style_rye_ale",
+			"identifier": "ba_2023_german-style_rye_ale",
+			"name": "German-Style Rye Ale",
+			"search-title": "BA 2023: German-Style Rye Ale",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Weiss Rauchbier is a German origin style ale.",
+			"filename": "04_13_bamberg-style_weiss_rauchbier",
+			"identifier": "ba_2023_bamberg-style_weiss_rauchbier",
+			"name": "Bamberg-Style Weiss Rauchbier",
+			"search-title": "BA 2023: Bamberg-Style Weiss Rauchbier",
+			"searchable": true
+		}]
+	}, {
+		"index": "5",
+		"name": "Belgian and French Origin Ale Styles",
+		"sections": [{
+			"description": "Belgian-Style Table Beer is a Belgian/French origin style ale.",
+			"filename": "05_01_belgian-style_table_beer",
+			"identifier": "ba_2023_belgian-style_table_beer",
+			"name": "Belgian-Style Table Beer",
+			"search-title": "BA 2023: Belgian-Style Table Beer",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Session Ale is a Belgian/French origin style ale.",
+			"filename": "05_02_belgian-style_session_ale",
+			"identifier": "ba_2023_belgian-style_session_ale",
+			"name": "Belgian-Style Session Ale",
+			"search-title": "BA 2023: Belgian-Style Session Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Speciale Belge is a Belgian/French origin style ale.",
+			"filename": "05_03_belgian-style_speciale_belge",
+			"identifier": "ba_2023_belgian-style_speciale_belge",
+			"name": "Belgian-Style Speciale Belge",
+			"search-title": "BA 2023: Belgian-Style Speciale Belge",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Blonde Ale is a Belgian/French origin style ale.",
+			"filename": "05_04_belgian-style_blonde_ale",
+			"identifier": "ba_2023_belgian-style_blonde_ale",
+			"name": "Belgian-Style Blonde Ale",
+			"search-title": "BA 2023: Belgian-Style Blonde Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Strong Blonde Ale is a Belgian/French origin style ale.",
+			"filename": "05_05_belgian-style_strong_blonde_ale",
+			"identifier": "ba_2023_belgian-style_strong_blonde_ale",
+			"name": "Belgian-Style Strong Blonde Ale",
+			"search-title": "BA 2023: Belgian-Style Strong Blonde Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Dark Strong Ale is a Belgian/French origin style ale.",
+			"filename": "05_06_belgian-style_dark_strong_ale",
+			"identifier": "ba_2023_belgian-style_dark_strong_ale",
+			"name": "Belgian-Style Dark Strong Ale",
+			"search-title": "BA 2023: Belgian-Style Dark Strong Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Dubbel is a Belgian/French origin style ale.",
+			"filename": "05_07_belgian-style_dubbel",
+			"identifier": "ba_2023_belgian-style_dubbel",
+			"name": "Belgian-Style Dubbel",
+			"search-title": "BA 2023: Belgian-Style Dubbel",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Tripel is a Belgian/French origin style ale.",
+			"filename": "05_08_belgian-style_tripel",
+			"identifier": "ba_2023_belgian-style_tripel",
+			"name": "Belgian-Style Tripel",
+			"search-title": "BA 2023: Belgian-Style Tripel",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Quadrupel is a Belgian/French origin style ale.",
+			"filename": "05_09_belgian-style_quadrupel",
+			"identifier": "ba_2023_belgian-style_quadrupel",
+			"name": "Belgian-Style Quadrupel",
+			"search-title": "BA 2023: Belgian-Style Quadrupel",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Witbier is a Belgian/French origin style ale.",
+			"filename": "05_10_belgian-style_witbier",
+			"identifier": "ba_2023_belgian-style_witbier",
+			"name": "Belgian-Style Witbier",
+			"search-title": "BA 2023: Belgian-Style Witbier",
+			"searchable": true
+		}, {
+			"description": "Classic French & Belgian-Style Saison is a Belgian/French origin style ale.",
+			"filename": "05_11_classic_french_and_belgian-style_saison",
+			"identifier": "ba_2023_classic_french_and_belgian-style_saison",
+			"name": "Classic French & Belgian-Style Saison",
+			"search-title": "BA 2023: Classic French & Belgian-Style Saison",
+			"searchable": true
+		}, {
+			"description": "Specialty Saison is a Belgian/French origin style ale.",
+			"filename": "05_12_specialty_saison",
+			"identifier": "ba_2023_specialty_saison",
+			"name": "Specialty Saisons",
+			"search-title": "BA 2023: Specialty Saisons",
+			"searchable": true
+		}, {
+			"description": "French-Style Bière de Garde is a Belgian/French origin style ale.",
+			"filename": "05_13_french-style_biere_de_garde",
+			"identifier": "ba_2023_french-style_biere_de_garde",
+			"name": "French-Style Bière de Garde",
+			"search-title": "BA 2023: French-Style Bière de Garde",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Flanders Oud Bruin is a Belgian/French origin style ale.",
+			"filename": "05_14_belgian-style_flanders_oud_bruin",
+			"identifier": "ba_2023_belgian-style_flanders_oud_bruin",
+			"name": "Belgian-Style Flanders Oud Bruin or Oud Red Ale",
+			"search-title": "BA 2023: Belgian-Style Flanders Oud Bruin or Oud Red Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Lambic is a Belgian/French origin style ale.",
+			"filename": "05_15_belgian-style_lambic",
+			"identifier": "ba_2023_belgian-style_lambic",
+			"name": "Belgian-Style Lambic",
+			"search-title": "BA 2023: Belgian-Style Lambic",
+			"searchable": true
+		}, {
+			"description": "Traditional Belgian-Style Gueuze is a Belgian/French origin style ale.",
+			"filename": "05_16_traditional_belgian-style_gueuze",
+			"identifier": "ba_2023_traditional_belgian-style_gueuze",
+			"name": "Traditional Belgian-Style Gueuze",
+			"search-title": "BA 2023: Traditional Belgian-Style Gueuze",
+			"searchable": true
+		}, {
+			"description": "Contemporary Belgian-Style Spontaneous Fermented Ale is a Belgian/French origin style ale.",
+			"filename": "05_17_contemporary_belgian-style_spontaneous_fermented_ales",
+			"identifier": "ba_2023_contemporary_belgian-style_spontaneous_fermented_ales",
+			"name": "Contemporary Belgian-Style Spontaneous Fermented Ale",
+			"search-title": "BA 2023: Contemporary Belgian-Style Spontaneous Fermented Ale",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Fruit Lambic is a Belgian/French origin style ale.",
+			"filename": "05_18_belgian-style_fruit_lambic",
+			"identifier": "ba_2023_belgian-style_fruit_lambic",
+			"name": "Belgian-Style Fruit Lambic",
+			"search-title": "BA 2023: Belgian-Style Fruit Lambic",
+			"searchable": true
+		}, {
+			"description": "Other Belgian-Style Ale is a Belgian/French origin style ale.",
+			"filename": "05_19_other_belgian-style_ale",
+			"identifier": "ba_2023_other_belgian-style_ale",
+			"name": "Other Belgian-Style Ale",
+			"search-title": "BA 2023: Other Belgian-Style Ale",
+			"searchable": true
+		}]
+	}, {
+		"index": "6",
+		"name": "Other Origin Ale Styles",
+		"sections": [{
+			"description": "Grodziskie is an ale.",
+			"filename": "06_01_grodziskie",
+			"identifier": "ba_2023_grodziskie",
+			"name": "Grodziskie",
+			"search-title": "BA 2023: Grodziskie",
+			"searchable": true
+		}, {
+			"description": "Adambier is an ale.",
+			"filename": "06_02_adambier",
+			"identifier": "ba_2023_adambier",
+			"name": "Adambier",
+			"search-title": "BA 2023: Adambier",
+			"searchable": true
+		}, {
+			"description": "Dutch-Style Kuit, Kuyt or Koyt is an ale.",
+			"filename": "06_03_dutch-style_kuit",
+			"identifier": "ba_2023_dutch-style_kuit",
+			"name": "Dutch-Style Kuit, Kuyt or Koyt",
+			"search-title": "BA 2023: Dutch-Style Kuit, Kuyt or Koyt",
+			"searchable": true
+		}, {
+			"description": "International-Style Pale Ale is an ale.",
+			"filename": "06_04_international-style_pale_ale",
+			"identifier": "ba_2023_international-style_pale_ale",
+			"name": "International-Style Pale Ale",
+			"search-title": "BA 2023: International-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Classic Australian-Style Pale Ale is an ale.",
+			"filename": "06_05_classic_australian-style_pale_ale",
+			"identifier": "ba_2023_classic_australian-style_pale_ale",
+			"name": "Classic Australian-Style Pale Ale",
+			"search-title": "BA 2023: Classic Australian-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Australian-Style Pale Ale is an ale.",
+			"filename": "06_06_australian-style_pale_ale",
+			"identifier": "ba_2023_australian-style_pale_ale",
+			"name": "Australian-Style Pale Ale",
+			"search-title": "BA 2023: Australian-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "New Zealand-Style Pale Ale is an ale.",
+			"filename": "06_07_new_zealand-style_pale_ale",
+			"identifier": "ba_2023_new_zealand-style_pale_ale",
+			"name": "New Zealand-Style Pale Ale",
+			"search-title": "BA 2023: New Zealand-Style Pale Ale",
+			"searchable": true
+		}, {
+			"description": "New Zealand-Style India Pale Ale is an ale.",
+			"filename": "06_08_new_zealand-style_india_pale_ale",
+			"identifier": "ba_2023_new_zealand-style_india_pale_ale",
+			"name": "New Zealand-Style India Pale Ale",
+			"search-title": "BA 2023: New Zealand-Style India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Finnish-Style Sahti is an ale.",
+			"filename": "06_09_finnish-style_sahti",
+			"identifier": "ba_2023_finnish-style_sahti",
+			"name": "Finnish-Style Sahti",
+			"search-title": "BA 2023: Finnish-Style Sahti",
+			"searchable": true
+		}, {
+			"description": "Swedish-Style Gotlandsdricke is an ale.",
+			"filename": "06_10_swedish-style_gotlandsdricke",
+			"identifier": "ba_2023_swedish-style gotlandsdricke",
+			"name": "Swedish-Style Gotlandsdricke",
+			"search-title": "BA 2023: Swedish-Style Gotlandsdricke",
+			"searchable": true
+		}, {
+			"description": "Breslau-Style Schoeps is an ale.",
+			"filename": "06_11_breslau-style_pale_schops",
+			"identifier": "ba_2023_breslau-style_pale_schops",
+			"name": "Breslau-Style Schoeps",
+			"search-title": "BA 2023: Breslau-Style Schoeps",
+			"searchable": true
+		}]
+	}, {
+		"index": "7",
+		"name": "European Origin Lager Styles",
+		"sections": [{
+			"description": "German-Style Leichtbier is a European origin style lager.",
+			"filename": "07_01_german-style_leichtbier",
+			"identifier": "ba_2023_german-style_leichtbier",
+			"name": "German-Style Leichtbier",
+			"search-title": "BA 2023: German-Style Leichtbier",
+			"searchable": true
+		}, {
+			"description": "German-Style Pilsener is a European origin style lager.",
+			"filename": "07_02_german-style_pilsener",
+			"identifier": "ba_2023_german-style_pilsener",
+			"name": "German-Style Pilsener",
+			"search-title": "BA 2023: German-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Bohemian-Style Pilsener is a European origin style lager.",
+			"filename": "07_03_bohemian-style_pilsener",
+			"identifier": "ba_2023_bohemian-style_pilsener",
+			"name": "Bohemian-Style Pilsener",
+			"search-title": "BA 2023: Bohemian-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Munich Helles is a European origin style lager.",
+			"filename": "07_04_munich-style_helles",
+			"identifier": "ba_2023_munich-style_helles",
+			"name": "Munich-Style Helles",
+			"search-title": "BA 2023: Munich-Style Helles",
+			"searchable": true
+		}, {
+			"description": "Dortmunder/European-Style Export is a European origin style lager.",
+			"filename": "07_05_dortmunder-style_export",
+			"identifier": "ba_2023_dortmunder-style_export",
+			"name": "Dortmunder/European-Style Export",
+			"search-title": "BA 2023: Dortmunder/European-Style Export",
+			"searchable": true
+		}, {
+			"description": "Vienna-Style Lager is a European origin style lager.",
+			"filename": "07_06_vienna-style_lager",
+			"identifier": "ba_2023_vienna-style_lager",
+			"name": "Vienna-Style Lager",
+			"search-title": "BA 2023: Vienna-Style Lager",
+			"searchable": true
+		}, {
+			"description": "Franconian-Style Rotbier is a European origin style lager.",
+			"filename": "07_07_franconian-style_rotbier",
+			"identifier": "ba_2023_franconian-style_rotbier",
+			"name": "Franconian-Style Rotbier",
+			"search-title": "BA 2023: Franconian-Style Rotbier",
+			"searchable": true
+		}, {
+			"description": "German-Style Maerzen is a European origin style lager.",
+			"filename": "07_08_german-style_marzen",
+			"identifier": "ba_2023_german-style_maerzen",
+			"name": "German-Style Maerzen",
+			"search-title": "BA 2023: German-Style Maerzen",
+			"searchable": true
+		}, {
+			"description": "German-Style Oktoberfest/Wiesn is a European origin style lager.",
+			"filename": "07_09_german-style_oktoberfest",
+			"identifier": "ba_2023_german-style_oktoberfest",
+			"name": "German-Style Oktoberfest/Wiesn",
+			"search-title": "BA 2023: German-Style Oktoberfest/Wiesn",
+			"searchable": true
+		}, {
+			"description": "Munich-Style Dunkel is a European origin style lager.",
+			"filename": "07_10_munich-style_dunkel",
+			"identifier": "ba_2023_munich-style_dunkel",
+			"name": "Munich-Style Dunkel",
+			"search-title": "BA 2023: Munich-Style Dunkel",
+			"searchable": true
+		}, {
+			"description": "European-Style Dark Lager is a European origin style lager.",
+			"filename": "07_11_european-style_dark_lager",
+			"identifier": "ba_2023_european-style_dark_lager",
+			"name": "European-Style Dark Lager",
+			"search-title": "BA 2023: European-Style Dark Lager",
+			"searchable": true
+		}, {
+			"description": "German-Style Schwarzbier is a European origin style lager.",
+			"filename": "07_12_german-style_schwarzbier",
+			"identifier": "ba_2023_german-style_schwarzbier",
+			"name": "German-Style Schwarzbier",
+			"search-title": "BA 2023: German-Style Schwarzbier",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Helles Rauchbier is a European origin style lager.",
+			"filename": "07_13_bamberg-style_helles_rauchbier",
+			"identifier": "ba_2023_bamberg-style_helles_rauchbier",
+			"name": "Bamberg-Style Helles Rauchbier",
+			"search-title": "BA 2023: Bamberg-Style Helles Rauchbier",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Maerzen Rauchbier is a European origin style lager.",
+			"filename": "07_14_bamberg-style_maerzen_rauchbier",
+			"identifier": "ba_2023_bamberg-style_maerzen_rauchbier",
+			"name": "Bamberg-Style Maerzen Rauchbier",
+			"search-title": "BA 2023: Bamberg-Style Maerzen Rauchbier",
+			"searchable": true
+		}, {
+			"description": "Bamberg-Style Bock Rauchbier is a European origin style lager.",
+			"filename": "07_15_bamberg-style_bock_rauchbier",
+			"identifier": "ba_2023_bamberg-style_bock_rauchbier",
+			"name": "Bamberg-Style Bock Rauchbier",
+			"search-title": "BA 2023: Bamberg-Style Bock Rauchbier",
+			"searchable": true
+		}, {
+			"description": "German-Style Heller Bock/Maibock is a European origin style lager.",
+			"filename": "07_16_german-style_heller_bock",
+			"identifier": "ba_2023_german-style_heller_bock",
+			"name": "German-Style Heller Bock/Maibock",
+			"search-title": "BA 2023: German-Style Heller Bock/Maibock",
+			"searchable": true
+		}, {
+			"description": "Traditional German-Style Bock is a European origin style lager.",
+			"filename": "07_17_traditional_german-style_bock",
+			"identifier": "ba_2023_traditional_german-style_bock",
+			"name": "Traditional German-Style Bock",
+			"search-title": "BA 2023: Traditional German-Style Bock",
+			"searchable": true
+		}, {
+			"description": "German-Style Doppelbock is a European origin style lager.",
+			"filename": "07_18_german-style_doppelbock",
+			"identifier": "ba_2023_german-style_doppelbock",
+			"name": "German-Style Doppelbock",
+			"search-title": "BA 2023: German-Style Doppelbock",
+			"searchable": true
+		}, {
+			"description": "German-Style Eisbock is a European origin style lager.",
+			"filename": "07_19_german-style_eisbock",
+			"identifier": "ba_2023_german-style_eisbock",
+			"name": "German-Style Eisbock",
+			"search-title": "BA 2023: German-Style Eisbock",
+			"searchable": true
+		}]
+	}, {
+
+		"index": "8",
+		"name": "North American Origin Lager Styles",
+		"sections": [{
+			"description": "American-Style Lager is a North American origin style lager.",
+			"filename": "08_01_american-style_lager",
+			"identifier": "ba_2023_american-style_lager",
+			"name": "American-Style Lager",
+			"search-title": "BA 2023: American-Style Lager",
+			"searchable": true
+		}, {
+			"description": "Contemporary American-Style Lager is a North American origin style lager.",
+			"filename": "08_02_contemporary_american-style_lager",
+			"identifier": "ba_2023_contemporary_american-style_lager",
+			"name": "Contemporary American-Style Lager",
+			"search-title": "BA 2023: Contemporary American-Style Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Light Lager is a North American origin style lager.",
+			"filename": "08_03_american-style_light_lager",
+			"identifier": "ba_2023_american-style_light_lager",
+			"name": "American-Style Light Lager",
+			"search-title": "BA 2023: American-Style Light Lager",
+			"searchable": true
+		}, {
+			"description": "Contemporary American-Style Light Lager is a North American origin style lager.",
+			"filename": "08_04_contempoarary_american-style_light_lager",
+			"identifier": "ba_2023_contempoarary_american-style_light_lager",
+			"name": "Contemporary American-Style Light Lager",
+			"search-title": "BA 2023: Contemporary American-Style Light Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Pilsener is a North American origin style lager.",
+			"filename": "08_05_american-style_pilsener",
+			"identifier": "ba_2023_american-style_pilsener",
+			"name": "American-Style Pilsener",
+			"search-title": "BA 2023: American-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Contemporary American-Style Pilsener is a North American origin style lager.",
+			"filename": "08_06_contemporary_american-style_pilsener",
+			"identifier": "ba_2023_contemporary_american-style_pilsener",
+			"name": "Contemporary American-Style Pilsener",
+			"search-title": "BA 2023: Contemporary American-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "American-Style India Pale Lager is a North American origin style lager.",
+			"filename": "08_07_american-style_india_pale_lager",
+			"identifier": "ba_2023_american-style_india_pale_lager",
+			"name": "American-Style India Pale Lager",
+			"search-title": "BA 2023: American-Style India Pale Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Malt Liquor is a North American origin style lager.",
+			"filename": "08_08_american-style_malt_liquor",
+			"identifier": "ba_2023_american-style_malt_liquor",
+			"name": "American-Style Malt Liquor",
+			"search-title": "BA 2023: American-Style Malt Liquor",
+			"searchable": true
+		}, {
+			"description": "American-Style Amber Lager is a North American origin style lager.",
+			"filename": "08_09_american-style_amber_lager",
+			"identifier": "ba_2023_american-style_amber_lager",
+			"name": "American-Style Amber Lager",
+			"search-title": "BA 2023: American-Style Amber Lager",
+			"searchable": true
+		}, {
+			"description": "American-Style Maerzen/Oktoberfest is a North American origin style lager.",
+			"filename": "08_10_american-style_oktoberfest",
+			"identifier": "ba_2023_american-style_oktoberfest",
+			"name": "American-Style Maerzen/Oktoberfest",
+			"search-title": "BA 2023: American-Style Maerzen/Oktoberfest",
+			"searchable": true
+		}, {
+			"description": "American-Style Dark Lager is a North American origin style lager.",
+			"filename": "08_11_american-style_dark_lager",
+			"identifier": "ba_2023_american-style_dark_lager",
+			"name": "American-Style Dark Lager",
+			"search-title": "BA 2023: American-Style Dark Lager",
+			"searchable": true
+		}]
+	}, {
+
+		"index": "9",
+		"name": "Other Origin Lager Styles",
+		"sections": [{
+			"description": "Australasian, Latin American or Tropical-Style Light Lager is a lager.",
+			"filename": "09_01_tropical-style_light_lager",
+			"identifier": "ba_2023_tropical-style_light_lager",
+			"name": "Australasian, Latin American or Tropical-Style Light Lager",
+			"search-title": "BA 2023: Australasian, Latin American or Tropical-Style Light Lager",
+			"searchable": true
+		}, {
+			"description": "International-Style Pilsener is a lager.",
+			"filename": "09_02_international-style_pilsener",
+			"identifier": "ba_2023_international-style_pilsener",
+			"name": "International-Style Pilsener",
+			"search-title": "BA 2023: International-Style Pilsener",
+			"searchable": true
+		}, {
+			"description": "Baltic-Style Porter is a lager.",
+			"filename": "09_03_baltic-style_porter",
+			"identifier": "ba_2023_baltic-style_porter",
+			"name": "Baltic-Style Porter",
+			"search-title": "BA 2023: Baltic-Style Porter",
+			"searchable": true
+		}]
+
+	}, {
+		"index": "10",
+		"name": "All Origin Hybrid/Mixed Lager or Ales",
+		"sections": [{
+			"description": "Session Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_01_session_beer",
+			"identifier": "ba_2023_session_beer",
+			"name": "Session Beer",
+			"search-title": "BA 2023: Session Beer",
+			"searchable": true
+		}, {
+			"description": "American-Style Cream Ale is a hybrid/mixed lager or ale.",
+			"filename": "10_02_american-style_cream_ale",
+			"identifier": "ba_2023_american-style_cream_ale",
+			"name": "American-Style Cream Ale",
+			"search-title": "BA 2023: American-Style Cream Ale",
+			"searchable": true
+		}, {
+			"description": "California Common Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_03_california_common_beer",
+			"identifier": "ba_2023_california_common_beer",
+			"name": "California Common Beer",
+			"search-title": "BA 2023: California Common Beer",
+			"searchable": true
+		}, {
+			"description": "Kentucky Common Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_04_kentucky_common_beer",
+			"identifier": "ba_2023_kentucky_common_beer",
+			"name": "Kentucky Common Beer",
+			"search-title": "BA 2023: Kentucky Common Beer",
+			"searchable": true
+		}, {
+			"description": "American-Style Wheat Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_05_american_wheat_beer",
+			"identifier": "ba_2023_american_wheat_beer",
+			"name": "American-Style Wheat Beer",
+			"search-title": "BA 2023: American-Style Wheat Beer",
+			"searchable": true
+		}, {
+			"description": "Kellerbiers or Zwickelbier is a hybrid/mixed lager or ale.",
+			"filename": "10_06_kellerbier_zwickelbier",
+			"identifier": "ba_2023_kellerbier_zwickelbier",
+			"name": "Kellerbier or Zwickelbier",
+			"search-title": "BA 2023: Kellerbier or Zwickelbier",
+			"searchable": true
+		}, {
+			"description": "American-Style Fruit Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_07_american-style_fruit_beer",
+			"identifier": "ba_2023_american-style_fruit_beer",
+			"name": "American-Style Fruit Beer",
+			"search-title": "BA 2023: American-Style Fruit Beer",
+			"searchable": true
+		}, {
+			"description": "Fruit Wheat Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_08_fruit_wheat_beer",
+			"identifier": "ba_2023_fruit_wheat_beer",
+			"name": "Fruit Wheat Beer",
+			"search-title": "BA 2023: Fruit Wheat Beer",
+			"searchable": true
+		}, {
+			"description": "Belgian-Style Fruit Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_09_belgian-style_fruit_beer",
+			"identifier": "ba_2023_belgian-style_fruit_beer",
+			"name": "Belgian-Style Fruit Beer",
+			"search-title": "BA 2023: Belgian-Style Fruit Beer",
+			"searchable": true
+		}, {
+			"description": "Field Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_10_field_beer",
+			"identifier": "ba_2023_field_beer",
+			"name": "Field Beer",
+			"search-title": "BA 2023: Field Beer",
+			"searchable": true
+		}, {
+			"description": "Pumpkin Spice Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_11_pumpkin_spice_beer",
+			"identifier": "ba_2023_pumpkin_spice_beer",
+			"name": "Pumpkin Spice Beer",
+			"search-title": "BA 2023: Pumpkin Spice Beer",
+			"searchable": true
+		}, {
+			"description": "Pumpkin/Squash Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_12_pumpkin_beer",
+			"identifier": "ba_2023_pumpkin_beer",
+			"name": "Pumpkin/Squash Beer",
+			"search-title": "BA 2023: Pumpkin/Squash Beer",
+			"searchable": true
+		}, {
+			"description": "Chocolate or Cocoa Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_13_chocolate_beer",
+			"identifier": "ba_2023_chocolate_beer",
+			"name": "Chocolate or Cocoa Beer",
+			"search-title": "BA 2023: Chocolate or Cocoa Beer",
+			"searchable": true
+		}, {
+			"description": "Dessert Stout or Pastry Stout is a hybrid/mixed lager or ale.",
+			"filename": "10_14_dessert_stout_pastry_stout",
+			"identifier": "ba_2023_dessert_stout_pastry_stout",
+			"name": "Dessert Stout or Pastry Stout",
+			"search-title": "BA 2023: Dessert Stout or Pastry Stout",
+			"searchable": true
+		}, {
+			"description": "Coffee Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_15_coffee_beer",
+			"identifier": "ba_2023_coffee_beer",
+			"name": "Coffee Beer",
+			"search-title": "BA 2023: Coffee Beer",
+			"searchable": true
+		}, {
+			"description": "Chili Pepper Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_16_chili_pepper_beer",
+			"identifier": "ba_2023_chili_pepper_beer",
+			"name": "Chili Pepper Beer",
+			"search-title": "BA 2023: Chili Pepper Beer",
+			"searchable": true
+		}, {
+			"description": "Herb and Spice Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_17_herb_spice_beer",
+			"identifier": "ba_2023_herb_spice_beer",
+			"name": "Herb and Spice Beer",
+			"search-title": "BA 2023: Herb and Spice Beer",
+			"searchable": true
+		}, {
+			"description": "Specialty Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_18_specialty_beer",
+			"identifier": "ba_2023_specialty_beer",
+			"name": "Specialty Beer",
+			"search-title": "BA 2023: Specialty Beer",
+			"searchable": true
+		}, {
+			"description": "Specialty Honey Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_19_specialty_honey_beer",
+			"identifier": "ba_2023_specialty_honey_beer",
+			"name": "Specialty Honey Beer",
+			"search-title": "BA 2023: Specialty Honey Beer",
+			"searchable": true
+		}, {
+			"description": "Rye Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_20_rye_beer",
+			"identifier": "ba_2023_rye_beer",
+			"name": "Rye Beer",
+			"search-title": "BA 2023: Rye Beer",
+			"searchable": true
+		}, {
+			"description": "Brett Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_21_brett_beer",
+			"identifier": "ba_2023_brett_beer",
+			"name": "Brett Beer",
+			"search-title": "BA 2023: Brett Beer",
+			"searchable": true
+		}, {
+			"description": "Mixed-Culture Brett Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_22_mixed-culture_brett_beer",
+			"identifier": "ba_2023_mixed-culture_brett_beer",
+			"name": "Mixed-Culture Brett Beer",
+			"search-title": "BA 2023: Mixed-Culture Brett Beer",
+			"searchable": true
+		}, {
+			"description": "Ginjo Beer or Sake-Yeast Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_23_ginjo_beer",
+			"identifier": "ba_2023_ginjo_beer",
+			"name": "Ginjo Beer or Sake-Yeast Beer",
+			"search-title": "BA 2023: Ginjo Beer or Sake-Yeast Beer",
+			"searchable": true
+		}, {
+			"description": "Fresh Hop Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_24_fresh_hop_beer",
+			"identifier": "ba_2023_fresh_hop_beer",
+			"name": "Fresh Hop Beer",
+			"search-title": "BA 2023: Fresh Hop Beer",
+			"searchable": true
+		}, {
+			"description": "Wood- and Barrel-Aged Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_25_wood_aged_beer",
+			"identifier": "ba_2023_wood_aged_beer",
+			"name": "Wood- and Barrel-Aged Beer",
+			"search-title": "BA 2023: Wood- and Barrel-Aged Beer",
+			"searchable": true
+		}, {
+			"description": "Wood- and Barrel-Aged Sour Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_26_wood_aged_sour_beer",
+			"identifier": "ba_2023_wood_aged_sour_beer",
+			"name": "Wood- and Barrel-Aged Sour Beer",
+			"search-title": "BA 2023: Wood- and Barrel-Aged Sour Beer",
+			"searchable": true
+		}, {
+			"description": "Aged Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_27_aged_beer",
+			"identifier": "ba_2023_aged_beer",
+			"name": "Aged Beer",
+			"search-title": "BA 2023: Aged Beer",
+			"searchable": true
+		}, {
+			"description": "Experimental Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_28_experimental_beer",
+			"identifier": "ba_2023_experimental_beer",
+			"name": "Experimental Beer",
+			"search-title": "BA 2023: Experimental Beer",
+			"searchable": true
+		}, {
+			"description": "Experimental India Pale Ale is a hybrid/mixed lager or ale.",
+			"filename": "10_29_experimental_india_pale_ale",
+			"identifier": "ba_2023_experimental_india_pale_ale",
+			"name": "Experimental India Pale Ale",
+			"search-title": "BA 2023: Experimental India Pale Ale",
+			"searchable": true
+		}, {
+			"description": "Historical Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_30_historical_beer",
+			"identifier": "ba_2023_historical_beer",
+			"name": "Historical Beer",
+			"search-title": "BA 2023: Historical Beer",
+			"searchable": true
+		}, {
+			"description": "Wild Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_31_wild_beer",
+			"identifier": "ba_2023_wild_beer",
+			"name": "Wild Beer",
+			"search-title": "BA 2023: Wild Beer",
+			"searchable": true
+		}, {
+			"description": "Smoke Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_32_smoke_beer",
+			"identifier": "ba_2023_smoke_beer",
+			"name": "Smoke Beer",
+			"search-title": "BA 2023: Smoke Beer",
+			"searchable": true
+		}, {
+			"description": "Other Strong Ale or Lager is a hybrid/mixed lager or ale.",
+			"filename": "10_33_other_strong_ale_lager",
+			"identifier": "ba_2023_other_strong_ale_lager",
+			"name": "Other Strong Ale or Lager",
+			"search-title": "BA 2023: Other Strong Ale or Lager",
+			"searchable": true
+		}, {
+			"description": "Gluten-Free Beer is a hybrid/mixed lager or ale.",
+			"filename": "10_34_gluten-free_beer",
+			"identifier": "ba_2023_gluten-free_beer",
+			"name": "Gluten-Free Beer",
+			"search-title": "BA 2023: Gluten-Free Beer",
+			"searchable": true
+		}, {
+			"description": "Non-Alcoholic Malt Beverage is a hybrid/mixed lager or ale.",
+			"filename": "10_35_non-alcoholic_malt_beverage",
+			"identifier": "ba_2023_non-alcoholic_malt_beverage",
+			"name": "Non-Alcoholic Malt Beverage",
+			"search-title": "BA 2023: Non-Alcoholic Malt Beverage",
+			"searchable": true
+		}]
+
+	}],
+	"identifier": "ba_2023",
+	"name": "BA 2023 Beer Style Guidelines",
+    "shortName": "2023 Guidelines",
+	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
+    "version": 1
+}
