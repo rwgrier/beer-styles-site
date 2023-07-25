@@ -1,0 +1,4 @@
+<p>Republished from <a href="https://www.bjcp.org/bjcp-style-guidelines/">2015 Cider Style Guidelines</a>.</p>
+
+</body>
+</html>

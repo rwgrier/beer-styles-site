@@ -1,0 +1,4 @@
+# Appearance
+
+- Clarity may vary from good to brilliant. The lack of sparkling clarity is not a fault, but visible particles are undesirable. In some styles a “rustic” lack of brilliance is common. Perries are notoriously difficult to clear; as a result a slight haze is not a fault. However, a “sheen” in either cider or perry generally indicates the early stage of lactic contamination and is a distinct fault.
+- Carbonation may vary from entirely still to a champagne level. No or little carbonation is termed **still**. A still cider may give a slight _tickle on the tongue_. A moderate carbonation level is termed **petillant**. Highly carbonated is termed **sparkling**. At the higher levels of carbonation, the _mousse_ (head) may be retained for a short time. However, gushing, foaming, and difficult-to-manage heads are faults.
