@@ -1,0 +1,157 @@
+{
+  "chapters": [
+    {
+      "index": "I",
+      "name": "Introduction to Cider Guidelines",
+      "sections": [
+        {
+          "filename": "intro_1",
+          "identifier": "bjcp_2015_cider_intro",
+          "name": "2015 Guidelines Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_2",
+          "identifier": "bjcp_2015_cider_intro_2",
+          "name": "Aroma and Flavor",
+          "searchable": false
+        },
+        {
+          "filename": "intro_3",
+          "identifier": "bjcp_2015_cider_intro_3",
+          "name": "Appearance",
+          "searchable": false
+        },
+        {
+          "filename": "intro_4",
+          "identifier": "bjcp_2015_cider_intro_4",
+          "name": "Mouthfeel",
+          "searchable": false
+        },
+        {
+          "filename": "intro_5",
+          "identifier": "bjcp_2015_cider_intro_5",
+          "name": "Ingredients",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "C1",
+      "name": "C1 Standard Cider and Perry",
+      "sections": [
+        {
+          "filename": "1_intro",
+          "identifier": "bjcp_2015_cider_1_intro",
+          "name": "Standard Cider and Perry Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A refreshing drink of some substance – not bland or watery. Sweet ciders must not be cloying. Dry ciders must not be too austere.",
+          "filename": "1A",
+          "identifier": "bjcp_2015_cider_1a",
+          "name": "C1A New World Cider",
+          "search-title": "BJCP 2015 Cider: New World Cider",
+          "searchable": true
+        },
+        {
+          "description": "Generally dry, full-bodied, austere. Complex flavor profile, long finish.",
+          "filename": "1B",
+          "identifier": "bjcp_2015_cider_1b",
+          "name": "C1B English Cider",
+          "search-title": "BJCP 2015 Cider: English Cider",
+          "searchable": true
+        },
+        {
+          "description": "Medium to sweet, full-bodied, rich.",
+          "filename": "1C",
+          "identifier": "bjcp_2015_cider_1c",
+          "name": "C1C French Cider",
+          "search-title": "BJCP 2015 Cider: French Cider",
+          "searchable": true
+        },
+        {
+          "description": "Mild. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness, ropy/oily characters are serious faults.",
+          "filename": "1D",
+          "identifier": "bjcp_2015_cider_1d",
+          "name": "C1D New World Perry",
+          "search-title": "BJCP 2015 Cider: New World Perry",
+          "searchable": true
+        },
+        {
+          "description": "Tannic. Medium to medium-sweet. Still to lightly sparkling. Only very slight acetification is acceptable. Mousiness and ropy/oily characters are serious faults.",
+          "filename": "1E",
+          "identifier": "bjcp_2015_cider_1e",
+          "name": "C1E Traditional Perry",
+          "search-title": "BJCP 2015 Cider: Traditional Perry",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "C2",
+      "name": "C2 Specialty Cider and Perry",
+      "sections": [
+        {
+          "filename": "2_intro",
+          "identifier": "bjcp_2015_cider_2_intro",
+          "name": "Specialty Cider and Perry Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Substantial body and character. Typically relatively dry, but can be somewhat sweet if in balance and not containing hot alcohol.",
+          "filename": "2A",
+          "identifier": "bjcp_2015_cider_2a",
+          "name": "C2A New England Cider",
+          "search-title": "BJCP 2015 Cider: New England Cider",
+          "searchable": true
+        },
+        {
+          "description": "Like a white wine with complex flavors. The apple character must marry with the added fruit so that neither one dominates the other.",
+          "filename": "2B",
+          "identifier": "bjcp_2015_cider_2b",
+          "name": "C2B Cider with Other Fruit",
+          "search-title": "BJCP 2015 Cider: Cider with Other Fruit",
+          "searchable": true
+        },
+        {
+          "description": "Typically like a dry white wine, balanced, and with low astringency and bitterness.",
+          "filename": "2C",
+          "identifier": "bjcp_2015_cider_2c",
+          "name": "C2C Applewine",
+          "search-title": "BJCP 2015 Cider: Applewine",
+          "searchable": true
+        },
+        {
+          "description": "Ice Cider",
+          "filename": "2D",
+          "identifier": "bjcp_2015_cider_2d",
+          "name": "C2D Ice Cider",
+          "search-title": "BJCP 2015 Cider: Ice Cider",
+          "searchable": true
+        },
+        {
+          "description": "Like a white wine with complex flavors. The apple character must marry with the botanicals and give a balanced result.",
+          "filename": "2E",
+          "identifier": "bjcp_2015_cider_2e",
+          "name": "C2E Cider with Herbs/Spices",
+          "search-title": "BJCP 2015 Cider: Cider with Herbs/Spices",
+          "searchable": true
+        },
+        {
+          "description": "Specialty Cider/Perry",
+          "filename": "2F",
+          "identifier": "bjcp_2015_cider_2f",
+          "name": "C2F Specialty Cider/Perry",
+          "search-title": "BJCP 2015 Cider: Specialty Cider/Perry",
+          "searchable": true
+        }
+      ]
+    }
+  ],
+  "identifier": "bjcp_2015_cider",
+  "name": "2015 Cider Style Guidelines",
+  "shortName": "2015 Cider Guidelines",
+  "url": "http://www.bjcp.org",
+  "version": 1
+}
