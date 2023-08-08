@@ -1,0 +1,191 @@
+{
+  "chapters": [
+    {
+      "index": "I",
+      "name": "Introduction to Mead Guidelines",
+      "sections": [
+        {
+          "filename": "intro_1",
+          "identifier": "bjcp_2015_mead_intro",
+          "name": "2015 Guidelines Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_2",
+          "identifier": "bjcp_2015_mead_intro_2",
+          "name": "Important Attributes",
+          "searchable": false
+        },
+        {
+          "filename": "intro_3",
+          "identifier": "bjcp_2015_mead_intro_3",
+          "name": "Standard Description for Mead",
+          "searchable": false
+        },
+        {
+          "filename": "intro_4",
+          "identifier": "bjcp_2015_mead_intro_4",
+          "name": "Competition Entry Instructions",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "M1",
+      "name": "M1. Traditional Mead",
+      "sections": [
+        {
+          "filename": "1_intro",
+          "identifier": "bjcp_2015_mead_1_intro",
+          "name": "Traditional Mead",
+          "searchable": false
+        },
+        {
+          "description": "Similar in balance, body, finish and flavor intensity to a dry white wine, with a pleasant mixture of subtle honey character, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.",
+          "filename": "1A",
+          "identifier": "bjcp_2015_mead_1a",
+          "name": "M1A Dry Mead",
+          "search-title": "BJCP 2015 Mead: Dry Mead",
+          "searchable": true
+        },
+        {
+          "description": "Similar in balance, body, finish and flavor intensity to a semi-sweet (or medium-dry) white wine, with a pleasant mixture of honey character, light sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.",
+          "filename": "1B",
+          "identifier": "bjcp_2015_mead_1b",
+          "name": "M1B Semi-Sweet Mead",
+          "search-title": "BJCP 2015 Mead: Semi-Sweet Mead",
+          "searchable": true
+        },
+        {
+          "description": "Similar in balance, body, finish and flavor intensity to a well-made dessert wine (such as Sauternes), with a pleasant mixture of honey character, residual sweetness, soft fruity esters, and clean alcohol. Complexity, harmony, and balance of sensory elements are most desirable, with no inconsistencies in color, aroma, flavor or aftertaste. The proper balance of sweetness, acidity, alcohol, and honey character is the essential final measure of any mead.",
+          "filename": "1C",
+          "identifier": "bjcp_2015_mead_1c",
+          "name": "M1C Sweet Mead",
+          "search-title": "BJCP 2015 Mead: Sweet Mead",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "M2",
+      "name": "M2 Fruit Mead",
+      "sections": [
+        {
+          "filename": "2_intro",
+          "identifier": "bjcp_2015_mead_2_intro",
+          "name": "Fruit Mead Introduction",
+          "searchable": false
+        },
+        {
+          "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey- sweet-acid-tannin-alcohol balance of the mead. Some of the best strong examples have the taste and aroma of an aged Calvados (apple brandy from northern France), while subtle, dry versions can taste similar to many fine white wines. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. Generally a good tannin-sweetness balance is desired, though very dry and very sweet examples do exist.",
+          "filename": "2A",
+          "identifier": "bjcp_2015_mead_2a",
+          "name": "M2A Cyser",
+          "search-title": "BJCP 2015 Mead: Cyser",
+          "searchable": true
+        },
+        {
+          "description": "In well-made examples of the style, the grape is both distinctively vinous and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. White and red versions can be quite different, and the overall impression should be characteristic of the type of grapes used and suggestive of a similar variety wine. There should be an appealing blend of the fruit and honey character but not necessarily an even balance. Generally a good tannin-sweetness balance is desired, though very dry and very sweet examples do exist.",
+          "filename": "2B",
+          "identifier": "bjcp_2015_mead_2b",
+          "name": "M2B Pyment",
+          "search-title": "BJCP 2015 Mead: Pyment",
+          "searchable": true
+        },
+        {
+          "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey- sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.",
+          "filename": "2C",
+          "identifier": "bjcp_2015_mead_2c",
+          "name": "M2C Berry Mead",
+          "search-title": "BJCP 2015 Mead: Berry Mead",
+          "searchable": true
+        },
+        {
+          "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey- sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.",
+          "filename": "2D",
+          "identifier": "bjcp_2015_mead_2d",
+          "name": "M2D Stone Fruit Mead",
+          "search-title": "BJCP 2015 Mead: Stone Fruit Mead",
+          "searchable": true
+        },
+        {
+          "description": "In well-made examples of the style, the fruit is both distinctive and well-incorporated into the honey- sweet-acid-tannin-alcohol balance of the mead. Different types of fruit can result in widely different characteristics; allow for a variation in the final product.",
+          "filename": "2E",
+          "identifier": "bjcp_2015_mead_2e",
+          "name": "M2E Melomel",
+          "search-title": "BJCP 2015 Mead: Melomel",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "M3",
+      "name": "M3 Spiced Mead",
+      "sections": [
+        {
+          "filename": "3_intro",
+          "identifier": "bjcp_2015_mead_3_intro",
+          "name": "Spiced Mead Introduction",
+          "searchable": false
+        },
+        {
+          "description": "In well-made examples of the style, the fruits and spices are both distinctive and well-incorporated into the honey-sweet-acid-tannin-alcohol balance of the mead. Different types of fruits and spices can result in widely different characteristics; allow for significant variation in the final product.",
+          "filename": "3A",
+          "identifier": "bjcp_2015_mead_3a",
+          "name": "M3A Fruit and Spice Mead",
+          "search-title": "BJCP 2015 Mead: Fruit and Spice Mead",
+          "searchable": true
+        },
+        {
+          "description": "In well-made examples of the style, the spices are both distinctive and well-incorporated into the honey- sweet-acid-tannin-alcohol balance of the mead. Different types of spices can result in widely different characteristics; allow for a variation in the final product.",
+          "filename": "3B",
+          "identifier": "bjcp_2015_mead_3b",
+          "name": "M3B Spice, Herb or Vegetable Mead",
+          "search-title": "BJCP 2015 Mead: Spice, Herb or Vegetable Mead",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "M4",
+      "name": "M4 Specialty Mead",
+      "sections": [
+        {
+          "filename": "4_intro",
+          "identifier": "bjcp_2015_mead_4_intro",
+          "name": "Specialty Mead Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A harmonious blend of mead and beer, with the distinctive characteristics of both. A wide range of results are possible, depending on the base style of beer, variety of honey and overall sweetness and strength. Beer flavors tend to somewhat mask typical honey flavors found in other meads.",
+          "filename": "4A",
+          "identifier": "bjcp_2015_mead_4a",
+          "name": "M4A Braggot",
+          "search-title": "BJCP 2015 Mead: Braggot",
+          "searchable": true
+        },
+        {
+          "description": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.",
+          "filename": "4B",
+          "identifier": "bjcp_2015_mead_4b",
+          "name": "M4B Historical Mead",
+          "search-title": "BJCP 2015 Mead: Historical Mead",
+          "searchable": true
+        },
+        {
+          "description": "This mead should exhibit the character of all of the ingredients in varying degrees, and should show a good blending or balance between the various flavor elements. Whatever ingredients are included, the result should be identifiable as a honey-based fermented beverage.",
+          "filename": "4C",
+          "identifier": "bjcp_2015_mead_4c",
+          "name": "M4C Experimental Mead",
+          "search-title": "BJCP 2015 Mead: Experimental Mead",
+          "searchable": true
+        }
+      ]
+    }
+  ],
+  "identifier": "bjcp_2015_mead",
+  "name": "2015 Mead Style Guidelines",
+  "shortName": "2015 Mead Guidelines",
+  "url": "http://www.bjcp.org",
+  "version": 1
+}
