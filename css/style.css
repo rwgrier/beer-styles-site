@@ -1,0 +1,19 @@
+:root,
+[data-bs-theme=light] {
+	--bs-primary: #2CC55E;
+	--bs-primary-rgb: 44, 197, 94;
+	--bs-link-color: #2CC55E;
+	--bs-link-color-rgb: 44, 197, 94;
+	--bs-link-hover-color: #b3e8b9;
+	--bs-link-hover-color-rgb: 179, 232, 185;
+}
+
+.feature-icon-small {
+	width: 3rem;
+	height: 3rem;
+}
+
+.bi {
+	vertical-align: -.125em;
+	fill: currentColor;
+}
