@@ -1,4 +1,14 @@
-<p>Republished from <a href="https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/">2020 Brewers Association Beer Style Guidelines</a>.</p>
+			</div>
+		</div>
+	</main>
+	
+	<footer class="text-center text-lg-start">
+		<!-- Copyright -->
+		<div class="text-center p-3">
+			Republished from <a href="https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/">2020 Brewers Association Beer Style Guidelines</a>.
+		</div>
+		<!-- Copyright -->
+	</footer>
 
 </body>
 </html>
