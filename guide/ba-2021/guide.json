@@ -1161,5 +1161,7 @@
 	}],
 	"identifier": "ba_2021",
 	"name": "BA 2021 Beer Style Guidelines",
-	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/"
+    "shortName": "2021 Guidelines",
+	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
+    "version": 1
 }

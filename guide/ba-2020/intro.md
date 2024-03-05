@@ -32,68 +32,21 @@ Notes on Beer Style Guidelines: **It is very difficult to consistently align ana
     
 2. **Color Ranges:** The American SRM (Standard Reference Method) and EBC (European Brewing Convention) of measuring beer color measure the intensity of a certain wavelength of light. These numerical values do not always coincide with our visual perception of color lightness and darkness or hue. When in doubt the description of color has priority. In order from lightest descriptor to darkest descriptor:
 
-<html>
-<table>
-	<tr>
-		<th>Color Description</th>
-		<th>SRM</th>
-	</tr>
-	<tr>
-		<td width="60%">Very light</td>
-		<td width="40%">1-1.5</td>
-	</tr>
-	<tr>
-		<td>Straw</td>
-		<td>2-3</td>
-	</tr>
-	<tr>
-		<td>Pale</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>Gold</td>
-		<td>5-6</td>
-	</tr>
-	<tr>
-		<td>Light amber</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>Amber</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>Medium amber</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>Copper/garnet</td>
-		<td>10-12</td>
-	</tr>
-	<tr>
-		<td>Light brown</td>
-		<td>13-15</td>
-	</tr>
-	<tr>
-		<td>Brown/Reddish brown/chestnut brown</td>
-		<td>16-17</td>
-	</tr>
-	<tr>
-		<td>Dark brown</td>
-		<td>18-24</td>
-	</tr>
-	<tr>
-		<td>Very dark</td>
-		<td>25-39</td>
-	</tr>
-	<tr>
-		<td>Black</td>
-		<td>40+</td>
-	</tr>
-</table>
-<p>&nbsp;</p>
-</html>
-
+| Color Description | SRM |
+| --- | --- |
+| Very light | 1-1.5 |
+| Straw | 2-3 |
+| Pale | 4 |
+| Gold | 5-6 |
+| Light amber | 7 |
+| Amber | 8 |
+| Medium amber | 9 |
+| Copper/garnet | 10-12 |
+| Light brown | 13-15 |
+| Brown/Reddish brown/chestnut brown | 16-17 |
+| Dark brown | 18-24 |
+| Very dark | 25-39 |
+| Black | 40+ |
     
 3. **Bitterness:**  In the beer world bitterness is analytically measured as “bittering units” or “international bitterness units.” The numerical value is a measure of a specific hop compound and will not consistently coincide with an individual’s perception of bitterness intensity.
 

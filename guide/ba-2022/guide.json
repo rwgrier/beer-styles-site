@@ -1161,6 +1161,7 @@
 	}],
 	"identifier": "ba_2022",
 	"name": "BA 2022 Beer Style Guidelines",
+    "shortName": "2022 Guidelines",
 	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
     "version": 1
 }

@@ -1133,5 +1133,7 @@
 	}],
 	"identifier": "ba_2020",
 	"name": "BA 2020 Beer Style Guidelines",
-	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/"
+    "shortName": "2020 Guidelines",
+	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
+    "version": 1
 }
