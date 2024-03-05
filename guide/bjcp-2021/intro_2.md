@@ -4,7 +4,7 @@ The BJCP Style Guidelines use some specific terms with specialized meanings: _Ca
 
 When specialty beer descriptions refer to a _Classic Style_, we mean a _named style (or subcategory name) in the BJCP Style Guidelines_ prior to the Specialty-Type Beer styles section.
 
-The larger categories are <u>arbitrary</u> groupings of beer, mead, or cider styles, usually with similar sensory characteristics. Subcategories are not necessarily related to each other within the same category. The purpose of the category structure is to group styles of beer, mead, and cider to facilitate judging during competitions. Do not attempt to derive additional meaning from these groupings – no historical or geographic association is implied or intended.
+The larger categories are **_arbitrary_** groupings of beer, mead, or cider styles, usually with similar sensory characteristics. Subcategories are not necessarily related to each other within the same category. The purpose of the category structure is to group styles of beer, mead, and cider to facilitate judging during competitions. Do not attempt to derive additional meaning from these groupings – no historical or geographic association is implied or intended.
 
 Competitions may create their own _award categories_ that are distinct from the _style categories_ in these guidelines. **There is no requirement that competitions use style categories as award categories!** Individual styles can be grouped in any manner to create desired award categories in competition; for instance, to evenly distribute the number of entries in each award category.
 

@@ -1,6 +1,6 @@
 # Color Reference
 
-_Note that SRM is a measure of beer color density more than hue, tint, or shade. Keep this in mind when attempting to use only SRM numbers when describing beers. Within these Guidelines, beer color descriptors generally <u>approximate</u> this mapping to SRM values:_
+_Note that SRM is a measure of beer color density more than hue, tint, or shade. Keep this in mind when attempting to use only SRM numbers when describing beers. Within these Guidelines, beer color descriptors generally **_approximate_** this mapping to SRM values:_
 
 Straw	2-3 <br/>
 Yellow	3-4 <br/>

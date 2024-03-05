@@ -2,7 +2,7 @@
 
 The attributes discussed in this section are assumed to be present in every beer style description unless otherwise noted. It is not necessary to repeat all these characteristics for every style description. _Do not assume that since a characteristic (such as diacetyl) isn’t mentioned in a style description that somehow it is allowable._
 
-<u>Unless explicitly noted in an individual style description</u>, all beer styles are assumed to be cleanly fermented and free from technical faults, including acetaldehyde, astringency, chlorophenols, diacetyl, DMS, fusel alcohol, and phenolics. All beer styles are assumed to be free of packaging and handling faults, including oxidation, light-struck, sour, and musty characteristics. 
+**_Unless explicitly noted in an individual style description_**, all beer styles are assumed to be cleanly fermented and free from technical faults, including acetaldehyde, astringency, chlorophenols, diacetyl, DMS, fusel alcohol, and phenolics. All beer styles are assumed to be free of packaging and handling faults, including oxidation, light-struck, sour, and musty characteristics. 
 
 In mouthfeel, all beers are assumed to be free from astringency, and not be creamy or have any other palate sensations unless otherwise noted. Beers with an alcohol level of 6% or less are assumed to not have the flavor or warming nature of alcohol, unless otherwise noted. Higher-alcohol beers that have a noticeable alcohol presence should not be harsh, hot, solventy, or burning. The alcohol character if noted, should be clean and not have fusel alcohols.
 
