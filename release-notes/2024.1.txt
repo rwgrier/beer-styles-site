@@ -1,0 +1,7 @@
+Beer Style Guidelines 2024.1
+
+Beer Style Guidelines 2024.1 is the largest update in a while. 
+
+The entire user interface has been rewritten. The text rendering engine has also been updated and modernized. These changes should allow for easier updates in the future. 
+
+I also fixed several pesky bugs. 
