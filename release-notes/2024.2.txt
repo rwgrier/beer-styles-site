@@ -1,0 +1,6 @@
+Beer Style Guidelines 2024.2
+
+Beer Style Guidelines 2024.2 is a smaller update than the previous update. This includes: 
+
+- Minor tweaks
+- Bug fixes
