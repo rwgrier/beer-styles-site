@@ -17,3 +17,12 @@
 	vertical-align: -.125em;
 	fill: currentColor;
 }
+
+.btn-primary {
+	--bs-btn-bg: var(--bs-link-color);
+	--bs-btn-border-color: var(--bs-link-color);
+	--bs-btn-hover-bg: var(--bs-link-hover-color);
+	--bs-btn-hover-border-color: var(--bs-link-hover-color);
+	--bs-btn-active-bg: var(--bs-link-color);
+	--bs-btn-active-border-color: var(--bs-link-color);
+}
