@@ -1,0 +1,16 @@
+Beer Style Guidelines 2024.3
+
+Beer Style Guidelines 2024.3 - iOS
+==================================
+
+Beer Style Guidelines 2024.3 is a minor update. This update includes: 
+
+- A new "Contact Us" button in the menu
+- Bug fixes
+
+Beer Style Guidelines 2024.3 - macOS
+====================================
+
+Beer Style Guidelines 2024.3 is the largest macOS update in a while. 
+
+The entire user interface has been rewritten. The text rendering engine has also been updated and modernized. These changes should allow for easier updates in the future. 
