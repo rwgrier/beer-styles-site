@@ -1,0 +1,11 @@
+Beer Style Guidelines 2024.5
+
+Beer Style Guidelines 2024.5 - iOS
+==================================
+
+Removed the TelemetryDeck Analytics SDK. 
+
+Beer Style Guidelines 2024.5 - macOS
+====================================
+
+Removed the TelemetryDeck Analytics SDK. 
