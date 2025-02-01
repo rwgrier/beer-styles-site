@@ -1,0 +1,7 @@
+# C3. SPECIALTY CIDER
+
+_Specialty Cider includes those ciders with added flavorings or using processes not already described in categories C1 and C2. These ciders do not necessarily need a declared base style as is expected in some specialty beer styles, but they do need to use a perceptible form of cider as the base. The result must be recognizable as a cider with a pleasant integration of the specialty aspect into a coherent, synergistic end product. Declaring a base style is allowable, but understand that judges will then also judge the cider relative to that base style. Entries with undeclared base styles still should have a cider character._
+
+_In the context of this category, the term **fruit** is defined as having the same usage as in the preamble to category 29 Fruit Beer in the 2021 BJCP Beer Style Guidelines. Likewise, the term **spice** is defined as in category 30 Spiced Beer, including allowing the use of any spices, herbs, or vegetables._
+
+_The same general characteristics and fault descriptions apply to Specialty Ciders as to Traditional Ciders (category C1), with the exception of allowable added ingredients. See the Introduction to Cider and Perry Styles for detailed sensory characteristics that apply to all styles._

@@ -1,0 +1,5 @@
+# Mouthfeel
+
+- In general, cider and perry have a body and fullness akin to a light wine. Most cider styles have much less body than that of most beer. Some perries will have fuller bodies due to sorbitol (an unfermentable sugar alcohol), which can add a perception of sweetness.
+- Highly sparkling ciders can seem Champagne-like. Still ciders may seem lacking to novices since carbonation livens the presentation. Properly declared still ciders should not be penalized for lack of carbonation.
+- Tannin can affect mouthfeel by adding body, adding bitterness, or by increasing the perceived dryness of the finish. Tannic styles can have a pleasantly astringent mouthfeel resembling a red wine. Wine descriptors such as drying, fuzzy, or grippy may apply. An impression of wood, leather, dried leaves, or apple skins may also be present, with accompanying flavor effects.
