@@ -1,0 +1,233 @@
+{
+  "chapters": [
+    {
+      "index": "I",
+      "name": "Introduction to Cider Guidelines",
+      "sections": [
+        {
+          "filename": "intro_1",
+          "identifier": "bjcp_2025_cider_intro",
+          "name": "2025 Guidelines Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_2",
+          "identifier": "bjcp_2025_cider_intro_2",
+          "name": "Cider and Perry Styles Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_3",
+          "identifier": "bjcp_2025_cider_intro_3",
+          "name": "Aroma and Flavor",
+          "searchable": false
+        },
+        {
+          "filename": "intro_4",
+          "identifier": "bjcp_2025_cider_intro_4",
+          "name": "Appearance",
+          "searchable": false
+        },
+        {
+          "filename": "intro_5",
+          "identifier": "bjcp_2025_cider_intro_5",
+          "name": "Mouthfeel",
+          "searchable": false
+        },
+        {
+          "filename": "intro_6",
+          "identifier": "bjcp_2025_cider_intro_6",
+          "name": "Ingredients",
+          "searchable": false
+        },
+        {
+          "filename": "intro_7",
+          "identifier": "bjcp_2025_cider_intro_7",
+          "name": "Entry Instructions",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "C1",
+      "name": "C1 Traditional Cider",
+      "sections": [
+        {
+          "filename": "1_intro",
+          "identifier": "bjcp_2025_cider_1_intro",
+          "name": "Traditional Cider Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A refreshing drink with the fruity and floral aroma of apples, and a bright, juicy acidity.",
+          "filename": "1A",
+          "identifier": "bjcp_2025_cider_1a",
+          "name": "C1A Common Cider",
+          "search-title": "BJCP 2025 Cider: Common Cider",
+          "searchable": true
+        },
+        {
+          "description": "Combining the apple character and acidity of a Common Cider with the tannin of an English or French Cider, while retaining a clean fermentation profile.",
+          "filename": "1B",
+          "identifier": "bjcp_2025_cider_1b",
+          "name": "C1B Heirloom Cider",
+          "search-title": "BJCP 2025 Cider: Heirloom Cider",
+          "searchable": true
+        },
+        {
+          "description": "Full-bodied and often seeming quite dry with a long finish from high tannin content.",
+          "filename": "1C",
+          "identifier": "bjcp_2025_cider_1c",
+          "name": "C1C English Cider",
+          "search-title": "BJCP 2025 Cider: English Cider",
+          "searchable": true
+        },
+        {
+          "description": "Medium to sweet, full-bodied, rich.",
+          "filename": "1D",
+          "identifier": "bjcp_2025_cider_1d",
+          "name": "C1D French Cider",
+          "search-title": "BJCP 2025 Cider: French Cider",
+          "searchable": true
+        },
+        {
+          "description": "Dry and fresh, with a bright acidity that may contain light to moderate acetic and wild notes.",
+          "filename": "1E",
+          "identifier": "bjcp_2025_cider_1e",
+          "name": "C1E Spanish Cider",
+          "search-title": "BJCP 2025 Cider: Spanish Cider",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "C2",
+      "name": "C2 Strong Cider",
+      "sections": [
+        {
+          "filename": "2_intro",
+          "identifier": "bjcp_2025_cider_2_intro",
+          "name": "Strong Cider Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Substantial body and character.",
+          "filename": "2A",
+          "identifier": "bjcp_2025_cider_2a",
+          "name": "C2A New England Cider",
+          "search-title": "BJCP 2025 Cider: New England Cider",
+          "searchable": true
+        },
+        {
+          "description": "Typically presents like a dry white wine, with fruity and floral notes.",
+          "filename": "2B",
+          "identifier": "bjcp_2025_cider_2b",
+          "name": "C2B Applewine",
+          "search-title": "BJCP 2025 Cider: Applewine",
+          "searchable": true
+        },
+        {
+          "description": "Ice Cider",
+          "filename": "2C",
+          "identifier": "bjcp_2025_cider_2c",
+          "name": "C2C Ice Cider",
+          "search-title": "BJCP 2025 Cider: Ice Cider",
+          "searchable": true
+        },
+        {
+          "description": "A dark gold to brown cider with a very sweet, caramelized, maple sugar-like impression.",
+          "filename": "2D",
+          "identifier": "bjcp_2025_cider_2d",
+          "name": "C2D Fire Cider",
+          "search-title": "BJCP 2025 Cider: Fire Cider",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "C3",
+      "name": "C3 Specialty Cider",
+      "sections": [
+        {
+          "filename": "3_intro",
+          "identifier": "bjcp_2025_cider_3_intro",
+          "name": "Specialty Cider Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A pleasant integration of cider and added fruit.",
+          "filename": "3A",
+          "identifier": "bjcp_2025_cider_3a",
+          "name": "C3A Fruit Cider",
+          "search-title": "BJCP 2025 Cider: Fruit Cider",
+          "searchable": true
+        },
+        {
+          "description": "A pleasant integration of cider and added spices.",
+          "filename": "3B",
+          "identifier": "bjcp_2025_cider_3b",
+          "name": "C3B Spiced Cider",
+          "search-title": "BJCP 2025 Cider: Spiced Cider",
+          "searchable": true
+        },
+        {
+          "description": "Experimental Cider",
+          "filename": "3C",
+          "identifier": "bjcp_2025_cider_3c",
+          "name": "C3C Experimental Cider",
+          "search-title": "BJCP 2025 Cider: Experimental Cider",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "C4",
+      "name": "C4 Perry",
+      "sections": [
+        {
+          "filename": "4_intro",
+          "identifier": "bjcp_2025_cider_4_intro",
+          "name": "Perry Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Mildly fruity, fuller-bodied.",
+          "filename": "4A",
+          "identifier": "bjcp_2025_cider_4a",
+          "name": "C4A Common Perry",
+          "search-title": "BJCP 2025 Cider: Common Perry",
+          "searchable": true
+        },
+        {
+          "description": "Tannic and somewhat fruity, with a fuller body.",
+          "filename": "4B",
+          "identifier": "bjcp_2025_cider_4b",
+          "name": "C4B Heirloom Perry",
+          "search-title": "BJCP 2025 Cider: Heirloom Perry",
+          "searchable": true
+        },
+        {
+          "description": "Full-bodied, bright, and fruity, with a balanced acidity.",
+          "filename": "4C",
+          "identifier": "bjcp_2025_cider_4c",
+          "name": "C4C Ice Perry",
+          "search-title": "BJCP 2025 Cider: Ice Perry",
+          "searchable": true
+        },
+        {
+          "description": "Experimental Perry",
+          "filename": "4D",
+          "identifier": "bjcp_2025_cider_4d",
+          "name": "C4D Experimental Perry",
+          "search-title": "BJCP 2025 Cider: Experimental Perry",
+          "searchable": true
+        }
+      ]
+    }
+  ],
+  "identifier": "bjcp_2025_cider",
+  "name": "2025 Cider Style Guidelines",
+  "shortName": "2025 Cider Guidelines",
+  "url": "http://www.bjcp.org",
+  "version": 1
+}
