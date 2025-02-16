@@ -1,0 +1,6 @@
+Beer Style Guidelines 2025.2
+
+Beer Style Guidelines 2025.2 - iOS, iPadOS, & macOS
+==================================
+
+Added 2025 BJCP Cider Guidelines.
