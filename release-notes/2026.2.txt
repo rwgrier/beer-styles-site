@@ -1,0 +1,6 @@
+Beer Style Guidelines 2026.2
+
+Beer Style Guidelines 2026.2 - iOS, iPadOS, & macOS
+==================================
+
+Another round of "under the cover" changes. No user-facing changes. 
