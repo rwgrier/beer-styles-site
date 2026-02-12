@@ -1,0 +1,6 @@
+Beer Style Guidelines 2026.3
+
+Beer Style Guidelines 2026.3 - iOS, iPadOS, & macOS
+==================================
+
+Fixed a bug where some guides disappeared. Sorry about that folks. I messed that up. 
