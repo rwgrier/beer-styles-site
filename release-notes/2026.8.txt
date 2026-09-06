@@ -1,0 +1,6 @@
+Beer Style Guidelines 2026.8
+
+Beer Style Guidelines 2026.8 - iOS, iPadOS, & macOS
+==================================
+
+Addressing some internal code issues. Fixed some bugs. 
