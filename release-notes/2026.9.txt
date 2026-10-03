@@ -1,0 +1,15 @@
+Beer Style Guidelines 2026.9
+
+Beer Style Guidelines 2026.9 - iOS, iPadOS, & macOS
+==================================
+
+A fresh look, and a better read.
+
+• Redesigned for Liquid Glass. Toolbars, the favorites confirmation and the tip jar all match the new look of iOS 26.
+• Easier reading on iPad. Style descriptions now keep a comfortable line length instead of stretching across the whole screen.
+• Better search. Results stay in guide order, chapter by chapter, and the list on iPad returns to its chapters as soon as you clear the search.
+• Clearer scrolling. Section headers no longer collide with the navigation bar as you scroll.
+• Accessibility improvements. VoiceOver announces when you add or remove a favorite, colors hold up better in Dark Mode and with Increase Contrast, and the app respects Reduce Motion.
+• A refreshed app icon.
+
+This version requires iOS 26 or later.
