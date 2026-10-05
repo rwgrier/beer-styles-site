@@ -1,0 +1,13 @@
+Beer Style Guidelines 2026.10
+
+Beer Style Guidelines 2026.10 - iOS, iPadOS, & macOS
+==================================
+
+See the color, and smoother switching.
+
+• Color at a glance. Each style now shows its SRM color range on a scale bar, so you can check a beer's color against more than the description. Colors are approximate, since every screen is a little different. Thanks to Matt for suggesting this one!
+• Smoother guide switching. Picking a style guide no longer flashes a "select a style guide" message first, and on Mac the list now swaps cleanly instead of blending two guides together.
+• Tidier Mac layout. Long guide names no longer spill past the middle column.
+• Smarter toolbars on iOS 27. When space is tight, the most important buttons stay visible.
+
+This version requires iOS 26 or later.
