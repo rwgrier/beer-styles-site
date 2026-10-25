@@ -11,4 +11,4 @@ Ready for iPhone Duo, and steadier everywhere.
 • Easier reading in About and the Tip Jar. The About heading no longer gets cut off, and both screens now scroll to show all their text.
 • On Mac, the favorites confirmation no longer covers the color scale.
 
-This version requires iOS 26 or later.
+This version requires iOS/macOS 26 or later.
