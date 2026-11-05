@@ -1,0 +1,247 @@
+{
+  "chapters": [
+    {
+      "index": "I",
+      "name": "Introduction to Mead Guidelines",
+      "sections": [
+        {
+          "filename": "intro_1",
+          "identifier": "bjcp_2026_mead_intro",
+          "name": "2026 Guidelines Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_2",
+          "identifier": "bjcp_2026_mead_intro_2",
+          "name": "Mead Styles Introduction",
+          "searchable": false
+        },
+        {
+          "filename": "intro_3",
+          "identifier": "bjcp_2026_mead_intro_3",
+          "name": "Aroma and Flavor",
+          "searchable": false
+        },
+        {
+          "filename": "intro_4",
+          "identifier": "bjcp_2026_mead_intro_4",
+          "name": "Appearance",
+          "searchable": false
+        },
+        {
+          "filename": "intro_5",
+          "identifier": "bjcp_2026_mead_intro_5",
+          "name": "Mouthfeel",
+          "searchable": false
+        },
+        {
+          "filename": "intro_6",
+          "identifier": "bjcp_2026_mead_intro_6",
+          "name": "Overall Impression",
+          "searchable": false
+        },
+        {
+          "filename": "intro_7",
+          "identifier": "bjcp_2026_mead_intro_7",
+          "name": "Ingredients",
+          "searchable": false
+        },
+        {
+          "filename": "intro_8",
+          "identifier": "bjcp_2026_mead_intro_8",
+          "name": "Entry Instructions",
+          "searchable": false
+        }
+      ]
+    },
+    {
+      "index": "M1",
+      "name": "M1 Traditional Mead",
+      "sections": [
+        {
+          "filename": "1_intro",
+          "identifier": "bjcp_2026_mead_1_intro",
+          "name": "Traditional Mead Introduction",
+          "searchable": false
+        },
+        {
+          "description": "A mead without significant residual sweetness, allowing more of the natural honey aromatics to be appreciated without the associated sweetness of raw honey. Lower levels of sweetness may allow more of the fermentation, conditioning, and aging bouquet to be perceived. Has a similar balance, body, finish, and flavor intensity as found in the full range of dry white wines.",
+          "filename": "1A",
+          "identifier": "bjcp_2026_mead_1a",
+          "name": "M1A Dry Mead",
+          "search-title": "BJCP 2026 Mead: Dry Mead",
+          "searchable": true
+        },
+        {
+          "description": "A mead with a noticeable, balanced honey sweetness. Increased honey character and body is noticeable, as compared to a M1A Dry Mead. Acid and tannin levels support the sweetness, but finishing sweetness does not dominate the mead. Has a similar balance, body, finish, and flavor intensity as found in the full range of semi-sweet to sweet white wines.",
+          "filename": "1B",
+          "identifier": "bjcp_2026_mead_1b",
+          "name": "M1B Semi-Sweet Mead",
+          "search-title": "BJCP 2026 Mead: Semi-Sweet Mead",
+          "searchable": true
+        },
+        {
+          "description": "A mead with significant honey sweetness. Increased honey character and body is noticeable, as compared to a M1B Semi-Sweet Mead. Acid and tannin levels support the sweetness, but the finishing sweetness is a major flavor component. Has a similar balance, body, finish, and flavor intensity as found in the full range of well-made dessert wines (such as Ice Wine).",
+          "filename": "1C",
+          "identifier": "bjcp_2026_mead_1c",
+          "name": "M1C Sweet Mead",
+          "search-title": "BJCP 2026 Mead: Sweet Mead",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "M2",
+      "name": "M2 Melomel",
+      "sections": [
+        {
+          "filename": "2_intro",
+          "identifier": "bjcp_2026_mead_2_intro",
+          "name": "Melomel Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable pome fruit character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The fruit character should be harmonious with the base mead, and not seem solely like a cider.",
+          "filename": "2A",
+          "identifier": "bjcp_2026_mead_2a",
+          "name": "M2A Cyser",
+          "search-title": "BJCP 2026 Mead: Cyser",
+          "searchable": true
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable wine-like character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The fruit character should not completely dominate the mead.",
+          "filename": "2B",
+          "identifier": "bjcp_2026_mead_2b",
+          "name": "M2B Pyment",
+          "search-title": "BJCP 2026 Mead: Pyment",
+          "searchable": true
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable fruit character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The fruit character should not completely dominate the mead.",
+          "filename": "2C",
+          "identifier": "bjcp_2026_mead_2c",
+          "name": "M2C Berry Mead",
+          "search-title": "BJCP 2026 Mead: Berry Mead",
+          "searchable": true
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable fruit character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The fruit character should not completely dominate the mead.",
+          "filename": "2D",
+          "identifier": "bjcp_2026_mead_2d",
+          "name": "M2D Stone Fruit Mead",
+          "search-title": "BJCP 2026 Mead: Stone Fruit Mead",
+          "searchable": true
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable fruit character. A wide range of outcomes is possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The fruit character should not completely dominate the mead.",
+          "filename": "2E",
+          "identifier": "bjcp_2026_mead_2e",
+          "name": "M2E Other Fruit Mead",
+          "search-title": "BJCP 2026 Mead: Other Fruit Mead",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "M3",
+      "name": "M3 Spiced Mead",
+      "sections": [
+        {
+          "filename": "3_intro",
+          "identifier": "bjcp_2026_mead_3_intro",
+          "name": "Spiced Mead Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable herb or spice character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The herb or spice character should not completely dominate the mead.",
+          "filename": "3A",
+          "identifier": "bjcp_2026_mead_3a",
+          "name": "M3A Metheglin",
+          "search-title": "BJCP 2026 Mead: Metheglin",
+          "searchable": true
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable vegetable and optional herb or spice character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The spice, herb, or vegetable (SHV) character should not completely dominate the mead.",
+          "filename": "3B",
+          "identifier": "bjcp_2026_mead_3b",
+          "name": "M3B Vegetable Mead",
+          "search-title": "BJCP 2026 Mead: Vegetable Mead",
+          "searchable": true
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a noticeable fruit and spice, herb, or vegetable (SHV) character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients, but the final product should be balanced, pleasant, and enjoyable. The SHV character should not completely dominate the mead.",
+          "filename": "3C",
+          "identifier": "bjcp_2026_mead_3c",
+          "name": "M3C Fruit and Spice Mead",
+          "search-title": "BJCP 2026 Mead: Fruit and Spice Mead",
+          "searchable": true
+        }
+      ]
+    },
+    {
+      "index": "M4",
+      "name": "M4 Specialty Mead",
+      "sections": [
+        {
+          "filename": "4_intro",
+          "identifier": "bjcp_2026_mead_4_intro",
+          "name": "Specialty Mead Introduction",
+          "searchable": false
+        },
+        {
+          "description": "Like a M1 Traditional Mead with a supporting malt or beer character. A wide range of outcomes are possible depending on choices of the base mead and additional ingredients. The mead character should be stronger than in honey beers, but the blend of mead and beer should be pleasant and well-integrated.",
+          "filename": "4A",
+          "identifier": "bjcp_2026_mead_4a",
+          "name": "M4A Braggot",
+          "search-title": "BJCP 2026 Mead: Braggot",
+          "searchable": true
+        },
+        {
+          "description": "Like a Traditional Mead with a noticeable caramelized honey character, but not burnt, harsh, or acrid notes. Acidity levels should be balanced. Optional spice and fruit additions should enhance, not dominate, the base bochet character.",
+          "filename": "4B",
+          "identifier": "bjcp_2026_mead_4b",
+          "name": "M4B Bochet",
+          "search-title": "BJCP 2026 Mead: Bochet",
+          "searchable": true
+        },
+        {
+          "description": "Stronger or denser versions of Polish Mead are characterized by a viscous mouthfeel, aged character, and often sweet finish while the weaker or thinner versions may seem superficially similar to meads in the M1 Traditional Mead category, and derivative fruit and spiced versions. This style is intended for meads that exhibit this distinctive Polish character.",
+          "filename": "4C",
+          "identifier": "bjcp_2026_mead_4c",
+          "name": "M4C Polish Mead",
+          "search-title": "BJCP 2026 Mead: Polish Mead",
+          "searchable": true
+        },
+        {
+          "description": "Any style of mead that uses wood at a noticeable level, but still in a way that is balanced, pleasant, and enjoyable. The wood character should not completely dominate the mead, but can play up to an equal role as the other ingredients.",
+          "filename": "4D",
+          "identifier": "bjcp_2026_mead_4d",
+          "name": "M4D Wood-Aged Mead",
+          "search-title": "BJCP 2026 Mead: Wood-Aged Mead",
+          "searchable": true
+        },
+        {
+          "description": "Any style of mead that features a used barrel character at a noticeable level, but still in a way that is balanced, pleasant, and enjoyable. The barrel character should not completely dominate the mead, but can play up to an equal role as the other ingredients. Both the barrel and the prior contents of the barrel should play a role in the final product.",
+          "filename": "4E",
+          "identifier": "bjcp_2026_mead_4e",
+          "name": "M4E Barrel-Aged Mead",
+          "search-title": "BJCP 2026 Mead: Barrel-Aged Mead",
+          "searchable": true
+        },
+        {
+          "description": "Depends on the declared experimental nature, but should be recognizable as mead, contain identifiable experimental components, and be pleasant to drink.",
+          "filename": "4F",
+          "identifier": "bjcp_2026_mead_4f",
+          "name": "M4F Experimental Mead",
+          "search-title": "BJCP 2026 Mead: Experimental Mead",
+          "searchable": true
+        }
+      ]
+    }
+  ],
+  "identifier": "bjcp_2026_mead",
+  "name": "2026 Mead Style Guidelines",
+  "shortName": "2026 Mead Guidelines",
+  "url": "http://www.bjcp.org",
+  "version": 1
+}
