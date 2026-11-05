@@ -7,7 +7,7 @@
 - **Perceived bitterness:** Low to medium-high
 - **Fermentation Characteristics:** Low to medium fruity esters are acceptable but not essential.
 - **Body:** Medium-low to medium with a dry finish
-- **Additional notes:** Overall impression is a well- integrated easy drinking, refreshing pale ale style with distinctive fruity, tropical, herbal and many other hop aromas and flavours. Diacetyl is usually absent in these beers but may be present at very low levels. DMS should not be present.
+- **Additional notes:** Overall impression is a well- integrated easy drinking, refreshing pale ale style with distinctive fruity hop aromas and flavours. Diacetyl is absent in these beers. DMS should not be present.
 
 ## Vital Statistics:
 

@@ -1,4 +1,4 @@
-# Non-Alcoholic Malt Beverage
+# Non-Alcohol Malt Beverage
 
 - **Color:** Varies with underlying style
 - **Clarity:** Varies with underlying style

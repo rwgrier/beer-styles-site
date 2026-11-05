@@ -542,12 +542,12 @@
     },
     {
       "index": "7",
-      "name": "7 Amber Bitter European Lager",
+      "name": "7 Amber Bitter European Beer",
       "sections": [
         {
           "filename": "7_intro",
           "identifier": "bjcp_2021_7_intro",
-          "name": "Amber Bitter European Lager Introduction",
+          "name": "Amber Bitter European Beer Introduction",
           "searchable": false
         },
         {
@@ -819,7 +819,7 @@
           "search-title": "BJCP 2021: Strong Bitter",
           "searchable": true,
           "tags": [
-            "session-strength",
+            "standard-strength",
             "amber-color",
             "top-fermented",
             "british-isles",
@@ -1175,12 +1175,12 @@
     },
     {
       "index": "17",
-      "name": "17 Strong British Beer",
+      "name": "17 Strong British Ale",
       "sections": [
         {
           "filename": "17_intro",
           "identifier": "bjcp_2021_17_intro",
-          "name": "Strong British Beer Introduction",
+          "name": "Strong British Ale Introduction",
           "searchable": false
         },
         {
@@ -1239,8 +1239,8 @@
           "description": "A strong and richly malty ale with a pleasant fruity or hoppy depth. A wintertime sipper with a full, chewy body and warming alcohol.",
           "filename": "17D",
           "identifier": "bjcp_2021_17d",
-          "name": "17D English Barleywine",
-          "search-title": "BJCP 2021: English Barleywine",
+          "name": "17D English Barley Wine",
+          "search-title": "BJCP 2021: English Barley Wine",
           "searchable": true,
           "tags": [
             "very-high-strength",
@@ -1611,7 +1611,7 @@
           "search-title": "BJCP 2021: Berliner Weisse",
           "searchable": true,
           "tags": [
-            "session-beer",
+            "session-strength",
             "pale-color",
             "top-fermented",
             "central-europe",
@@ -1630,7 +1630,7 @@
           "tags": [
             "standard-strength",
             "amber-color",
-            "top-fermenting",
+            "top-fermented",
             "western-europe",
             "traditional-style",
             "balanced",
@@ -1873,7 +1873,7 @@
           "tags": [
             "standard-strength",
             "pale-color",
-            "top-fermenting",
+            "top-fermented",
             "western-europe",
             "craft-style",
             "bitter",
@@ -2071,7 +2071,7 @@
           "tags": [
             "standard-strength",
             "amber-color",
-            "top-fermenting",
+            "top-fermented",
             "central-europe",
             "historical-style",
             "wheat-beer-family"
@@ -2430,8 +2430,8 @@
           "description": "Based on declared beer.",
           "filename": "34A",
           "identifier": "bjcp_2021_34a",
-          "name": "34A Clone Beer",
-          "search-title": "BJCP 2021: Clone Beer",
+          "name": "34A Commercial Specialty Beer",
+          "search-title": "BJCP 2021: Commercial Specialty Beer",
           "searchable": true,
           "tags": [
             "specialty-beer"
@@ -2550,5 +2550,5 @@
   "name": "BJCP 2021 Style Guidelines",
   "shortName": "2021 Guidelines",
   "url": "http://www.bjcp.org",
-  "version": 1
+  "version": 3
 }

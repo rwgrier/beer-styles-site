@@ -8,7 +8,7 @@ To assist with regrouping styles for other purposes, we have added informational
 | | session-strength | <4% ABV |
 | | standard-strength | 4-6% ABV |
 | | high-strength | 6-9% ABV |
-| | very-high-strength | 9% ABV |
+| | very-high-strength | >9% ABV |
 | Color |||
 | | pale-color | straw to gold | 
 | | amber-color | amber to copper-brown | 
@@ -16,9 +16,9 @@ To assist with regrouping styles for other purposes, we have added informational
 | Fermentation/Conditioning ||| 
 | | top-fermented | ale yeast |
 | | bottom-fermented | lager yeast |
-| | any-fermented | ale yeast or lager yeast |
+| | any-fermentation | ale yeast or lager yeast |
 | | wild-fermented | non-Saccharomyces yeast/bacteria |
-| | lagered | ale yeast or lager yeast |
+| | lagered | cold conditioned |
 | | aged | long conditioning before release |
 | Region of Origin |||
 | | british-isles | England, Wales, Scotland, Ireland |

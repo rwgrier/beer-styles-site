@@ -3,7 +3,7 @@
 - **Color:** Pale to light amber
 - **Clarity:** Chill haze is acceptable at low temperatures. Traditional Tripels are bottle conditioned and may exhibit slight yeast haze. However, yeast should not be intentionally roused.
 - **Perceived Malt Aroma & Flavor:** Low sweetness from very pale malts should be present. There should be no roasted or dark malt character.
-- **Perceived Hop Aroma & Flavor:** Low, if present
+- **Perceived Hop Aroma & Flavor:** Low, if present.
 - **Perceived bitterness:** Medium to medium-high
 - **Fermentation Characteristics:** A complex, sometimes mildly spicy, aroma and ﬂavor characterize this style. Clove-like phenolic aroma and ﬂavor may be very low. Fruity-estery aromas and ﬂavors, including banana, are also common, but not required. Traditional Tripels are often well attenuated. Alcohol strength and ﬂavor should be perceived.
 - **Body:** Medium

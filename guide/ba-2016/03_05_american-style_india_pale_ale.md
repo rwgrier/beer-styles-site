@@ -8,4 +8,4 @@ American-Style India Pale Ales are gold to copper. Chill haze is allowable at co
 - FG: 1.010 - 1.018
 - IBUs: 50 - 70
 - SRM: 6 - 12
-- ABV: 5.0 - 6.0% 
+- ABV: 6.3 - 7.5% 

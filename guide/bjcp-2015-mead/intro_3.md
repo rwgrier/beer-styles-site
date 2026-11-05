@@ -18,9 +18,9 @@ _When individual mead style descriptions use the phrase_ **Standard Description 
 		standard: 7.5 – 14.0%<br/>
 		sack: 14.0 – 18.0%<br/>
 	**FG:**<br/>
-		hydromel: 0.990 – 1.010<br/>
-		standard: 1.010 – 1.025<br/>
-		sack: 1.025 – 1.050<br/>
+		dry: 0.990 – 1.010<br/>
+		semi-sweet: 1.010 – 1.025<br/>
+		sweet: 1.025 – 1.050<br/>
 	_Note that the perception of sweetness is a function of the percentage of residual sugar, so don’t rely only on FG to determine sweetness. Consider the OG, strength, tannin levels, and to a lesser extent, acidity, in assessing sweetness._
 	
 	**IBUs:** not relevant for anything but braggot, but bittering hops are optional even in this style.

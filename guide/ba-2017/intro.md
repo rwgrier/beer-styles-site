@@ -20,7 +20,7 @@ The bitterness specifications (IBUs) given in these guidelines are based on stan
 
 Notes on Beer Style Guidelines: **It is very difficult to consistently align analytical data with perceived character. It is also very difficult to consistently align written beer descriptions with analytical data and perceived character.**
 
-1. **Intensity Level Terminology:** Beer flavor attributes referenced in the beer style guidelines are often referenced in relative terms of intensity. These attributes can include bitterness, flavor, aroma, body, malt, sweetness, or others. In order of increasing intensity the descriptions used include:
+1. **Intensity Level Terminology:** Beer flavor attributes referenced in the beer style guidelines are often referenced in relative terms of intensity. These attributes can include bitterness, flavor, aroma, body, malt, sweetness, or others. In order of increasing intensity, the descriptions used include:
     - None
     - Very low
     - Low
@@ -58,7 +58,7 @@ Notes on Beer Style Guidelines: **It is very difficult to consistently align ana
 
 **Notes on Beer Competitions:** Brewers Association Beer Style Guidelines form the basis for the guidelines at the Great American Beer Festival (GABF) and World Beer Cup (WBC).
 
-1. **Competition Categories:** GABF and WBC categories may contain one or more beer styles. Categories with multiple beer styles will be organized into subcategories of similar style beers. Often this provides the category with a sufficient number of entries to make the category competitive or meet minimum entry numbers.
+1. **Competition Categories:** GABF and WBC categories may contain one or more beer styles. Categories with multiple beer styles will be organized into subcategories of similar style beers. Often this provides the category with sufficient entries to make the category competitive or meet minimum entry numbers.
 
 2. **Beer Style Guidelines:** Categories at competition may differ somewhat from this guideline document. They may include special notes which pertain to that competition. These notes might solicit special information from brewers to be provided to judges so they may evaluate beer entries more accurately, or provide clarity to entering brewers regarding possibly confusing or overlapping aspects of beer style categories.
 

@@ -16,4 +16,4 @@ _When using these guidelines as the basis for evaluating entries at competitions
 - FG (°Plato): 1.010 - 1.018 (2.6 - 4.6 °Plato)
 - IBUs: 15 - 25
 - SRM: 9 - 19
-- ABV: 4.1 - 5.3%
+- ABV: 4.1 - 6.0%

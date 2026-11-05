@@ -7,5 +7,5 @@ Belgian-Style Gueuze Lambics are gold to medium-amber. Cloudiness is acceptable,
 - OG: 1.044 - 1.056
 - FG: 1.000 - 1.010
 - IBUs: 11 - 23
-- SRM: 11 - 13
-- ABV: 7.9 - 8.9% 
+- SRM: 6 - 13
+- ABV: 7.0 - 8.9% 

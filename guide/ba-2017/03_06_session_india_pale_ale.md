@@ -7,7 +7,7 @@
 - **Perceived bitterness:** Medium to high
 - **Fermentation Characteristics:** Fruity-estery aroma and ﬂavor is low to medium. Diacetyl should not be perceived.
 - **Body:** Low to medium
-- **Additional notes:** Beers exceeding 5.0% abv are not considered Session India Pale Ales. Beers under 5.0% abv (4.0% abw) which meet the criteria for another classic or traditional style category are not considered Session India Pale Ales. _Beers exceeding 5.0% abv are not considered Session India Pale Ales. Beers under 5.0% abv (4.0% abw) which meet the criteria for another classic or traditional style category are not considered Session India Pale Ales._
+- **Additional notes:** Beers exceeding 5.0% abv are not considered Session India Pale Ales. Beers under 5.0% abv (4.0% abw) which meet the criteria for another classic or traditional style category are not considered Session India Pale Ales.
 
 ## Vital Statistics:
 

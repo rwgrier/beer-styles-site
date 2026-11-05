@@ -6,6 +6,6 @@ Strong Ales are amber to dark brown. Chill haze is acceptable at low temperature
 
 - OG: 1.060 - 1.125
 - FG: 1.014 - 1.040
-- IBUs: 35 - 65
+- IBUs: 30 - 65
 - SRM: 8 - 21
 - ABV: 7.0 - 11.3%
