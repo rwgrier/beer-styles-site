@@ -1,6 +1,6 @@
 # Brewers Association 2025 Beer Style Guidelines
 
-May 30, 2025
+Updated 5/30/2025
 
 Compiled by the Brewers Association, copyright: 1993 through and including 2025. With Style Guideline Committee assistance and review by Chris Williams, Chuck Skypeck, Katie Fromuth, Steve Parr, and suggestions from Great American Beer Festival® & World Beer Cup℠ judges, brewers, beer writers and beer lovers from around the world.
 

@@ -296,7 +296,7 @@
 			"description": "Double Hoppy Red Ale is a North American origin style ale.",
 			"filename": "03_16_double_red_ale",
 			"identifier": "ba_2021_double_red_ale",
-			"name": "Double Hoppy Red",
+			"name": "Double Hoppy Red Ale",
 			"search-title": "BA 2021: Double Hoppy Red Ale",
 			"searchable": true
 		}, {
@@ -493,8 +493,8 @@
 			"description": "Belgian-Style Dark Strong Ale is a Belgian/French origin style ale.",
 			"filename": "05_06_belgian-style_dark_strong_ale",
 			"identifier": "ba_2021_belgian-style_dark_strong_ale",
-			"name": "Belgian-Style Dark Strong Ale",
-			"search-title": "BA 2021: Belgian-Style Dark Strong Ale",
+			"name": "Belgian-Style Strong Dark Ale",
+			"search-title": "BA 2021: Belgian-Style Strong Dark Ale",
 			"searchable": true
 		}, {
 			"description": "Belgian-Style Dubbel is a Belgian/French origin style ale.",
@@ -535,8 +535,8 @@
 			"description": "Specialty Saison is a Belgian/French origin style ale.",
 			"filename": "05_12_specialty_saison",
 			"identifier": "ba_2021_specialty_saison",
-			"name": "Specialty Saisons",
-			"search-title": "BA 2021: Specialty Saisons",
+			"name": "Specialty Saison",
+			"search-title": "BA 2021: Specialty Saison",
 			"searchable": true
 		}, {
 			"description": "French-Style Bière de Garde is a Belgian/French origin style ale.",
@@ -917,7 +917,7 @@
 
 	}, {
 		"index": "10",
-		"name": "All Origin Hybrid/Mixed Lager or Ales",
+		"name": "All Origin Hybrid/Mixed Lagers or Ales",
 		"sections": [{
 			"description": "Session Beer is a hybrid/mixed lager or ale.",
 			"filename": "10_01_session_beer",
@@ -1153,8 +1153,8 @@
 			"description": "Non-Alcoholic Malt Beverage is a hybrid/mixed lager or ale.",
 			"filename": "10_34_non-alcoholic_malt_beverage",
 			"identifier": "ba_2021_non-alcoholic_malt_beverage",
-			"name": "Non-Alcoholic Malt Beverage",
-			"search-title": "BA 2021: Non-Alcoholic Malt Beverage",
+			"name": "Non-Alcohol Malt Beverage",
+			"search-title": "BA 2021: Non-Alcohol Malt Beverage",
 			"searchable": true
 		}]
 
@@ -1163,5 +1163,5 @@
 	"name": "BA 2021 Beer Style Guidelines",
     "shortName": "2021 Guidelines",
 	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
-    "version": 1
+    "version": 2
 }

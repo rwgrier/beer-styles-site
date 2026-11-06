@@ -1,0 +1,14 @@
+Beer Style Guidelines 2026.12
+
+Beer Style Guidelines 2026.12 - iOS, iPadOS, & macOS
+==================================
+
+Two new guides, and a careful proofread of the rest.
+
+• New: BJCP 2026 Mead Style Guidelines, with the reorganized fruit, spice and experimental mead categories. It sits next to the 2015 mead guide.
+• New: Brewers Association 2026 Beer Style Guidelines.
+• Corrected vital statistics. Gravity and alcohol ranges that didn't match the published guidelines now do, in BJCP 2015 Cider and the Brewers Association 2016, 2020 and 2025 guides.
+• BJCP 2015 Smoked Beer fixed. 32A Classic Style Smoked Beer and 32B Specialty Smoked Beer each show their own description again.
+• Typo fixes throughout. Style names and text in BJCP 2015 and 2021, the BJCP cider and mead guides, and the Brewers Association 2016–2025 guides now match the published guidelines.
+
+This version requires iOS/macOS 26 or later.

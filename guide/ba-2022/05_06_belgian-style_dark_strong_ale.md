@@ -1,4 +1,4 @@
-# Belgian-Style Dark Strong Ale
+# Belgian-Style Strong Dark Ale
 
 - **Color:** Amber to very dark
 - **Clarity:** Chill haze is acceptable at low temperatures

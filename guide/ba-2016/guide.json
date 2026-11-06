@@ -187,7 +187,7 @@
 		"index": "3",
 		"name": "North American Origin Ale Styles",
 		"sections": [{
-			"description": "Irish-Style Red Ales are copper red to reddish brown.",
+			"description": "Golden or Blonde Ales are straw to light amber.",
 			"filename": "03_01_golden_or_blonde_ale",
 			"identifier": "ba_2016_golden_or_blonde_ale",
 			"name": "Golden or Blonde Ale",
@@ -827,7 +827,7 @@
 	}, {
 
 		"index": "9",
-		"name": "North American Origin Lager Styles",
+		"name": "Other Origin Lager Styles",
 		"sections": [{
 			"description": "Baltic-Style Porters are very deep ruby/garnet to black.",
 			"filename": "09_01_baltic-style_porter",
@@ -853,7 +853,7 @@
 
 	}, {
 		"index": "10",
-		"name": "All Origin Hybrid/Mixed Lager or Ales",
+		"name": "All Origin Hybrid/Mixed Lagers or Ales",
 		"sections": [{
 			"description": "Session Beers are the color of the classic beer style being made to lower strength.",
 			"filename": "10_01_session_beer",
@@ -1120,5 +1120,5 @@
 	"name": "BA 2016 Beer Style Guidelines",
     "shortName": "2016 Guidelines",
 	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
-    "version": 1
+    "version": 2
 }

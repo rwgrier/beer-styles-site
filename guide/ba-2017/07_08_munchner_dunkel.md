@@ -1,4 +1,4 @@
-# Münchner Dunkel
+# Münchner-Style Dunkel
 
 - **Color:** Light brown to brown
 - **Clarity:** Chill haze should not be present

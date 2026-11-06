@@ -29,6 +29,7 @@ Notes on Beer Style Guidelines: **It is very difficult to consistently align ana
     - Medium-high
     - High
     - Very high    
+    - Intense
     
 2. **Color Ranges:** The American SRM (Standard Reference Method) and EBC (European Brewing Convention) of measuring beer color measure the intensity of a certain wavelength of light. These numerical values do not always coincide with our visual perception of color lightness and darkness or hue. When in doubt the description of color has priority. In order from lightest descriptor to darkest descriptor:
 

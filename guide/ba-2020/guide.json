@@ -188,7 +188,7 @@
 		"index": "3",
 		"name": "North American Origin Ale Styles",
 		"sections": [{
-			"description": "Irish-Style Red Ales are copper red to reddish brown.",
+			"description": "Golden or Blonde Ales are straw to light amber.",
 			"filename": "03_01_golden_or_blonde_ale",
 			"identifier": "ba_2020_golden_or_blonde_ale",
 			"name": "Golden or Blonde Ale",
@@ -289,15 +289,15 @@
 			"description": "Double Hoppy Red Ales are deep amber to dark copper/reddish-brown.",
 			"filename": "03_15_double_red_ale",
 			"identifier": "ba_2020_double_red_ale",
-			"name": "Double Hoppy Red",
+			"name": "Double Hoppy Red Ale",
 			"search-title": "BA 2020: Double Hoppy Red Ale",
 			"searchable": true
 		}, {
 			"description": "Imperial Red Ales are deep amber to dark copper/reddish-brown.",
 			"filename": "03_16_imperial_red_ale",
 			"identifier": "ba_2020_imperial_red_ale",
-			"name": "American-Style Imperial or Double India Pale Ale",
-			"search-title": "BA 2020: American-Style Imperial or Double India Pale Ale",
+			"name": "Imperial Red Ale",
+			"search-title": "BA 2020: Imperial Red Ale",
 			"searchable": true
 		}, {
 			"description": "American-Style Imperial or Double India Pale Ales are straw to medium amber.",
@@ -514,8 +514,8 @@
 			"description": "Specialty Saisons are straw to dark brown; may take on hue of fruit(s), darker malts or other ingredients.",
 			"filename": "05_10_specialty_saison",
 			"identifier": "ba_2020_specialty_saison",
-			"name": "Specialty Saisons",
-			"search-title": "BA 2020: Specialty Saisons",
+			"name": "Specialty Saison",
+			"search-title": "BA 2020: Specialty Saison",
 			"searchable": true
 		}, {
 			"description": "French-Style Bière de Gardes are light amber to chestnut brown/red.",
@@ -889,7 +889,7 @@
 
 	}, {
 		"index": "10",
-		"name": "All Origin Hybrid/Mixed Lager or Ales",
+		"name": "All Origin Hybrid/Mixed Lagers or Ales",
 		"sections": [{
 			"description": "Session Beers are the color of the classic beer style being made to lower strength.",
 			"filename": "10_01_session_beer",
@@ -1125,8 +1125,8 @@
 			"description": "Non-Alcoholic Malt Beverages are any range or color from very light to black.",
 			"filename": "10_34_non-alcoholic_malt_beverage",
 			"identifier": "ba_2020_non-alcoholic_malt_beverage",
-			"name": "Non-Alcoholic Malt Beverage",
-			"search-title": "BA 2020: Non-Alcoholic Malt Beverage",
+			"name": "Non-Alcohol Malt Beverage",
+			"search-title": "BA 2020: Non-Alcohol Malt Beverage",
 			"searchable": true
 		}]
 
@@ -1135,5 +1135,5 @@
 	"name": "BA 2020 Beer Style Guidelines",
     "shortName": "2020 Guidelines",
 	"url": "https://www.brewersassociation.org/educational-publications/beer-styles/",
-    "version": 1
+    "version": 2
 }

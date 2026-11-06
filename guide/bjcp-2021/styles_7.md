@@ -8,7 +8,7 @@ To assist with regrouping styles for other purposes, we have added informational
 | | session-strength | <4% ABV |
 | | standard-strength | 4-6% ABV |
 | | high-strength | 6-9% ABV |
-| | very-high-strength | 9% ABV |
+| | very-high-strength | >9% ABV |
 | Color |||
 | | pale-color | straw to gold | 
 | | amber-color | amber to copper-brown | 
@@ -16,9 +16,9 @@ To assist with regrouping styles for other purposes, we have added informational
 | Fermentation/Conditioning ||| 
 | | top-fermented | ale yeast |
 | | bottom-fermented | lager yeast |
-| | any-fermented | ale yeast or lager yeast |
+| | any-fermentation | ale yeast or lager yeast |
 | | wild-fermented | non-Saccharomyces yeast/bacteria |
-| | lagered | ale yeast or lager yeast |
+| | lagered | cold conditioned |
 | | aged | long conditioning before release |
 | Region of Origin |||
 | | british-isles | England, Wales, Scotland, Ireland |
@@ -26,6 +26,7 @@ To assist with regrouping styles for other purposes, we have added informational
 | | central-europe | Germany, Austria, Czech Republic, Scandinavia |
 | | eastern-europe | Poland, Baltic States, Russia |
 | | north-america | United States, Canada, Mexico |
+| | south-america | Argentina, Brazil |
 | | pacific | Australia, New Zealand |
 | Style Family |||
 | | ipa-family | |
@@ -51,11 +52,11 @@ To assist with regrouping styles for other purposes, we have added informational
 | | bitter | bitter-forward flavor |
 | | balanced | similar malt and bitter intensity |
 | | hoppy | hop flavor |
-| | roasty | roasted malt/grain |
+| | roasty | roasted malt or grain |
 | | sweet | noticeable residual sweetness or sugar flavor |
 | | smoke | flavor of smoked malt or grain |
 | | sour | noticeable sourness or intentionally elevated acidity |
 | | wood | wood or barrel age character |
-| | fruit | noticeable flavor and/or aroma of fruit |
-| | spice | noticeable flavor and/or aroma of spices |
+| | fruit | noticeable flavor or aroma of fruit |
+| | spice | noticeable flavor or aroma of spices |
 

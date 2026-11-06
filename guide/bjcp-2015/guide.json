@@ -542,12 +542,12 @@
     },
     {
       "index": "7",
-      "name": "7 Amber Bitter European Lager",
+      "name": "7 Amber Bitter European Beer",
       "sections": [
         {
           "filename": "7_intro",
           "identifier": "bjcp_2015_7_intro",
-          "name": "Amber Bitter European Lager Introduction",
+          "name": "Amber Bitter European Beer Introduction",
           "searchable": false
         },
         {
@@ -925,7 +925,7 @@
           "searchable": false
         },
         {
-          "description": "A dark, low-gravity, malt-focused British session ale readily suited to drinking in quantity. Refreshing, yet flavorful, with a wide range of dark malt or dark sugar expression",
+          "description": "A dark, low-gravity, malt-focused British session ale readily suited to drinking in quantity. Refreshing, yet flavorful, with a wide range of dark malt or dark sugar expression.",
           "filename": "13A",
           "identifier": "bjcp_2015_13a",
           "name": "13A Dark Mild",
@@ -1194,12 +1194,12 @@
     },
     {
       "index": "17",
-      "name": "17 Strong British Beer",
+      "name": "17 Strong British Ale",
       "sections": [
         {
           "filename": "17_intro",
           "identifier": "bjcp_2015_17_intro",
-          "name": "Strong British Beer Introduction",
+          "name": "Strong British Ale Introduction",
           "searchable": false
         },
         {
@@ -2312,7 +2312,7 @@
           "searchable": false
         },
         {
-          "description": "A smoke-enhanced beer showing good balance between the smoke, the beer character, and the added ingredients, while remaining pleasant to drink. Balance in the use of smoke, hops and malt character is exhibited by the better examples.",
+          "description": "A smoke-enhanced beer showing good balance between the smoke and beer character, while remaining pleasant to drink. Balance in the use of smoke, hops and malt character is exhibited by the better examples.",
           "filename": "32A",
           "identifier": "bjcp_2015_32a",
           "name": "32A Classic Style Smoked Beer",
@@ -2324,7 +2324,7 @@
           ]
         },
         {
-          "description": "A smoke-enhanced beer showing good balance between the smoke and beer character, while remaining pleasant to drink. Balance in the use of smoke, hops and malt character is exhibited by the better examples.",
+          "description": "A smoke-enhanced beer showing good balance between the smoke, the beer character, and the added ingredients, while remaining pleasant to drink. Balance in the use of smoke, hops and malt character is exhibited by the better examples.",
           "filename": "32B",
           "identifier": "bjcp_2015_32b",
           "name": "32B Specialty Smoked Beer",
@@ -2495,5 +2495,5 @@
   "name": "BJCP 2015 Style Guidelines",
   "shortName": "2015 Guidelines",
   "url": "http://www.bjcp.org",
-  "version": 1
+  "version": 4
 }

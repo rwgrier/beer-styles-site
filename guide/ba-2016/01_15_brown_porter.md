@@ -7,5 +7,5 @@ Brown Porters are dark brown (may have red tint) to very dark. Fruity-ester arom
 - OG: 1.040 - 1.050
 - FG: 1.006 - 1.014
 - IBUs: 20 - 30
-- SRM: 20 - 30
+- SRM: 20 - 35
 - ABV: 4.4 - 6.0%

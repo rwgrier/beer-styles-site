@@ -8,4 +8,4 @@ American-Style Black Ales are very dark to black. Low to medium caramel malt and
 - FG: 1.012 - 1.018
 - IBUs: 50 - 70
 - SRM: 35+
-- ABV: 5.0 - 6.0% 
+- ABV: 6.3 - 7.6% 

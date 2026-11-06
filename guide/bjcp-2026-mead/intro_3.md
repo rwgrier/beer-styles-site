@@ -1,0 +1,16 @@
+# Aroma and Flavor
+
+- The _**honey varietals**_ used may have a subtle to strong, variety-dependent character (floral, fruity, spicy, earthy, etc.) that is perceived in the aroma and flavor of the mead. Mead should not taste like a cocktail made with raw, unfermented honey. The intensity of the honey impression often increases with strength and sweetness.
+- In the wine world, aromatics are normally separated by origin – those derived from the ingredients, those derived from fermentation and conditioning, and those derived from aging. Mead judges may benefit from thinking similarly, understanding how the meadmaking process transforms raw ingredients into a finished product. The process-related bouquet often becomes more apparent in smaller, drier, or more delicate meads.
+- A clean fermentation profile is desirable in most styles, but this does not mean the total absence of _**yeast character**._ Yeast can add estery notes or may have a light, pleasant freshness; these are not faults. Aging on yeast can contribute light nutty, toasty, or bready notes.
+- Harsh chemical notes are undesirable. Unpleasant, stinky, dominating, or excessive sulfur is a fault, often indicating poor fermentation. Oxidation is undesirable in most styles (except those where extended aging is typical), and often presents as a dullness of intensity, muted overtone, or a nutty suggestion of sherry. However, a pleasant age character is desirable in many stronger meads.
+- The perceived residual _**sweetness**_ of the mead assists with categorization for judging purposes. Measured residual sugar or final gravity are not the only determining factors – tannin, acidity, starting gravity, alcohol, and other ingredients may alter this perception.
+    - **Dry:** FG 0.990 – 1.010. No perception of sweetness, but the perception does not need to be _bone dry_.
+    - **Semi-sweet:** FG 1.010 – 1.025. The perception is sweet but still balanced and refreshing. Also known as _medium_ sweetness.
+    - **Sweet:** FG 1.025 – 1.050. From definitely sweet to levels similar to dessert wines. Must not be syrupy, cloying, or tasting of raw, unfermented honey. Some regional styles and dessert meads can go above this level.
+
+  When judging, arrange samples in order of increasing sweetness and palate impact (including spiciness). Understand that sweetness can mask faults, so be more attentive to this in sweeter meads. Likewise, do not overly penalize dry meads for minor faults that may only be evident due to the lack of sweetness.
+- _**Acidity**_ is an essential element that balances sweetness, wets the palate, and gives a clean, lively, crisp, bright, juicy, refreshing impression without being puckering. Solventy or vinegary notes are undesirable faults. Sweetness without balancing acidity is flat and boring, and is described as _**cloying**_.
+- _**Tannin**_ supplies astringency, body, and sometimes bitterness, which contribute to balance, structure, and drinkability. Tannins can make a mead seem drier than residual sugar levels might suggest. Tannins may be perceived as ranging from soft, smooth, and velvety to hard, abrasive, and grippy.
+- _**Alcohol**_ may be noted in stronger examples as a light spiciness, not a sharp, solventy, harsh, or burning hot sensation.
+- Tannin and Acidity work together to balance sweetness, honey character, and alcohol.
